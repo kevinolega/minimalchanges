@@ -5,9 +5,7 @@ permalink: /about/
 ---
 About
 
-Minimal Changes is a small library of essays and blog posts written by <a href="http://kevinolega.com">Kevin Olega</a> about his experiences, stories, lessons and experiments. Head over <a href="http://minimalchanges.com">to the entrance</a> for my latest post or<a href="http://minimalchanges.com/archive"> to the archive </a>to pick a post.
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Callcentertraingtips
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jekyll" %} /

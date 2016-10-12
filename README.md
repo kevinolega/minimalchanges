@@ -1,2 +1,2 @@
-# minimalchanges
-Minimal Changes blog
+# Call Center Training Tips
+Call Center blog

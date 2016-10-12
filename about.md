@@ -3,9 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+<<<<<<< HEAD
 About
 
 Callcentertraingtips
+=======
+
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+>>>>>>> parent of 690772e... Corrected about and settings
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jekyll" %} /

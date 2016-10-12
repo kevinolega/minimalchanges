@@ -1,2 +1,2 @@
-# Call Center Training Tips
-Call Center blog
+# Minimal changes
+Minimal Changes blog.

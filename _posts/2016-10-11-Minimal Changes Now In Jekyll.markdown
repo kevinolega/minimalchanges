@@ -1,26 +1,25 @@
 ---
 layout: post
-title:  "Minimal Changes Now In Jekyll"
-date:   2016-10-11 17:51:46 +0800
-categories:
+title:  "Welcome to Jekyll!"
+date:   2016-10-02 17:51:46 +0800
+categories: jekyll update
 ---
-Minimal Changes started as a Wordpress blog but after several malware infections entering my server from some themes that I tested and forgot to delete, I decided it's time to take my blog to the next level.
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll is a simple tool.
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-You can use it to write your files in Markdown and it will generate a static website for you.
+Jekyll also offers powerful support for code snippets:
 
-Here's why Jekyll is more attractive to me compared to Wordpress:
-1. **Jekyll has no database**. That means a lighter footprint so Jekyll is expected to load faster.
-2. **Jekyll doesn't require a login**. I can only access it though my webserver.
-3. **My main writing tool is now Atom**. It's a text editor originally for programming but since it's not primarily a writing tool, it doesn't have the bells and whistles other writing tools I've used has and I'm not as distracted.
-4. **Jekyll accepts Markdown**. Most of the tools I used allow me to write in Markdown. I'll just email myself the blog post and I'll publish it on my computer when I get home.
-5. **Jekyll is free**. After all the trouble I've had, I'm actually willing to pay to get out of using Wordpress. Fortunately I ran into Jekyll through a fellow blogger and someone I greatly respect [Ev Bogue](http://evbogue.com).
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
 
-There's probably more things I can do with Jekyll that I haven't explored. After all, I'm new to using Jekyll.
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-This is more like an unboxing post and I'm extremely excited to see what Jekyll can do. Stick
-
-If you like Jekyll or you want to talk about it, feel free to send me a message.
-
-Thank you for reading.
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

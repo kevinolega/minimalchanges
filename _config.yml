@@ -11,7 +11,7 @@ author_gravatar:    b524e764fb5d81b963c620bc60cd8aaf # Gravatar md5 hash
 twitter_username:   kevinolega
 
 # Site Settings
-baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "/minimalchanges" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

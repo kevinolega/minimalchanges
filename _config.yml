@@ -30,7 +30,7 @@ github_username:  kevinolega
 >>>>>>> origin/master
 
 # Site Settings
-baseurl:            "http://minimalchanges.com" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "minimalchanges.com" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

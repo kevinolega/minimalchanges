@@ -1,2 +1,0 @@
-# minimalchanges
-Minimal Changes blog

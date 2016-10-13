@@ -4,11 +4,30 @@ description:        "Minimal Changes is Kevin Olega's personal blog about minima
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
+<<<<<<< HEAD
 # Author Info
 author_name:        "Kevin Olega"
 author_email:       minimalchanges@gmail.com
 author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
 twitter_username:   kevinolega
+=======
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: minimal changes
+email: minimalchanges@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Minimal Changes is Kevin Olega's about reducing the weight from your life through the application of minimalism, depression recovery and other lifehacks.
+baseurl: "" # the subpath of your site, e.g. /blog
+<<<<<<< HEAD
+url: "http://minimalchanges.com" # the base hostname & protocol for your site
+twitter_username: kevinolega
+github_username:  kevinolega
+=======
+>>>>>>> parent of 690772e... Corrected about and settings
+>>>>>>> origin/master
 
 # Site Settings
 baseurl:            "http://minimalchanges.com" # Base URL must end WITHOUT a slash, default: ""

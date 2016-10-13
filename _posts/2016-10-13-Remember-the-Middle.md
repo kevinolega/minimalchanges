@@ -1,3 +1,4 @@
+---
 layout: post
 title: Remember the Middle
 date: 2016-10-11 05:00
@@ -5,7 +6,7 @@ author: Kevin Olega
 comments: true
 categories: [Lessons]
 permalink: middle
-
+---
 
 > "We miss tasting the middle. We only taste the beginning and the end." - Andy Puddicombe (Founder of Headspace)
 

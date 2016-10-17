@@ -43,6 +43,6 @@ Happy, smart, useful.
 
 Slow thinking.
 
-Write a question about your problem then go to sleep.
+Write a question about your problem then go to sleep. You can actually death-note your subconsious mind into finding answers.
 
 Follow Tim Ferriss Deconstruction, Selection, Sequence, Stakes Meta-learning method.

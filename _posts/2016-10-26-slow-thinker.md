@@ -22,6 +22,8 @@ I did a [free Myer’s Briggs Personality test](https://www.16personalities.com/
 
 This discovery brings to my attention my tendency to debate and embarrassingly, aggressively argue with people with points of view that I’m unfamiliar with or disagree with. I’m insensitive, stubborn and I don’t give up.
 
+This is not a good combination.
+
 I put in a lot of effort into being polite and to use appropriate words in the situation but some moments cause me react to flow with emotions and I lose control over what I say.
 
 In terms of accepting new projects I also notice that I'm a slow learner. It takes me a while to pick up the task and I often make a lot of mistakes at the beginning. Despite that, I'm patient enought to put in the time and effort to study and practice until mastery.

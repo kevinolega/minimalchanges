@@ -68,4 +68,4 @@ Spend time on what makes you happy and less time on what makes you unhappy.
 
 This post is inspired by [Derek Sivers who already wrote about slow thinking](https://sivers.org/slow).
 
-![alt text](http://minimcalchanges.com/resources/turtle.png)
+![alt text](https://raw.githubusercontent.com/kevinolega/minimalchanges/master/resources/turtle.jpg)

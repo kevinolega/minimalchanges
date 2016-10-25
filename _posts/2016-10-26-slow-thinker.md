@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm Also A Slow Thinker
-date: 2016-10-26 24:24  
+date: 2016-10-26 21:24  
 author: Kevin Olega
 comments: true
 ---

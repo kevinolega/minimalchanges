@@ -45,4 +45,36 @@ Slow thinking.
 
 Write a question about your problem then go to sleep. You can actually death-note your subconsious mind into finding answers.
 
+It is for my benefit.
+
+Not in conflict.
+
+Chaos  and harmony.
+
+This is what it looks like.
+
+Happiness is required to achieve higher skill level.
+
+Not serious.
+
+Love and power.
+
+The opposite is also true.
+
+Can swing both ways.
+
+Internal reflects external.
+
+Fasting patience.
+
+Apply kindness to yourself.
+
+Lack of resources means lack of focus or priorities.
+
+96%
+
+
+
+
+
 Follow Tim Ferriss Deconstruction, Selection, Sequence, Stakes Meta-learning method.

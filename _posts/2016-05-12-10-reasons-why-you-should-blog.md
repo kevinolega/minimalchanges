@@ -99,9 +99,9 @@ Yeah that sucks. Next objective will be written and inspected in the future.
 
 **5. Improve your communication**. 
 
-My 2016 self and my 2011 self are worlds apart when it comes to communication. I
+My 2016 self and my 2011 self are worlds apart when it comes to communication. 
 
- found at least ten typing errors, incomplete thoughts and things that didn't make sense in each of the blog posts I review. 
+I found at least ten typing errors, incomplete thoughts and things that didn't make sense in each of the blog posts I review. 
 
 I'll have to go back and correct each of that. 
 
@@ -125,7 +125,9 @@ Oh yeah, and people often see you as an expert because ordinary people do not pr
 
 Because a person can visit a website that has your writing in it, you are now officially a public figure. 
 
-Now you have a good reason to act as if you're successful already. People look to you for what to do, for ideas, for inspiration. If often starts with one reader (in my case that's the girl in the story) now I have ten thousand visitors a month on all my blogs. 
+Now you have a good reason to act as if you're successful already. People look to you for what to do, for ideas, for inspiration. 
+
+If often starts with one reader (in my case that's the girl in the story) now I have ten thousand visitors a month on all my blogs. 
 
 Just so you know. I'm not perfect, far from it. 
 
@@ -145,11 +147,15 @@ People can find you on the Internet.
 
 You can share to people that you meet what you write about and if they're interested in the same thing then you're automatically closer. 
 
-I've been able to meet so many people simply because I introduced myself as a blogger. It got me jobs, made me friends, I've connected to strangers, answered questions and made dozens of new friends.
+I've been able to meet so many people simply because I introduced myself as a blogger. 
+
+Blogging got me jobs, made me friends, I've connected to strangers, answered questions and made dozens of new friends.
 
 **10. Do the same thing for your loved ones**. 
 
-If I could send a message back in time to my past self, I'd tell him to start a blog for important relationships in my life. I'm amazed at how my past self had reached me, got me my confidence, my strong unshakable belief in myself, my passion and energy. 
+If I could send a message back in time to my past self, I'd tell him to start a blog for important relationships in my life. 
+
+I'm amazed at how my past self had reached me, got me my confidence, my strong unshakable belief in myself, my passion and energy. 
 
 I would do one for my partner to remind her how much I love her the same thing for my mom, my younger brother and my future kid so I can leave instructions and lessons in case I die sooner than I intended. 
 

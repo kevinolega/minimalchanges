@@ -77,9 +77,9 @@ If you blog, you have a way of reflecting on how you've improved and make adjust
 
 **3. Refine your thoughts philosophy and strategy**.
 
-We generate and digest a combination of good ideas and bad ones. I
+We generate and digest a combination of good ideas and bad ones. 
 
-n order to be in control, we can take what is useful and discard what is useless. 
+In order to be in control, we can take what is useful and discard what is useless. 
 
 Over time we have some lists of ideas that work and doesn't work that we can refer to later.
 

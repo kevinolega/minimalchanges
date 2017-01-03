@@ -1,7 +1,7 @@
 ---
 layout: post
 title: December Reflection and Lessons
-date: 2016-12-29 16:59
+date: 2016-12-29
 author: Kevin Olega
 ---
 

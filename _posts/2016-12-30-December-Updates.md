@@ -1,12 +1,9 @@
-
 ---
 layout: post
 title: December Reflection and Lessons
-date: 2016-20-30 18:59
-permalink: /December2016/
+date: 2016-12-30 18:59
 author: Kevin Olega
 ---
-
 Hey there.
 
 I'm sorry I haven't been updating the blog recently.

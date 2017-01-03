@@ -7,7 +7,7 @@ author: minimalc
 Minimal Changes is a blog, a website, a small library that's intended for you to be quiet place for you to think, ask questions and try to improve your situation on your own.
 
 Minimal Changes is built by Kevin Olega to make his experiences, stories, lessons and writings available for your use. Head over <a href="http://minimalchanges.com">to the entrance</a> for my latest post or<a href="http://minimalchanges.com/archive"> to the archive </a>to pick a post.
-<div>
+
 
 <img class="alignnone" src="https://lh6.googleusercontent.com/-m-NzUDxVo2Q/TpKBQ25woKI/AAAAAAAAEC8/qdRoWIzIvWM/s288/c6b303940a264e91ab734e8d15217313_7.jpg" alt="" width="288" height="288" />
 
@@ -49,9 +49,5 @@ After slowing down, taking a long hard look at my life, I dropped all my side pr
 	<li>Financial Freedom - I got out of debt, spend less than I earn, have savings while I grow my income.</li>
 	<li>Slow and permanent growth. - it's different when you grow at your own pace and not just chasing after unnecessary, urgent deadlines all the time.</li>
 </ul>
-<div><span style="font-size: small;"><span class="Apple-style-span" style="line-height: 24px;">You can visit my home online at <a href="http://kevinolega.com">kevinolega.com</a></span></span></div>
-</div>
-</div>
-</div>
-</div>
+<span style="font-size: small;"><span class="Apple-style-span" style="line-height: 24px;">You can visit my home online at <a href="http://kevinolega.com">kevinolega.com</a></span></span>
 

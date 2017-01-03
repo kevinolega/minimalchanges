@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/ 
-author: minimalc
+author: Kevin Olega
 ---
 Minimal Changes is a blog, a website, a small library that's intended for you to be quiet place for you to think, ask questions and try to improve your situation on your own.
 
 Minimal Changes is built by Kevin Olega to make his experiences, stories, lessons and writings available for your use. Head over <a href="http://minimalchanges.com">to the entrance</a> for my latest post or<a href="http://minimalchanges.com/archive"> to the archive </a>to pick a post.
 
 
-![Kevin Olega Face](https://lh6.googleusercontent.com/-m-NzUDxVo2Q/TpKBQ25woKI/AAAAAAAAEC8/qdRoWIzIvWM/s288/c6b303940a264e91ab734e8d15217313_7.jpg" alt="" width="288" height="288" /)
+![Kevin Olega Face](https://lh6.googleusercontent.com/-m-NzUDxVo2Q/TpKBQ25woKI/AAAAAAAAEC8/qdRoWIzIvWM/s288/c6b303940a264e91ab734e8d15217313_7.jpg width="288" height="288" /)
 
 Hello and welcome.
 

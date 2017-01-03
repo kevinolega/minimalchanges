@@ -1,7 +1,6 @@
 ---
 layout: post
 title: December Reflection and Lessons
-date: 2016-12-29 18:59
 author: Kevin Olega
 ---
 Hey there.

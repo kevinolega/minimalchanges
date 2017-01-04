@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 author: Kevin Olega
+page.date: 2012-10-10 08:08:26
 published: true
 ---
 Minimal Changes is a blog, a website, a small library that's intended for you to be quiet place for you to think, ask questions and try to improve your situation on your own.

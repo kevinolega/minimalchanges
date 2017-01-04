@@ -23,7 +23,7 @@ twitter_username: kevinolega
 github_username:  kevinolega
 
 permalink: /:title/
-date: {{ site.time | date_to_string }}
+
 # Build settings
 markdown: kramdown
 theme: minima

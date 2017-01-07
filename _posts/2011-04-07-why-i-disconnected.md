@@ -4,7 +4,7 @@ title: Why I Disconnected
 date: 2011-04-07 06:49
 author: minimalc
 comments: true
-categories: [change phone numbers, disconnect to relax, disconnecting, dosconnect, facebook, george clooney, how much does your life weigh?, quit facebook, Relationships, up in the air, what's in your backpack]
+
 ---
 In the past few months after <a href="http://minimalchanges.com/my-minimal-changes-to-a-minimalist-lifestyle/">I started to live a minimalist lifestyle</a> to escape the complexities of modern day living, I <a href="http://minimalchanges.com/minimal-changes-to-achieving-what-matters-most/">reevaluated my life and my goals</a>, dropped projects, lived with less than 100 things, slowed down, started paring down on the unimportant, then I decided  do do a few things. The thing about my previous job is that I acumulated a lot of connections. Some connections were meaningful and some were taking my time and attention from the people important to me. So I decided to purge my contacts.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to: Turn Weakness into Strength
+title: How to Turn Weakness into Strength
 date: 2011-01-03 15:28
 author: minimalc
 comments: true

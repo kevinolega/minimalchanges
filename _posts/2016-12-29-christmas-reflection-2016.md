@@ -10,11 +10,13 @@ Hey there.
 I'm sorry I haven't been updating the blog recently.
 
 ### Here's what's new with me.
+
 - I quit my call center job and become a freelancer. I currently assist entrepreneurs by offloading time consuming tasks and representing them so they can run their buisiness using a chat app. I also ghost write for several educational and CrossFit blogs.
 - I have returned to going to CrossFit on a regular basis. This time I'm working out with the awesome crew of CrossFit Paranaque.
 - I have purchased a "Fixed Gear bike" and look forward to completing it's assembly by March or April of 2017.
 
 ### Recent wins:
+
 1. **40 pullups**. This includes kipping and jumping pullups.
 2. PR One Rep Max: Deadlift 265lbs
 3. PR One Rep Max: Back Squat 215lbs
@@ -40,6 +42,7 @@ I'm sorry I haven't been updating the blog recently.
 
 
 ### What I would do to make next month better:
+
 1. **Pray more consistently**. Include prayer when starting. I’m loading it to my Way of Life habit app.
 2. **Work on my mobility and flexibility**. My current challenge is limited mobility that prevents me from properly executing several weightlifting movements in CrossFit. I’ll need to get comfortable in a squat position and to do thirty overhead squats with a PVC pipe.
 3. **Take more naps**. My productivity and strategic acumen had been steadily decreasing due to low energy which I previously blamed on attitude or motivation.
@@ -49,6 +52,7 @@ I'm sorry I haven't been updating the blog recently.
 7. **Do the math on Google Spreadsheets before committing to anything**. I make my decisions impulsively quick. This time, I will ask people for time to run the numbers before deciding on anything. This includes going shopping without the cash. Asking people if I can get back to them before saying yes and so on.
 
 ### Habits I worked on along with challenges that I faced:
+
 1. **Go to CrossFit four days a week**. This was mostly successful. There were days when work got in the way but it didn’t exceed twice a week.
 2. **Stop eating out after the CrossFit workout**. Drink more water and nap instead. This was difficult for me but I managed to pull it off. My body can mistake the thirst for hunger.
 3. **Practice compassion at home**. It’s easy to freak out when people use words that I find offensive. When I was working in customer service I understood the situation and replaced the words to the necessary, objective and actionable alternative. I forget this a lot especially at home.
@@ -57,6 +61,7 @@ I'm sorry I haven't been updating the blog recently.
 6. **Keep my bed and my workspace neat**.
 
 ### Blessings I received:
+
 1. Seline
 2. Shoes from Dad.
 3. Family's health.
@@ -65,6 +70,7 @@ I'm sorry I haven't been updating the blog recently.
 6. Porno Shirt. Thanks Scott.
 
 ### Random Things I'm Grateful for:
+
 1. **I have an epic bag collection**. I have a Deuter Spider backpack, a Deuter light running backpack, a Deuter travel belt pack, A Deuter rear carrier bike bag, a Reebok gym bag, a small Reebok bag, two Reebok drawstring bags, a hiking bag, a laptop bag, three bag organizers and a grid it.
 2. **I have a kick ass shoe collection**. I was previously experiencing poverty shoe wise. I now have a CrossFit Nano 4 and a Nano 6. I have a Merrel running shoe and a hiking shoe and a pair of dress shoes.
 3. **I have a cooking show worthy kitchen**. I watched Jamie Oliver, Gordon Ramsay, Heston Blumenthal and have purchased about 60-70% of their recommended kitchen tools.
@@ -74,10 +80,13 @@ I'm sorry I haven't been updating the blog recently.
 7. **ArtGerm's Sketching Tutorial**. This is the video that got me to visualize the anatomy better. Hopefully this will improve my drawings some more.
 
 ### Upgrades I'm contemplating
+
 1. After writing the items I'm grateful for, the wouldn't it be nice if you had.. voices had stopped.
 
 ### What I'm reading:
+
 Taking a break from the usual blogs, Lifehacker ZenHabits and YouTube to focus on my writing.
+
 1. **Tools of Titans** by Tim Ferriss features the habits and routines and recommendations of billionaires top performers and super-stars.
 2. **Superbetter** by Jane McGonial explores how to use elements of games to improve your life.
 3. The Bible and How to Stop Worrying and Start Living are still in my room for some impulse reading.
@@ -99,6 +108,7 @@ Proverbs 14:31
 > "He who oppresses the poor taunts his Maker, But he who is gracious to the needy honors Him."
 
 ### Five useful lessons on the internet:
+
 1. [Testing The “Impossible”: 17 Questions That Changed My Life](http://fourhourworkweek.com/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/)
 2. [The Philosophy of DARTH VADER – Wisecrack Edition](https://www.youtube.com/watch?v=KJBbzmlSaxU&t=33s)
 3. [Sith Meditation Vs Jedi Meditation - Star Wars Explained](https://www.youtube.com/watch?v=baqXIvu-7EA&list=FL9B3QMqYayimBRnKpWqq8-Q&index=1min)
@@ -107,6 +117,7 @@ Proverbs 14:31
 
 
 ### Activities I enjoyed.
+
 1. Saw Star Wars Rogue One with Seline.
 2. Bike around Filinvest every Sunday.
 3. Saw Godzilla Resurgence. I liked it very much.
@@ -117,6 +128,7 @@ Proverbs 14:31
 8. Re:Zero. This is one of the best anime of 2016. I loved it. It’s unpredictable and touches you on so many levels. 9/10.
 
 ### Projects I'm procrastinating:
+
 1. Shortcut to Learning English for Call Center Training Tips Audience.
 2. Minimal Changes Manifesto.
 3. Cleaning up Papers at home.
@@ -137,6 +149,7 @@ I’m supposed to save some money by disconnecting my Spotify but Globe decided 
 ### Closing Thoughts.
 
 My December had been filled with three main activities.
+
 1. Bonding with Seline
 2. Freelance Work.
 3. CrossFit.

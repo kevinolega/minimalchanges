@@ -57,8 +57,8 @@ I'm sorry I haven't been updating the blog recently.
 2. **Stop eating out after the CrossFit workout**. Drink more water and nap instead. This was difficult for me but I managed to pull it off. My body can mistake the thirst for hunger.
 3. **Practice compassion at home**. It’s easy to freak out when people use words that I find offensive. When I was working in customer service I understood the situation and replaced the words to the necessary, objective and actionable alternative. I forget this a lot especially at home.
 4. **Treat your big ticket items like a business**. Two of the biggest items I spent on are my bikes and my computers. My bike helps me save money and my computer helps me make money. Buying a new one is inevitable and will cost me a significant amount of money however, after doing the math, I can instead throw in a small amount of money every time I use each of these items and  as a result, when the time comes when I would need to replace or repair these items, I already have the money or a portion of the money to contribute to buying the next one.
-5. **Use up my pens**. In the past year I spent close to Php 6,000 on pens. That’s approximately $150. This was when I was learning to draw. These are really nice pens. Half my drawers are filled with
-6. **Keep my bed and my workspace neat**.
+5. **Use up my pens**. In the past year I spent close to Php 6,000 on pens. That’s approximately $150. This was when I was learning to draw. These are really nice pens. Half my drawers are filled with pens. I promise myself to start using them instead of collecting them.
+6. **Keep my bed and my workspace neat**. How successful my day is depends on how neat my surroundings are. How my room and workspace looks reflects how my day will look.
 
 ### Blessings I received:
 

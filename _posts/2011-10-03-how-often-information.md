@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Often Should You Read books or Blogs, Go to Seminars or Church)
+title: How Often Should You Read Books Blogs Attend Seminars or Church
 date: 2011-10-03 11:00
 author: minimalc
 comments: true

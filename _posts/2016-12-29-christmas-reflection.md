@@ -99,11 +99,11 @@ Proverbs 14:31
 > "He who oppresses the poor taunts his Maker, But he who is gracious to the needy honors Him."
 
 ### Five useful lessons on the internet:
-[Testing The “Impossible”: 17 Questions That Changed My Life](http://fourhourworkweek.com/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/)
-[The Philosophy of DARTH VADER – Wisecrack Edition](https://www.youtube.com/watch?v=KJBbzmlSaxU&t=33s)
-[Sith Meditation Vs Jedi Meditation - Star Wars Explained](https://www.youtube.com/watch?v=baqXIvu-7EA&list=FL9B3QMqYayimBRnKpWqq8-Q&index=1min)
-[The Price of Happiness is Honesty Not Money](http://minimalchanges.com/the-price-of-happiness-is-honesty-not-money/)
-[10 Reasons Why You Should Blog](http://minimalchanges.com/10-reasons-why-you-should-blog/)
+1. [Testing The “Impossible”: 17 Questions That Changed My Life](http://fourhourworkweek.com/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/)
+2. [The Philosophy of DARTH VADER – Wisecrack Edition](https://www.youtube.com/watch?v=KJBbzmlSaxU&t=33s)
+3. [Sith Meditation Vs Jedi Meditation - Star Wars Explained](https://www.youtube.com/watch?v=baqXIvu-7EA&list=FL9B3QMqYayimBRnKpWqq8-Q&index=1min)
+4. [The Price of Happiness is Honesty Not Money](http://minimalchanges.com/the-price-of-happiness-is-honesty-not-money/)
+5. [10 Reasons Why You Should Blog](http://minimalchanges.com/10-reasons-why-you-should-blog/)
 
 
 ### Activities I enjoyed.

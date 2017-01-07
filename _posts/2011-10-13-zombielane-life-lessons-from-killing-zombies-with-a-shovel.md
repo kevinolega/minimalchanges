@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zombielane: Life Lessons From Killing Zombies With A Shovel
+title: Zombielane Life Lessons From Killing Zombies With A Shovel
 date: 2011-10-13 11:00
 author: minimalc
 comments: true

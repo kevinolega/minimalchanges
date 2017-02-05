@@ -16,9 +16,34 @@ I wouldn't want that so I stopped. Cold turkey. Just like <a href="http://minima
 
 Spamming happens because we're afraid of rejection, of failure. We deliver large numbers so we don't hear the "no's" and as a result we'd rather be ignored.
 
-There's always a better way. I know there are more but here are a few that I use and recommend:
-Listen - sometimes your best ideas aren't brought out because you're spamming your current one.
-Be specific - getting what you want achieved is the goal and not pleasing everybody. There are a few important people who want and need to hear your message. Get it across by speaking their language. They have to get it and not everybody.
-Get the no's as a no and see if you can do better when you try something else. I use the spam strategy when I don't want to feel the no's. Getting rejected doesn't feel painful in reality it's just my fear that's making things painful. Come on, say it! "I'm rejected and it feels very painful!" Afterwards I go yeah right. See what I mean? It's harmless.
+There's always a better way. 
+
+I know there are more but here are a few that I use and recommend:
+
+**Listen** 
+
+Sometimes your best ideas aren't brought out because you're spamming your current one.
+
+**Be specific**  
+
+Getting what you want achieved is the goal and not pleasing everybody. 
+
+There are a few important people who want and need to hear your message. 
+
+Get it across by speaking their language. 
+
+They have to get it and not everybody.
+
+Get the no's as a no and see if you can do better when you try something else. 
+
+I use the spam strategy when I don't want to feel the no's. 
+
+Getting rejected doesn't feel painful in reality it's just my fear that's making things painful. 
+
+Come on, say it! "I'm rejected and it feels very painful!" 
+
+Afterwards, I go yeah right. It's not as painful as it looks. 
+
+See what I mean? It's harmless.
 
 What's your strategy to go beyond spamming?

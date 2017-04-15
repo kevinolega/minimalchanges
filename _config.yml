@@ -1,29 +1,26 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: minimal changes  
-email: minimalchanges@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Minimal Changes is Kevin Olega's personal blog about learning, recovery and lifehacks.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://minimalchanges.com" # the base hostname & protocol for your site
-twitter_username: kevinolega
-github_username:  kevinolega
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
 
-permalink: /:title/
+# Setup
+title:            Minimal Hyde
+tagline:          'Personal Blog of Kevin Olega'
+description:      'Minimal Changes is Kevin Olega's personal blog about learning, recovery and lifehacks.'
+url:              http://minimalchanges.com
+baseurl:          /
 
-# Build settings
-markdown: kramdown
-theme: minima
+author:
+  name:           'Kevin Olega'
+  url:            https://twitter.com/kevinolega
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/kevinolega

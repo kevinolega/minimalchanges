@@ -12,6 +12,9 @@ url: "http://minimalchanges.com"
 minima:
   date_format: "%b %-d, %Y"
 
+# Tracker
+analytics: UA-18631092-1
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:

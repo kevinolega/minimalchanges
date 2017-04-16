@@ -2,6 +2,7 @@
 layout: post
 title: Not Serious
 date: 2016-10-30 18:59
+comments: true
 permalink: /serious/
 author: Kevin Olega
 ---

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: WOD From Home
-permalink: /wod/
+permalink: /wod
 author: Kevin Olega
 page.date: 2012-10-10 08:08:26
 published: true
 ---
+
 Sometimes I can't go to the gym because I have work or other commitments so I try to work out at home.
 
 The other reason is I spend a lot of time browsing for cool CrossFit gear, bike and other fitness toys. Every now and then I splurge on a fitness toy but the truth is it's just stuck here at the house collecting dust.

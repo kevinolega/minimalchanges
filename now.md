@@ -17,7 +17,7 @@ Minimal Changes is about:
 
 Current Minimal Changes
 
-**Journal** 
+### Journal
 
 First thing in the morning and before sleeping as part of deloading.
 This is really important. Having things written down enables me to focus and leave things alone.
@@ -36,7 +36,7 @@ I'm still trying to figure this out but these work well so far.
 
 I do my best to start my day and end my day with the journal. Hopefully this will improve my writing. 
 
-**Don't Push Past Exhaustion**
+### Don't Push Past Exhaustion
 
 I have a fantasy of myself as a warrior that will fight even if I'm the last man standing. I try to emulate real and fictional characters who never give up.
 

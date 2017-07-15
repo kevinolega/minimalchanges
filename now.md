@@ -62,3 +62,6 @@ Today I deadlifted 300lbs. When I started I can barely lift the 45lb barbell. Th
 5. I recently found myself reverting to my depressed state. 
 6. I fail to meditate, pray, practice gratitude, drink water, get enough sleep or do my breathing exercises.
 7. I accumulated a shitload of digital and paper clutter.
+
+
+#### Last updated: July 16, 2017

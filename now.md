@@ -17,25 +17,6 @@ Minimal Changes is about:
 
 Current Minimal Changes
 
-### Journal
-
-First thing in the morning and before sleeping as part of deloading.
-This is really important. Having things written down enables me to focus and leave things alone.
-
-I use a modified version of the bullet journal.
-
-- I use a bullet to write down thoughts.
-- I use a circle to record events.
-- I use a square as a checkbox.
-- Every now and then I just write a question and fill it in.
-- I use two journals. One is for tasks and quick thoughts and the other one is for deep thoughts and my monthly planning. 
-- Every now and then I ask myself the questions from the five minute journal.
-- I also write down some workout notes or good things that happend today.
-- I try to record important stuff to Day One.
-I'm still trying to figure this out but these work well so far.
-
-I do my best to start my day and end my day with the journal. Hopefully this will improve my writing. 
-
 ### Don't Push Past Exhaustion
 
 I have a fantasy of myself as a warrior that will fight even if I'm the last man standing. I try to emulate real and fictional characters who never give up.

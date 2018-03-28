@@ -21,17 +21,27 @@ Bullshit reasons aside, just read through this post and find out more.
 
 **Some context**
 
-I've hit my rock bottom. In 2005 I met a girl who became my partner in crime and we set out to conquer the world together. Six years of cliché romantic comedy/porno ensues. 
+I've hit my rock bottom. 
 
-I started getting promoted at work, building an audience with my blog and things were getting better and she left me in 2011 the same year we intended to get married. 
+In 2005 I met a girl who became my partner in crime and we set out to conquer the world together. 
+
+Six years of cliché romantic comedy/porno ensues. 
+
+I started getting promoted at work, building an audience with my blog and things were getting better then she left me in 2011. 
+
+The same year we intended to get married. 
 
 This destroyed me. 
 
-I lost my confidence, my career, the savings, shattered my faith, my purpose and most of everything else I worked hard for in the six years we were together. 
+I lost my confidence, my career, the savings, my faith shattered, my purpose and most of everything else I worked hard for in the six years that we were together. 
 
-My life was filled with self doubt and second guessing which attracted people who intend to take advantage of me. 
+My life was filled with self doubt and second guessing and as a result, I had attracted people who intend to take advantage of me. 
 
-I tried to win her back for two years. I failed. She got married, I sank even further. 
+I tried to win her back for two years. 
+
+I failed. 
+
+She got married, I sank even further. 
 
 I spent the whole of 2015 trying to recover. 
 
@@ -57,7 +67,7 @@ My 2016 self had the results but my 2011 self had the attitude.
 
 If you were to compare the two versions of myself both envy each other. 
 
-As I got to read more of my old posts, I felt my confidence trickle back and so did my energy and I'm writing this post right now. 
+As I got to read more of my old posts, I felt some of my confidence trickle back and so did my energy and I'm writing this post right now. 
 
 I also took note that the depression had stopped affecting me since I started writing this post.
 
@@ -81,33 +91,37 @@ We generate and digest a combination of good ideas and bad ones.
 
 In order to be in control, we can take what is useful and discard what is useless. 
 
-Over time we have some lists of ideas that work and doesn't work that we can refer to later.
+I ripped off that line from Bruce Lee but the truth is, that's what we do every day. We pick up lessons that will help us and work on letting go of bad habits and wrong ideas that hurt us.
+
+When you write things down, over time you will have some lists of ideas that work and doesn't work that you can refer to later on.
 
 **4. Hold yourself accountable**.
+
+Whenever I read my blog, I find myself asking myself the following questions.
 
 Did I keep my promises? 
 
 Did I accomplish my goals?
 
+The answer is often.
+
 Yeah, some of it. 
 
-I won a few and failed at the others. 
+I won a few victories and failed at many of the other attepmts. 
 
 I got all my gadget goals but failed to marry the girl in the intro story. 
 
-Yeah that sucks. Next objective will be written and inspected in the future.
+Yeah that sucks. But as I keep writing lists and goals, I find that the next objective I have written will inevitably be inspected in the future and as a result, I also find myself, gravitating toward my written targets.
 
 **5. Improve your communication**. 
 
 My 2016 self and my 2011 self are worlds apart when it comes to communication. 
 
-I found at least ten typing errors, incomplete thoughts and things that didn't make sense in each of the blog posts I review. 
+I found at least ten typing errors, incomplete thoughts and things that didn't make sense at each of the blog posts that I reviewed. 
 
-I'll have to go back and correct each of that. 
+I'll have to go back and correct what I find. 
 
-As I write and revisit an idea, I often discover a better way of saying what I mean because I consistently ask myself "How can I say it better?" 
-
-Over time I got really effective.
+As I write and revisit an idea, I often discover a better way of saying what I meant because I consistently ask myself the question "How can I say it better?" 
 
 **6. Establish credentials**. 
 
@@ -117,29 +131,31 @@ You have ideas, many of them aren't that good but some are.
 
 Some will be discarded, some will be smart, some will be useful and some will make you happy. 
 
-These are things that have value and can remind you of your value on your darkest days. 
+These ideas have value to you (and others) and can remind you of your ability to create value on your darkest days. 
 
-Oh yeah, and people often see you as an expert because ordinary people do not practice documentation of the results of their self experiments and what they learned.
+Oh yeah, and people often see you as an expert because ordinary people do not practice documentation of their their self experiments, results and what they have learned.
 
 **7. Your brings out better versions of yourself**. 
 
-Because a person can visit a website that has your writing in it, you are now officially a public figure. 
+Because a stranger can visit a website that has your writing in it, you are now officially a public figure. 
 
 Now you have a good reason to act as if you're successful already. People look to you for what to do, for ideas, for inspiration. 
 
-If often starts with one reader (in my case that's the girl in the story) now I have ten thousand visitors a month on all my blogs. 
+If often starts with one reader (in my case I'm referring to the girl in the story) now I have ten thousand visitors a month on all my blogs. 
 
 Just so you know. I'm not perfect, far from it. 
 
-What I'm trying to say is with my blog, I have the opportunity to put my best foot forward and take another step if my bad side shows and another step to bring my best back because after all it's both my feet.
+What I'm trying to say is with my blog, I have the opportunity to put my best foot forward and take another step if my bad side shows and another step to bring my best self back because after all it's both my feet.
 
 **8. It helps you discover your talents**. 
 
 Some of the things you try will work and some won't. 
 
-The blog can be a logbook of your personal experiments. It showed mine. 
+The blog can be a logbook of your personal experiments. 
 
-Some were embarrassing and some were amazing.
+My blog showcases mine. 
+
+Some posts are embarrassing and some are amazing.
 
 **9. It connects you to people**. 
 
@@ -147,13 +163,13 @@ People can find you on the Internet.
 
 You can share to people that you meet what you write about and if they're interested in the same thing then you're automatically closer. 
 
-I've been able to meet so many people simply because I introduced myself as a blogger. 
+I have been able to meet so many people simply because I introduced myself as a blogger. 
 
-Blogging got me jobs, made me friends, I've connected to strangers, answered questions and made dozens of new friends.
+Blogging got me jobs, made me friends, I've connected to strangers, answered questions and made dozens of new friends in real life.
 
 **10. Do the same thing for your loved ones**. 
 
-If I could send a message back in time to my past self, I'd tell him to start a blog for important relationships in my life. 
+If I could send a message back in time to my past self, I'd tell Kevin to start a blog for important relationships in my life. 
 
 I'm amazed at how my past self had reached me, got me my confidence, my strong unshakable belief in myself, my passion and energy. 
 

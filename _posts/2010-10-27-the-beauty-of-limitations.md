@@ -12,7 +12,7 @@ categories: [Confidence and Moving Forward, The Self]
 
 <em>Bernard: You bet I will!</em>
 
-<em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
+<em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
 
 Muay Thai (Thai Kickboxing) is considered to be among the deadliest martial art simply because it is an art that had embraced its limitations. Here are things I observed:
 <ul>

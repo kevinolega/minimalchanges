@@ -11,7 +11,7 @@ categories: [Confidence and Moving Forward, How To, superpowers]
 
 <em>You: So where do I sign?</em>
 
-<em><em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em></em>
+<em><em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em></em>
 
 If you’re a natural leader you just lead yourself where you want to go. If you’re more comfortable as a follower or as a support person. Its a bit hard to go out on your own. It’s okay.
 

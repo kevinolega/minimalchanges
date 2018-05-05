@@ -22,7 +22,7 @@ That's the reason why I decided to show up on the web everyday. I already do on 
 
 My fear starts another conversation and says but what if your work isn't perfect yet. I have a feeling you get that conversation in your head too.
 
-Well, the goal is progress and not perfection. That's why I'm pushing publish as soon as I can. My work will get better as I show up everyday. <a href="http://minimalchanges.com/archives">Head over to the archives</a> and checkout my older posts and see how I've changed. There's a reason why I put that there.
+Well, the goal is progress and not perfection. That's why I'm pushing publish as soon as I can. My work will get better as I show up everyday. <a href="http://minimalchanges.com">Head over to the archives</a> and checkout my older posts and see how I've changed. There's a reason why I put that there.
 
 Looking at the archives I learned that all my current strengths are last years major frustrations so with that in mind I figured that even if I don't stress myself, goals will be accomplished and my situation will be better and the only faster way I know to improve is to show up so that's what I'm doing.
 

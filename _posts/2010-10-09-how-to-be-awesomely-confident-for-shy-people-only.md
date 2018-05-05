@@ -11,7 +11,7 @@ categories: [Confidence and Moving Forward, popular, The Self]
 
 <em>And to think I used to be such a shy bastard.</em>
 
-<strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a>
+<strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a>
 
 When I started college, I didn’t know what course to pick. I didn’t know what career path to follow. I didn’t know what kind of life I want. Like everyone else at my level back then I let my parents decide.
 

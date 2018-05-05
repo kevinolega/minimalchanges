@@ -56,4 +56,4 @@ If for any reason I was unable to explain properly how I did it. Hit me up on tw
 
 How was your year? And what are you hoping for for next year?
 <h4><strong>You Might Also like:</strong></h4>
-<a href="http://minimalchanges.com/archives/">The Archives.</a>
+<a href="http://minimalchanges.com/">The Archives.</a>

@@ -9,7 +9,7 @@ categories: [minimalism, popular, Well Roundedness and Balance]
 <a title="Light eating Dark clouds by Kevin Olega, on Flickr" href="http://www.flickr.com/photos/53983089@N04/5053683448/"><img src="http://farm5.static.flickr.com/4129/5053683448_9f185138fe.jpg" alt="Light eating Dark clouds" width="360" height="480" /></a>
 What do you do now that you have a clean slate?
 
-Post written by <a href="http://minimalchanges.com/blog/about">Kevin Olega</a>. Follow me on <a href="http://twitter.com/kevinolega">twitter.</a>
+Post written by <a href="http://minimalchanges.com/about">Kevin Olega</a>. Follow me on <a href="http://twitter.com/kevinolega">twitter.</a>
 
 Minimalism has several advantages. It makes your journey more enjoyable because you take things slower and that you carry a lighter load. It allows room for opportunities you care about because your time and effort are no longer spent on unnecessary ventures and pursuits.
 

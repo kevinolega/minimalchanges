@@ -10,7 +10,7 @@ categories: [Efficient Light and Fast, How To]
 
 <em>My major goal for 2009 just took me a bit of saving up.</em>
 
-<em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
+<em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
 
 My friend asked me recently about  the secret of career success so he can gain financial success. He makes a lot more than me but I think he’s asking me because I have a lot of experience working on projects for extra income and had worked as a financial planner.
 
@@ -28,4 +28,4 @@ Its not the job. Its how the money is handled. Did you notice that rich people a
 
 I’m starting to and maybe you should too.
 
-If you’re worried or you have questions on what I’m doing ask them here or on my <a href="http://minimalchanges.com/blog/contact-me/">contact page</a>, I’ll try to answer them.
+If you’re worried or you have questions on what I’m doing ask them here or on my <a href="http://minimalchanges.com/contact">contact page</a>, I’ll try to answer them.

@@ -10,7 +10,7 @@ categories: [Confidence and Moving Forward, The Self]
 
 <em>Bring It</em>
 
-<em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
+<em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
 
 <em>You don’t really find someone get into a fatal accident doing crazy things. When you watch the news it’s usually some overcautious guy who ends up in situations like that.</em>
 

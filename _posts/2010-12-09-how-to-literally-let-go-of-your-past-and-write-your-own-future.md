@@ -11,7 +11,7 @@ categories: [Confidence and Moving Forward, superpowers]
 <a title="Photo-0046 by Kevin Olega, on Flickr" href="http://www.flickr.com/photos/kevinolega/5125153521/"></a><em>This is where I really want to be. That’s why I’m dropping my baggage and moving forward.</em>
 <strong></strong>
 
-<strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a>
+<strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a>
 
 When you look at yourself for areas to improve its easy to dwell into past hurts, failures, events of regret which would lead to bitterness or worse, paralysis.
 

@@ -55,7 +55,7 @@ This is what it looks like.
 
 Happiness is required to achieve higher skill level.
 
-**[Not serious](http://kevinolega.com/serious)**. Be sincere instead of serious. Put in a gentle focus and playful effort instead of your maximum effort. The performance boost is only 4% and is not worth it.
+**Not serious**. Be sincere instead of serious. Put in a gentle focus and playful effort instead of your maximum effort. The performance boost is only 4% and is not worth it.
 
 Love and power.
 

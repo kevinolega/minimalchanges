@@ -9,7 +9,7 @@ categories: [Confidence and Moving Forward, The Self]
 <a title="mac desk by Kevin Olega, on Flickr" href="http://www.flickr.com/photos/kevinolega/5119314583/"><img src="http://farm5.static.flickr.com/4030/5119314583_dd55b193cf.jpg" alt="mac desk" width="493" height="375" /></a>
 <em>Do I really need this before I move forward?</em>
 
-<em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
+<em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
 
 <em>Fear not the weapon but the hand that wields it! – Ninja Assassin (2009)</em>
 

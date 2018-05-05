@@ -10,7 +10,7 @@ If you're used to being productive you enjoy the exhilarating feeling from movin
 
 Sometimes we get stuck or stopped in our tracks. Many recommend that we push past pain and break through. 
 
-I realize I've been doing this a few days ago and I'm not really moving forward. All my ideas are now just one sentence quotes and my plans are just plans and I don't feel like taking action despite <a href="http://kevinolega.com/why-keep-goals-secret/">keeping things secret</a>. 
+I realize I've been doing this a few days ago and I'm not really moving forward. All my ideas are now just one sentence quotes and my plans are just plans and I don't feel like taking action despite keeping things secret. 
 
 <strong>What now?
 </strong>

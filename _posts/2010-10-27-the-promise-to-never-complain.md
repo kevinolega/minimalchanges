@@ -10,7 +10,7 @@ categories: [Confidence and Moving Forward, The Self]
 
 <em>It’s going to rain. You have a date and you don’t have an umbrella. What are you going to do?</em>
 
-<em><em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em></em>
+<em><em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em></em>
 
 When you try yo make the most by <a href="http://minimalchanges.com/blog/do-what-you-can-use-what-you-hav/">using what you have and doing what you can</a> you already stepped into a new level of self-mastery where your creativity, perseverance and mental endurance are greatly enhanced.
 

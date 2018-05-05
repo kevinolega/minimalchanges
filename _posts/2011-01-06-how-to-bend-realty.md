@@ -8,7 +8,7 @@ categories: [Confidence and Moving Forward, How To, superpowers]
 ---
 <img src="http://minimalchanges.com/blog/wp-content/uploads/2010/12/163011_1487660308149_1133173325_31062706_7646353_n.jpg" alt="310" />
 
-<em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
+<em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
 
 Many people say that the grass is greener on the other side. Unfortunately wherever you go you bring yourself with you. So whatever happens in your life that’s crappy its probably because you brought it to your life and until you change things don’t change.
 

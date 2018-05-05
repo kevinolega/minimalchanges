@@ -9,7 +9,7 @@ categories: [Uncategorized]
 Work on yourself starting from <a href="http:minimalchanges.com">minimal changes</a>. 
 Use my ideas and profit from it. 
 Learn something that helped you cope with a personal crisis. 
-<a href="http://minimalchanges.com/archives">Find something that inspires you</a> during a bad day. <a href="http://minimalchanges.com/you-are-royalty-act-like-it/"> Get reminded of your value</a> because I believe in you. 
+<a href="http://minimalchanges.com">Find something that inspires you</a> during a bad day. <a href="http://minimalchanges.com/you-are-royalty-act-like-it/"> Get reminded of your value</a> because I believe in you. 
 Smile. 
 Buy a product or service I recommend that you could use. 
 Like this or share this in your social network. 

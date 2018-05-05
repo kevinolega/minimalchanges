@@ -13,7 +13,7 @@ categories: [Efficient Light and Fast, minimalism]
 
 One on One is not just for fighting.
 
-Post written by<a href="http://minimalchanges.com/blog/about"> Kevin Olega</a>. Follow me on<a href="http://twitter.com/kevinolega"> twitter.</a>
+Post written by<a href="http://minimalchanges.com/about"> Kevin Olega</a>. Follow me on<a href="http://twitter.com/kevinolega"> twitter.</a>
 <a href="http://twitter.com/kevinolega"></a>
 How to Deal with Life’s Multiple Attackers
 

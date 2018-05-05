@@ -10,7 +10,7 @@ categories: [How To, Well Roundedness and Balance]
 
 <em>This is me on another long-range bus ride. The person I’m meeting at the end of the ride makes the trip worth it.</em>
 
-<em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
+<em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
 
 Two weeks ago, I wrote <a href="http://minimalchanges.com/blog/the-sweetness-of-doing-nothing/">The Sweetness of Doing Nothing</a> where I shared how I spent a weekend awesomely bumming around at my best friends house. Last week, I spent the weekend visiting my Grandma which was fantastic. I spent time talking to her and we did watch one TV show where she revealed to me that my other grandmother’s late older brother, <a href="http://en.wikipedia.org/wiki/Rogelio_de_la_Rosa">Rogelio De La Rosa</a> was a film star during her childhood days and was the star of the first “<a href="http://en.wikipedia.org/wiki/Maalaala_Mo_Kaya">Maalaala mo kaya</a>” film. I listened to her talk about how cool it was for her to find out that her grandchild was the descendant of her favorite celebrity. The statement didn’t mean much to me but it sure was great to just spend time with her and listen to her stories.
 

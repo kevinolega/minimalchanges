@@ -10,7 +10,7 @@ categories: [Confidence and Moving Forward, How To, superpowers]
 
 <em>Superpowers are effective and there’s a good reason why I stopped using them while eating.</em>
 
-<strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a>
+<strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a>
 
 <strong>A lot of times we hate doing something because we’re afraid we might suck at it. Too often the things we don’t like to do might be the only keeping us from getting where we want to go. In fact no matter how much we think we suck at it we can develop it. Maybe it’s selling, communicating better, organizing, prospecting you name it. Instead of thinking about it as something you’re not good at think of it as a super power.
 Here are fun similarities between you and people with superpowers.</strong>

@@ -12,7 +12,7 @@ categories: [Confidence and Moving Forward, How To]
 
 <em>-Kevin (procrastinating)</em>
 
-<em><em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em></em>
+<em><em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em></em>
 
 Where I come from it is a common saying that I only want the simple life. I don’t need a grand life to be happy. Yet a lot of people do voice out their dissatisfaction with work, income and life in general. It is a common sight for people to take 2 or more jobs ot to work a job they don’t want to gain a higher income and more often than not you hear people say <strong>I want the simple life, then I’ll be happy, then they work jobs they hate and buy stuff they don’t need.</strong>
 

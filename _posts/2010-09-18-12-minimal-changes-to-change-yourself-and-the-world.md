@@ -9,7 +9,7 @@ categories: [Confidence and Moving Forward, minimalism]
 <a title="Batangas Sun Set28-12-06-1710 by Kevin Olega, on Flickr" href="http://www.flickr.com/photos/53983089@N04/5053683494/"><img src="http://farm5.static.flickr.com/4105/5053683494_321722392a.jpg" alt="Batangas Sun Set28-12-06-1710" width="375" height="500" /></a>
 With faith anything can be done
 
-Post written by<a href="http://minimalchanges.com/blog/about"> Kevin Olega</a>. Follow me on<a href="http://twitter.com/kevinolega"> twitter.</a>
+Post written by<a href="http://minimalchanges.com/about"> Kevin Olega</a>. Follow me on<a href="http://twitter.com/kevinolega"> twitter.</a>
 
 I’m from the Philippines and we just had our election. This is one of the posts that I’m sure is not for everyone, but I’ll write it anyway. Frankly, I’m disappointed because the situation hasn’t improved and people don’t really care what happens to the country.  Save a small group of people, everyone else seems to be apathetic about the situation. As long as they are unaffected by negative <strong>changes</strong>, most people don’t care. I have to admit. Listening to election speeches sure got me excited. I don’t know about you but have you ever experienced being promised something bit later on realized that sweet words were said to you simply because the person needed your support at the moment?
 

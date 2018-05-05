@@ -15,7 +15,7 @@ I feel good buying things that I like. These can be clothes, gadgets, shoes, bag
 
 I developed habits to prevent myself from overspending and I feel like I've developed a balance for being happy for buying what I want without excess.
 
-If you're interested in learning what I do you're free to read on. This post will be very short. If not, feel free to <a href="http://minimalchanges.com/archives">go over the archives</a>. The next post will come out sooner than you think.
+If you're interested in learning what I do you're free to read on. This post will be very short. If not, feel free to <a href="http://minimalchanges.com">go over the archives</a>. The next post will come out sooner than you think.
 
 Whenever I'm in a buying mood I ask myself:
 

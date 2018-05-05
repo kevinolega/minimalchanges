@@ -18,4 +18,4 @@ I'm trying to forget about my rights to stay okay.
 
 My old mentor taught me that every time I'm stuck, I should always remember that:
 <blockquote>The answer is always there, you just haven't found it yet.</blockquote>
-I'm looking for my answers so I'll be disappearing for a while. Sometimes I forget that a few hundred people will see this later when I hit publish. Just head over to <a href="http://minimalchanges.com/archives">my archives</a> or hit me up on <a href="http://twitter.com/kevinolega">twitter</a> if you need anything.
+I'm looking for my answers so I'll be disappearing for a while. Sometimes I forget that a few hundred people will see this later when I hit publish. Just head over to <a href="http://minimalchanges.com">my archives</a> or hit me up on <a href="http://twitter.com/kevinolega">twitter</a> if you need anything.

@@ -10,7 +10,7 @@ categories: [Confidence and Moving Forward, How To, superpowers]
 
 <em>I copied this move from watching Naruto</em>
 
-<em><em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em></em>
+<em><em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em></em>
 When I was a kid I loved super heroes. A cool ability I saw was from<a href="http://marvel.wikia.com/Rogue_(Anna_Marie)_(Earth-616)"> Rogue </a>of the X-Men where she can absorb and gain the super-powers of anyone she touches. She can absorb multiple powers at the same time so if you’re having a hard time deciding if you want <a href="http://marvel.wikia.com/James_Howlett">Wolverine</a>’s super regeneration ability or<a href="http://marvel.wikia.com/Remy_LeBeau_(Earth-616)">Gambit</a>’s blow everything you touch and turn anything into a grenade ability or <a href="http://marvel.wikia.com/Max_Eisenhardt_(Earth-616)">Magneto</a>’s make any metal fly in any direction then this is the power for you. The downside is that she has to get close to you and touch you first. Then at the same time she’ll absorb your life-fore as well as your memories and you’ll be unconscious and lose your powers. Finally the effects are temporary.
 Later on I saw a concept from Naruto that totally kicks ass. Its called the Sharingan copy ability. Here are some fun facts about this ability:
 <ul>

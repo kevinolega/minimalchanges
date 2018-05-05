@@ -8,7 +8,7 @@ categories: [Confidence and Moving Forward, superpowers]
 ---
 <a rel="attachment wp-att-572" href="http://minimalchanges.com/welcome-to-minimal-changes-2010/424-revision-33/"><img title="Playing around with helmet and umbrella" src="http://minimalchanges.com/blog/wp-content/uploads/2010/12/Playing-around-with-helmet-and-umbrella.jpg" alt="" width="540" height="720" /></a>
 
-<em><em><strong>Post written by </strong><a href="http://minimalchanges.com/blog/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em></em>
+<em><em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em></em>
 <div>Want to take what you’re doing up another notch? <strong>Just play with it.</strong></div>
 <div><strong>
 </strong></div>

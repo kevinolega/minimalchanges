@@ -15,7 +15,6 @@ categories: [Efficient Light and Fast, tech, tools]
 	<li><a href="http://todo.ly">todo.ly</a></li>
 	<li><a href="http://www.43folders.com/2004/09/03/introducing-the-hipster-pda">hipsterPDA</a></li>
 	<li><a href="http://gottcode.org/focuswriter/">focuswriter</a></li>
-	<li><a href="http://www.quietwrite.com/">quiet write</a></li>
 	<li><a href="http://portableapps.com/">portableapps</a> (whenever possible every app in my laptop is a portable version)</li>
 	<li>I try out new tools regularly who claim to be a minimalist tool.</li>
 </ul>

@@ -10,7 +10,7 @@ categories: [Efficient Light and Fast, minimalism]
 
 No matter how important or beautiful we think anything is, we must realize that everything is temporary
 
-Post written by<a href="http://minimalchanges.com/blog/about"> Kevin Olega</a>. Follow me on<a href="http://twitter.com/kevinolega"> twitter.</a>
+Post written by<a href="http://minimalchanges.com/about"> Kevin Olega</a>. Follow me on<a href="http://twitter.com/kevinolega"> twitter.</a>
 
 When I was a kid, I used to think that I should always have enough and enough means lots of it. At this point you would say wait, enough of what? Lots of what? My answer would be enough of everything from clothes, to stuff, to information, training, etc. Pack rat upgrade junkie. I used to think this way, most of the  time and I realized that, so do most of the people I get to talk to. I’m just a bit more anal than most people. When I went for a minimalist lifestyle, I realized that its ok to actually have stuff. The general rule I keep is if I use it regularly I keep my stuff but if I see my a small part of my stuff piling up I should start to declutter. I ended up disposing 90% of my stuff in the process and it was fun. I deciced to get rid of my urge to keep more stuff than I need to. My hoarder dark side asked me this question that stopped me in my tracks:
 

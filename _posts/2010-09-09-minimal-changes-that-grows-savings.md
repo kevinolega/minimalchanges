@@ -70,7 +70,7 @@ _Note: This post was originally written in 2010 so many of the numbers may be ou
 - **Stopped playing games-** I used to play network games with my brothers from an internet cafe almost every day. **Annual Savings Php 36,500**
 - **Stopped watching tv**- I get to keep my cash and my time. **Annual cable tv savings Php 7,200. Annual electricity savings 7,200 and the cost of buying a decent TV set is Php 35,000**
 - **Stopped going to Starbucks-** I go to Starbucks for my meetings, to hang out with friends or simply to find a home away from home. I’m a cheapskate back then so I don’t go more than once a day and I only get one drink. **Annual savings Php 36,500**
-- **Stopped buying Magazines**- I used to buy two or three magazines a month. _In case you're wondering, this used to be FHM, Men's Health and occasionally a Martial Arts or Popular Mechanics Magazine._ **Annual savings 3,500**
+- **Stopped buying Magazines**- I used to buy two or three magazines a month. \_In case you're wondering, this used to be FHM, Men's Health and occasionally a Martial Arts or Popular Mechanics Magazine.\_ **Annual savings 3,500**
 - **Stopped collecting Toys, Scale Model Kits, fiction books** I used to buy Gundam, Military vehicles and Action Figures. **Annual Savings Php 24,000** Note: In 2016, this hobby returned and true enough, I spent over Php 24,000 buying Anime figurines and Nendroids. I'm trying to keep my collection small but I expect to spend another Php 50,000 building up Macross Delta's Walkure and Love Live: A School Idol Project's µ's and Aquor's characters as well as Guts from Berserk in his Golden Age Arc appearance, Black Swordsman and Berserker Armor.
 - **Stopped updating phones**.  This is a tough one. While I do my best to not buy phones, I end up receiving good deals from my friends so in a year I end up spending Php 15,000-30,000 on buying phones. The Php 5,000 amount is again, from 2010 and the cost of phones have increased since then. This had been difficult for me really but my intention is to keep a phone for over three years before purchasing another one and to always purchase the "last year's model" instead of the latest version.**Annual Savings Php 5,000**.
 - **Stopped buying gadgets**. This might cover laptop, technology and other tools and like the smarthpone has been difficult for me. Since writing this article I have gone over five different laptops (including two MacBook Pro's and I'm itching to buy another one), an iPod touch (I got this as a gift and I've been using it since 2010), several iPhones (3g, 4, 4S, 5S, another 5S, 6 and 6s), and iPad Mini (first generation), a Hard drive and more. Damn! I really didn't get to keep this promise. **Annual Savings Php 5,000**
@@ -94,10 +94,10 @@ _Note: This post was originally written in 2010 so many of the numbers may be ou
 - _Update: Also begin to eliminate activities, commitments, appointments, that are neither profitable nor enjoyable. One reason why we are overwhelmed and time-deprived is that we have overcommitted to a lot of low value activities._
 - Be Patient and watch the savings grow.
 
-**Updated: Friday, August 24, 2018 and a note from Kevin:**
+**Updated: Friday, August 24, 2018 and a note from present day Kevin:**
 
 I have enjoyed going though this post. I made a lot of bold statements and strong opinions about the things I wouldn't spend on. Luckily I've stuck to some of them. I have also stuck with some of them 60-80% of the time which is better than nothing. I'm happy I have posts like this to help me monitor my personal growth and progress.
 
 I also saw how I've changed as a person and how far I've developed my focus and attention to detail.
 
-I'm coming clean. Most of my articles in 2010-2015 are incomplete. Some sentences trail off. Some just end without a complete thought. The eight years practicing writing have made me gradually better at communicating with the written word.
+I'm coming clean. Most of my articles in 2010-2015 are incomplete. Some sentences trail off. In a lot of cases, I'm trying to say something but I've been really clumsy with my words or I had been very unspecific. Some just end without a complete thought. The eight years practicing writing have made me gradually better at communicating with the written word.

@@ -48,7 +48,7 @@ My career was inclined toward sales and business development so as time progress
 
 My income grew to six figures and I quit that job due to burn out. 
 
-I moved to a career that pays less but came with less stress but despite that, the job pays is fairly well and isn't bad if I were to compare the income to several people my age.
+I moved to a career that pays less but came with less stress but despite that, the job pays fairly well and isn't bad if I were to compare the income to several people my age.
 
 However despite my high income I wasn’t really happy with how much I make and often neck deep in debt  and usually living from paycheck to paycheck. 
 

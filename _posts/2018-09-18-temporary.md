@@ -2,7 +2,7 @@
 
 --- 
 layout: post 
-title: Everything is Temporary. 
+title: Everything is Temporary
 date: 2018-09-18 01:11
 permalink: /temporary/ 
 author: Kevin Olega 
@@ -36,4 +36,3 @@ You can stay in the present.
 Worry is silly.
 
 That's because everything is temporary.
-

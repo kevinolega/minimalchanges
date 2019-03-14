@@ -5,7 +5,7 @@ date: 2019-03-14 22:55
 permalink: /affirmations/ 
 author: Kevin Olega 
 --- 
-I put the explanation at the [bottom](### Notes). 
+I put the explanation at the [bottom](###Notes). 
 
 ### SPIRITUAL 
 

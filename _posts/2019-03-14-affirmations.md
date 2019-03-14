@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Read Daily Affirmations
+title: Read Affirmations Daily
 date: 2019-03-14 22:55
 permalink: /affirmations/ 
 author: Kevin Olega 

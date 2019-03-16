@@ -24,13 +24,13 @@ I meditate for 3-5 minutes inside my room at the start of my day. I try to do 5 
 
 This works. Helped me go through a full shift with the flu. The more expensive cortitrol allowed me to be unaffected by a vivid dream of the person who triggers my symptoms of PTSD/depression. To stay safe, I'm taking this regularly.
 
-**Got Potein and Fat Breakfast**
+**Potein and Fat Breakfast**
 
 My goal is to fill up on nutrient-dense foods with minimal carbs and sugar from the freshest sources and at the same time, save money on food costs. My current favorite breakfast are fresh beef, salmon and tuna. Without any carbs, I feel light, energized and in a good mood.
 
-**Coffee**
+**Iced Coffee**
 
-Coffee wakes me up. Nuff said.
+Coffee wakes me up. Iced coffee tastes great. Nuff said.
 
 **No Social Media**
 
@@ -38,7 +38,7 @@ Social media is like reverse meditation. Social media draws in your attention, t
 
 **Worked Out at the Box**
 
-I feel tired and energized at the same time when I join a workout at CrossFit.
+I feel tired and energized at the same time when I join a workout at CrossFit. Completing a difficult workout make me feel effective and unstoppable.
 
 **Used Office Space**
 

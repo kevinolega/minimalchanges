@@ -56,4 +56,4 @@ I bike for entertainment and to save money on short distance transportation cost
 
 **Note:** 
 
-Before I began to experience symptoms of Depression/PTSD, I felt unstoppable. 2019 is my journey to 
+Before I began to experience symptoms of Depression/PTSD, I felt unstoppable. 2019 is my journey to get that person back.

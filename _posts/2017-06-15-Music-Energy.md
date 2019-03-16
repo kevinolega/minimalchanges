@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Get Energy From Music
+title: Music is Energy
 date: 2017-06-15 06:00
 author: Kevin Olega
 comments: true
 ---
-
 My mood has been pretty dark lately.
 
 I got a lot of work to do and I've been doing it so long and I'm not taking enough voluntary breaks and as a result I'm not efficient.
@@ -36,3 +35,5 @@ I'll update this song for more recommendations.
 
 I enjoy the silence but having a song in your heart makes difficult things a little more bearable.
 
+
+Get energy from music!

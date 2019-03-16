@@ -7,7 +7,6 @@ comments: true
 categories: [Lessons]
 permalink: middle
 ---
-
 > "We miss tasting the middle. We only taste the beginning and the end." - Andy Puddicombe (Founder of Headspace)
 
 I was listening to a [Headspace meditation](https://www.headspace.com/) lesson and Andy shared that whenever we eat, we usually only taste the first few bites of the food and the last bites, when we realize that we're almost done.

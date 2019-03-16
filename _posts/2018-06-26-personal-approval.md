@@ -5,8 +5,6 @@ date: 2018-06-26 10:05
 permalink: /personal-approval/ 
 author: Kevin Olega 
 --- 
-
-
 Most of my inaction, indecisiveness and poor judgment comes from my fear of other people's negative opinions of me.
 
 I don't ask for a raise because I'm afraid that my boss will reject me and think that I'm greedy.
@@ -31,7 +29,7 @@ We're trying to please our parents, God, teachers, employers, and other people w
 
 However, there is one opinion that we put so little value on.
 
-That is our  own opinion.
+That is our own opinion.
 
 If you think about it, most of the people you look up to are the same as you.
 

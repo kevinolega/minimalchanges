@@ -1,14 +1,22 @@
 ---
 layout: post
-title: Stop Reading After the First Few Lessons You Want to Implement
+title: Use Lessons You Already Collected
 date: 2016-02-22 15:10
+permalink: /timing/
 author: minimalc
 comments: true
 categories: [Uncategorized]
 ---
-I often find myself reading a list of ten things and trying to juggle every thing clumsily until I get it to work. I admit. Doing so is exhausting and had often led to embarrassing failure.&nbsp; I always think that doing big projects involve doing more steps.
+title: Stop Reading After the First Few Lessons You Want to Implement
 
-You see, I failed so much I figured I would lose nothing by doing the opposite of what I'm doing. So here's what I tried. 
+I often find myself reading a list of ten things and trying to juggle every thing clumsily until I get it to work. I admit. Doing so is exhausting and had often led to embarrassing failure. 
+
+I always think that doing big projects involve doing more steps.
+
+You see, I failed so much I figured I would lose nothing by doing the opposite of what I'm doing. 
+
+So here's what I tried. 
+
 Whenever I read a top ten list. I just try to select one to two things to try out and just take note of the third one as a backup.&nbsp; It just makes more sense. If I focus on one and I so well. I switch to the second one when I'm bored and I often do well and restart the process by the time I hit the third lesson. 
 Whatever you can implement now is often better than the complicated often failed juggle approach. This way I get to approach things one at a time. 
 Here are things I currently struggle with. 

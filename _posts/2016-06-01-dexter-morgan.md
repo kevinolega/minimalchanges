@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Ten things I Learned from Dexter Morgan
+title: Lessons From Dexter Morgan
 date: 2016-06-01 01:07
 author: minimalc
 comments: true
-categories: [Uncategorized]
 ---
+Original Title: Ten things I Learned from Dexter Morgan
+
 Dexter Morgan is one of the fictional characters that got me looking at my life and pay more attention to how I think and how I do things.
 
 I was depressed when I saw Dexter. I saw it as a way to channel my frustration into anger and take action to make myself a better person.

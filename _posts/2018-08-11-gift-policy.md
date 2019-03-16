@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Gifts
+title: Gift Policy
 date: 2018-08-11 07:47
 permalink: /gift 
 author: Kevin Olega 

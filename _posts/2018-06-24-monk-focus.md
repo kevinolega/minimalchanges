@@ -1,12 +1,10 @@
 --- 
 layout: post 
-title: Monk like Focus and Productivity
+title: Monk Like Focus and Productivity
 date: 2018-06-24 12:18
 permalink: /monk-focus/ 
 author: Kevin Olega 
 --- 
-
-
 A lot of my goals are related to owning things.
 
 In the past years, little by little, I added abilities and positive traits.
@@ -26,7 +24,6 @@ I later realized that this can be a goal too.
 Having monk like focus is useful because I am often distracted by so many little things.
 
 Here are some steps I'm trying to implement as often as I can.
-
 
 ### Start a to do list at the end of the day.
 

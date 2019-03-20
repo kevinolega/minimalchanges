@@ -17,7 +17,7 @@ There are lucid moments though when we have access to wisdom.
 
 Minimal Changes is a collection of lessons and epiphanies that I have documented and implemented in my life and published on this site as a way to remind myself to keep my shit together in the face of difficult situations.
 
-I'm Kevin and since 2008, I've been struggling with clutter, poor fitness, food choices, poverty, unhappiness, hopelessness, overwhelm, wastefulness, agreeableness and other weaknesses in my day yo day life.
+I'm Kevin and since 2008, I've been struggling with clutter, poor fitness, food choices, poverty, unhappiness, hopelessness, depression, overwhelm, wastefulness, agreeableness and other weaknesses in my day to day life.
 
 I have implemented many strategies and tactics and built this site in order to create a quiet place for myself to think, ask questions and try to improve my situation on your own through writing and reading my own work.
 

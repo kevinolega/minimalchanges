@@ -23,16 +23,16 @@ I have implemented many strategies and tactics and built this site in order to c
 
 ### A quick summarry of my daily practice:
 
-I begin my day by fixing my bed and tidying my room.
-I wake myself up by playing some music and going for a cold shower.
-I head out and walk with my dog and do a couple of fifty meter sprints.
-I take a quick meditation session and prepare for work.
-I take my bike to the office and have a nutrient dense breakfast from the freshest animal sources.
-I pray and trap my negative thoughts on paper by journalling.
-I read the reminders that I have set for myself.
-I work on my main objectives.
-I go to the gym and participate in a CrossFit class.
-I bike home and try to sleep early.
+- I begin my day by fixing my bed and tidying my room.
+- I wake myself up by playing some music and going for a cold shower.
+- I head out and walk with my dog and do a couple of fifty meter sprints.
+- I take a quick meditation session and prepare for work.
+- I take my bike to the office and have a nutrient dense breakfast from the freshest animal sources.
+- I pray and trap my negative thoughts on paper by journalling.
+- I read the reminders that I have set for myself.
+- I work on my main objectives.
+- I go to the gym and participate in a CrossFit class.
+- I bike home and try to sleep early.
 
 Head over [to the entrance](http://minimalchanges.com) for my latest post.
 

@@ -5,9 +5,9 @@ date: 2018-10-08 03:49
 permalink: /spare-cash/ 
 author: Kevin Olega 
 --- 
-Pare down commutments that are unprofitable and unenjoyable.
+Pare down commitments that are unprofitable and unenjoyable.
 
-Redirect the flow of your resources.
+Redirect the flow of your resources to your main objectives.
 
 Get comfortable rejecting every person who makes a request.
 

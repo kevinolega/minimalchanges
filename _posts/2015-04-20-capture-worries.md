@@ -1,21 +1,21 @@
 ---
 layout: post
-title: My Experiment on Writing My Fears at the Start of the Day
+title: Capture Worries
 date: 2015-04-20 08:17
 author: minimalc
 comments: true
-categories: [Uncategorized]
 ---
-<strong>The post is written by <a href="http://kevinolega.com">Kevin Olega</a> follow him on <a href="http://twitter.com/kevinolega">twitter</a>.</strong>
+Original title: My Experiment on Writing My Fears at the Start of the Day
 
 On your notebook or journal, write down you fears at the start of the day. Write down as much detail as possible. Do this for one week and observe how you view your situation.
 
-<ul>
-<li>What are your fears?</li>
-<li>What's bothering you?</li>
-<li>What failure or uncomfortable situation do you imagine will happen in the near future?</li>
-<li>What past fear of failure or situation do you imagine happening to you again?</li>
-</ul>
+What are your fears?
+
+What's bothering you?
+
+What failure or uncomfortable situation do you imagine will happen in the near future?
+
+What past fear of failure or situation do you imagine happening to you again?
 
 Thoughts are crystalyzed on paper and enables you to observe your thoughts more efficiently. The reason being your brain does not need to expend effort to hold the thought in your imagination.
 

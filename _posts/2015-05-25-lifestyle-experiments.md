@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Consider Doing Some Lifestyle Experiments to Change Your Life
+title: Lifestyle Experiments
 date: 2015-05-25 08:15
 author: minimalc
 comments: true
 categories: [Uncategorized]
 ---
-
+Original title: Consider Doing Some Lifestyle Experiments to Change Your Life
 Hi there. 
 
 In the past few days, I realized how long it's been since I started this blog. 

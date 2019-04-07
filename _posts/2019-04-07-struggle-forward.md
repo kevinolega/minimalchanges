@@ -76,9 +76,13 @@ I also added the schedule of the full moon, just in case as I’ve detailed in t
 Here goes.
 
 **Account:** main calendar account
+
 **Calendar:** Schedule
+
 **Type:** All day
+
 **Title:** Cancel All Appointments. Read this. IMPORTANT
+
 **Alert:** On the day,1 Day Before.
 
 **Notes:**

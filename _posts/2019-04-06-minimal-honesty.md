@@ -33,6 +33,6 @@ When all this is done, you are being completely cruel to yourself in order to pl
 
 A greater consequence of this is that the lines between right and wrong are blurred with what's offensive or what's socially acceptable.
 
-And if we were to always go with what's socially acceptable, I think that you and I know and agree that this does not the practice of applying minimalism in your life.
+And if we were to always go with what's socially acceptable, I think that you and I both know and agree that this does not match the practice of applying minimalism to your life.
 
 Honesty is.

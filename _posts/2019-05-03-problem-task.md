@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Problmems can also mean tasks.
+title: Problems can also mean tasks.
 date: 2019-05-03 22:03
 permalink: /problem-tasks/ 
 author: Kevin Olega 

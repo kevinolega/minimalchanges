@@ -24,7 +24,7 @@ That said, an impossible problem might be 5-10 difficult problems jumbled togeth
 
 With that in mind, an impossible problem can be anything between 25-100 easy problems combined.
 
-Where do I start?
+## Where do I start when I'm stuck trying to become a minimalist?
 
 Whenever I'm stuck, I stop and consider the best way to approach my situation.
 
@@ -52,7 +52,7 @@ Retake any blurry photos.
 
 Next.
 
-Define your dream space.
+## Define your dream space.
 
 Get a large piece of paper, position it in landscape view and divide it in the middle. 
 
@@ -93,7 +93,7 @@ Helps me find missing items and keep track of what I have.
 
 I also use this as an opportunity to "Give My Items A Home" a Mari Kondo lessons.
 
-Forget 10% if it's too much because 1 is better that zero.
+## Forget 10% if it's too much because 1 is better that zero.
 
 There's a lot of advice asking you to give 10%.
 10% goes to God.
@@ -126,12 +126,11 @@ Stop doing hard things if you can't even manage.
 
 One is always better than zero.
 
-Only do one thing at a time.
+## Only do one thing at a time.
 
 For this week, let go of one item. You're allowed to let go of two but don't force yourself.
 
-
-You Can Direct Your Focus By Asking Yourself Better Questions
+> "You Can Direct Your Focus By Asking Yourself Better Questions"
 
 I got that from Tony Robbins. 
 
@@ -181,13 +180,13 @@ What item is causing the most frustration or distraction this week?
 
 Sometimes I think about this joke:
 
-A blonde walks into a bank in New York City and asks for the loan officer. She says she's going to Europe on business for two weeks and needs to borrow $5,000. The bank officer says the bank will need some kind of security for the loan, so the blonde hands over the keys to a new Rolls Royce. The car is parked on the street in front of the bank; she has the title, and everything checks out. The bank agrees to accept the car as collateral for the loan. The bank's president and its officers all enjoy a good laugh at the blonde for using a $250,000 Rolls as collateral against a $5,000 loan. An employee of the bank then drives the Rolls into the bank's underground garage and parks it there. Two weeks later, the blonde returns and repays the $5,000 and the interest, which comes to $15.41. The loan officer says, "Miss, we are very happy to have had your business, and this transaction has worked out very nicely; but we are a little puzzled. We checked you out and found that you are a multimillionaire. What puzzles us is - why would you bother to borrow $5,000?" The blond replies....."Where else in New York City can I park my car for two weeks for only $15.41 and expect it to be there when I return?"
+> A blonde walks into a bank in New York City and asks for the loan officer. She says she's going to Europe on business for two weeks and needs to borrow $5,000. The bank officer says the bank will need some kind of security for the loan, so the blonde hands over the keys to a new Rolls Royce. The car is parked on the street in front of the bank; she has the title, and everything checks out. The bank agrees to accept the car as collateral for the loan. The bank's president and its officers all enjoy a good laugh at the blonde for using a $250,000 Rolls as collateral against a $5,000 loan. An employee of the bank then drives the Rolls into the bank's underground garage and parks it there. Two weeks later, the blonde returns and repays the $5,000 and the interest, which comes to $15.41. The loan officer says, "Miss, we are very happy to have had your business, and this transaction has worked out very nicely; but we are a little puzzled. We checked you out and found that you are a multimillionaire. What puzzles us is - why would you bother to borrow $5,000?" The blond replies....."Where else in New York City can I park my car for two weeks for only $15.41 and expect it to be there when I return?"
 
 What item can I conveniently buy again if I need it back? How can I utilize these billionaire's stores as my personal storage. 
 
 Don't worry about getting the value back, You never will. Sell items for 1/10th the price if you have to. If it's a valuable you can sell it quick by offering it at less 1,000-2,000 of the cheapest same value item on a sales listing like OLX, Carousell or FB Marketplace.
 
-What do I do if my problems is building urgency?
+## What do I do if my problems is building urgency?
 
 I like to fantacize about living a double life. Where I am secretly a mercenary assassin, secret agent or a serial killer and I have to escape at the drop of the hat. 
 

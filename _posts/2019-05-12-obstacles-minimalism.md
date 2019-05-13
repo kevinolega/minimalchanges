@@ -2,7 +2,7 @@
 layout: post 
 title: How To Overcome Obstacles to Applying Minimalism to Your Life
 date: 2019-05-12 10:56
-Tags: [ uncategorized, blog ]
+Tags: [ minimalism, blog ]
 permalink: /obstacles-minimal/ 
 author: Kevin Olega 
 --- 
@@ -85,7 +85,7 @@ I have a list for the following items:
 
 On the left side of the paper, you're allowed to write down items you want to let go or considering letting go.
 
-This practice serves both as a wishlist and motivation for me to make space.
+This practice serves both as a wish list and motivation for me to make space.
 
 It also serves as an inventory of what I own. 
 
@@ -188,7 +188,7 @@ Don't worry about getting the value back, You never will. Sell items for 1/10th 
 
 ## What do I do if my problems is building urgency?
 
-I like to fantacize about living a double life. Where I am secretly a mercenary assassin, secret agent or a serial killer and I have to escape at the drop of the hat. 
+I like to fantasize about living a double life. Where I am secretly a mercenary assassin, secret agent or a serial killer and I have to escape at the drop of the hat. 
 
 The cops, mafia are after me.
 
@@ -196,7 +196,7 @@ How would I do it?
 
 Do I have a bag with cash, my important documents and all my essentials. I'll be on the run for a long time.
 
-I don't need to buy toiletries. I only need tissue and wetwipes. The rest can be bought outside. What's in my escape bag? I sometimes refer to this as my Ark or survival bag.
+I don't need to buy toiletries. I only need tissue and wet wipes. The rest can be bought outside. What's in my escape bag? I sometimes refer to this as my Ark or survival bag.
 
 Sometimes I simplify.
 

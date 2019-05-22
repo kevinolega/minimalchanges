@@ -47,3 +47,4 @@ Old me
 [Check out my instagram account for my recent photos](https://www.instagram.com/kevinolega/)
 
 You can visit my home online at [kevinolega.com](http://kevinolega.com)
+<button name="button" onclick="http://www.google.com">Click me</button>

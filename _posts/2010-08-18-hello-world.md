@@ -90,6 +90,7 @@ I'll talk about that in another post.
 
 I'll see you on the other updates.
 
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 
 [1]:	http://kevinolega.com/now

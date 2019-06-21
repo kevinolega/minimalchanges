@@ -60,6 +60,9 @@ Always be intentional about what you are trying to do.
 
 The action is here.
 
+Today has enough challenges to require you to place all your focus in it. Placing your attention on the future is another distraction.
+
+
 ### OBSTACLES
 
 Obstacles are sometimes referred to as problems. 
@@ -95,6 +98,37 @@ Be mindful of the metaphors that you use.
 Read this in Darth Sidious/Emperor Palpatine's voice. 
 
 "Do what must be done, do not hesitate, show no mercy"
+
+## Living
+
+The less I own the happier I am.
+
+Use what you have, do what you can.
+
+Minimum effective dose is often helpful. Overdose is often harmful.
+
+Goals related to being the person you want to be and doing things that you want to do are exponentially more satisfying and affordable than goals related to the ownership of enviable things.
+
+You get what you pay for. The bitterness of poor quality remains long after the sweetness of low price has been forgotten.
+
+Life is a gift. That includes every problem.
+
+The metaphors that you use to describe your life influence your thoughts and emotions.
+
+If you believe that "God is in control" and "God is on your side" then worry is silly.
+
+Negative emotions are signals to take action.
+
+There is little need to rush because we are all heading toward the grave.
+
+Effortless output comes from a cheerful and playful attitude.
+
+The slow track is the real fast track.
+
+Your talent is what you choose to spend your time on.
+
+The wealth is in the bag, not the paper.
+
 
 ### Notes
 

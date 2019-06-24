@@ -3,7 +3,7 @@ layout: post
 title: Horrible minimalist joke.
 date: 2019-06-07 17:40
 Tags: [ uncategorized, blog ]
-permalink: // 
+permalink: /mini-joke/ 
 author: Kevin Olega 
 --- 
 Here's a corny, mean and probably tasteless minimalist joke. 

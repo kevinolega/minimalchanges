@@ -6,7 +6,6 @@ author: minimalc
 comments: true
 categories: [minimalism, Relationships, Well Roundedness and Balance]
 ---
-<img src="http://farm5.static.flickr.com/4127/5053683890_43a395ba45.jpg" alt="K&amp;K 28-12-06-1720" />
 
 Who says you need a lot to be happy?
 

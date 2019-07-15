@@ -12,7 +12,7 @@ The one thing I dread doing more than anything is starting over. From scratch. G
 
 I wanted to tell you the story but I figure it would be more useful for you if I arranged it into something you might be able to use. So here goes:
 <strong>1. I put all my goals on hold</strong>. – No need to quit. Just keep them in storage.
-<strong>2. I kept my top goal</strong> (Optional) </strong>
+<strong>2. I kept my top goal</strong> (Optional)
 <strong>3. I made a list of things I am too attached to and I wrote a reason why</strong>.
 a. <strong>Work</strong>. I mostly feel I’m contributing by being there so I spent too much time at the workplace. This too had to stop. I have a life.
 b. <strong>Projects</strong>. I felt this was my chance to be rich and that the extra income isn’t bad. More money means more to spend right? But does my dream life involve buying every piece of merchandise sold to me? I don't think so.

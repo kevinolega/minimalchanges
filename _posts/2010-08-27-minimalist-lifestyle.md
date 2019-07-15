@@ -8,11 +8,11 @@ categories: [Efficient Light and Fast, minimalism, Well Roundedness and Balance]
 ---
 <img src="http://farm5.static.flickr.com/4128/5053063699_47bedc2c31.jpg" alt="4 cups of rice" />
 
-The one thing I dread doing more than anything is starting over. From scratch. Ground Zero. Step one. At that moment I hit bottom. My initial reaction was “This is insane” and “I have so much things going for me. I was almost complete.” Then I told myself there is nothing to lose and if this move ends up messing things for me further I can always go back to the path I’m on. I then moved forward and decided to rethink my life, my goals and my plans. Start from zero. What a terrible waste of experience and resources I told myself.  I took all my lists and goal-boards and kept everything in storage except for the goal to marry Ish. The rest of the goals were put on hold.
+The one thing I dread doing more than anything is starting over. From scratch. Ground Zero. Step one. At that moment I hit bottom. My initial reaction was “This is insane” and “I have so much things going for me. I was almost complete.” Then I told myself there is nothing to lose and if this move ends up messing things for me further I can always go back to the path I’m on. I then moved forward and decided to rethink my life, my goals and my plans. Start from zero. What a terrible waste of experience and resources I told myself.  I took all my lists and goal-boards and kept everything in storage, The rest of the goals were put on hold.
 
 I wanted to tell you the story but I figure it would be more useful for you if I arranged it into something you might be able to use. So here goes:
 <strong>1. I put all my goals on hold</strong>. – No need to quit. Just keep them in storage.
-<strong>2. I kept my top goal</strong> (Optional) – In my case, it was marrying Ish. <strong>Update: Ish is gone.</strong>
+<strong>2. I kept my top goal</strong> (Optional) </strong>
 <strong>3. I made a list of things I am too attached to and I wrote a reason why</strong>.
 a. <strong>Work</strong>. I mostly feel I’m contributing by being there so I spent too much time at the workplace. This too had to stop. I have a life.
 b. <strong>Projects</strong>. I felt this was my chance to be rich and that the extra income isn’t bad. More money means more to spend right? But does my dream life involve buying every piece of merchandise sold to me? I don't think so.
@@ -37,7 +37,7 @@ Take care of people over things and tasks
 Eliminate time wasters
 Start early and finish early
 more time for God
-<del datetime="2016-05-20T16:55:55+00:00">Marry Ish</del>The only goal I didn't meet.
+<del datetime="2016-05-20T16:55:55+00:00">
 Quality over quantity
 Breathe
 Smile more often
@@ -50,7 +50,7 @@ A clean workplace and room with lots of free space because of the less stuff and
 I don’t buy a lot so I have less expenses and I’m not worried about running out of cash because I can live well with a small amount. I consider myself financially free.
 I’m almost out of debt and my savings are growing.
 Healthy living.
-Because of my frequent use of the word “NO” I have better control of my direction and less to worry about and I have more time for God and <del datetime="2016-05-20T16:55:55+00:00">Ish</del> myself.
+Because of my frequent use of the word “NO” I have better control of my direction and less to worry about and I have more time for God and <del datetime="2016-05-20T16:55:55+00:00">myself.
 I get to really take pleasure in the small things.
 
 If you liked this post send me an email. You can reach me at minimal changes at gmail dot com.

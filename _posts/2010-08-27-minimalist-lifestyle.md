@@ -37,7 +37,6 @@ Take care of people over things and tasks
 Eliminate time wasters
 Start early and finish early
 more time for God
-<del datetime="2016-05-20T16:55:55+00:00">
 Quality over quantity
 Breathe
 Smile more often
@@ -50,7 +49,7 @@ A clean workplace and room with lots of free space because of the less stuff and
 I don’t buy a lot so I have less expenses and I’m not worried about running out of cash because I can live well with a small amount. I consider myself financially free.
 I’m almost out of debt and my savings are growing.
 Healthy living.
-Because of my frequent use of the word “NO” I have better control of my direction and less to worry about and I have more time for God and <del datetime="2016-05-20T16:55:55+00:00">myself.
+Because of my frequent use of the word “NO” I have better control of my direction and less to worry about and I have more time for God and myself.
 I get to really take pleasure in the small things.
 
 If you liked this post send me an email. You can reach me at minimal changes at gmail dot com.

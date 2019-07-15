@@ -14,10 +14,9 @@ I am a former consumerist workaholic zombie pack-rat. I saw minimalists as loser
 
 What’s truly important to me.
 1. My relationship with God
-2. My relationship with Ish
-3. My relationship with my family
-4. Freedom to do what I want when I want it.
-5. Doing the work I love while contributing to others.
+2. My relationship with my family
+3. Freedom to do what I want when I want it.
+4. Doing the work I love while contributing to others.
 
 Maybe you have your own list but this is mine and I was looking at my life and I realized that I was taking care of the wrong things. I was more concerned with result than I was willing to taking care of them. My life had to be all about the means to get my goals and I had to get rich quick. It didn’t end so well. The set back had not been because there is something wrong with the strategy but with the execution. I was focusing on the wrong things and filling up my schedule and trying all sorts of stuff to rush results. That’s what got me into trouble. When I look at all my major set backs things started to fall apart when I attempt to rush things.
 

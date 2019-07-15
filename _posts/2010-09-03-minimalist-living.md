@@ -6,8 +6,7 @@ author: minimalc
 comments: true
 categories: [Efficient Light and Fast, minimalism]
 ---
-<a title="Going Together by Kevin Olega, on Flickr" href="http://www.flickr.com/photos/53983089@N04/5053063235/"><img src="http://farm5.static.flickr.com/4152/5053063235_117bd1bed7.jpg" alt="Going Together" width="500" height="400" /></a>
-To be happy I just need to hold her hand.
+
 Post written by<a href="http://minimalchanges.com/about"> Kevin Olega</a>. Follow me on<a href="http://twitter.com/kevinolega"> twitter.</a>
 
 I got comments like, minimalists are usually programmers, designers, artists, monks, spiritual people and those kind of not like me people. When I studied famous minimalists I found out that those people are pretty effective at what they do and they look very similar to the kind of person I want to be but can’t seem to do so.

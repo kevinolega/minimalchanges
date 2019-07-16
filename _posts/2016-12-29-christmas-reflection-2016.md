@@ -35,7 +35,7 @@ I'm sorry I haven't been updating the blog recently.
 1. **iPhone 5s**. The one I bought was broken and I spent more trying to repair it. I just gave up and will be holding on to it until November of 2017 or if it breaks.
 2. **Fixed Gear Bike**. I only have the framset.
 3. **Magnetic Charger**. Thanks Ralph.
-4. **Deadpool mini-figure**. Thank you Seline.
+4. **Deadpool mini-figure**. 
 5. **Blue Pencil**. I use this for drawing but benefit from writing with it. It just looks damn good.
 6. **Hot Glue Gun**. I used it to fix my writing tray. Not sure what else I'll use it with.
 7. **Reebok CrossFit Nano 6**. Got this as a gift. Thanks Dad. It’s a size 10. The previous one is a Nano 4 and is a size 9.5. I don’t have enough time with it yet to judge what it can do but it’s comfortable to wear, run and lift in.
@@ -63,12 +63,11 @@ I'm sorry I haven't been updating the blog recently.
 
 ### Blessings I received:
 
-1. Seline
-2. Shoes from Dad.
-3. Family's health.
-4. Free workout shirt. Thanks Josh.
-5. Free Photoshop lessons. Thanks Angelo.
-6. Porno Shirt. Thanks Scott.
+1. Shoes from Dad.
+2. Family's health.
+3. Free workout shirt. Thanks Josh.
+4. Free Photoshop lessons. Thanks Angelo.
+5. Porno Shirt. Thanks Scott.
 
 ### Random Things I'm Grateful for:
 
@@ -119,12 +118,12 @@ Proverbs 14:31
 
 ### Activities I enjoyed.
 
-1. Saw Star Wars Rogue One with Seline.
+1. Saw Star Wars Rogue One.
 2. Bike around Filinvest every Sunday.
 3. Saw Godzilla Resurgence. I liked it very much.
 4. Saw Kubo and the Two Strings. It’s just as good or even better than Big Hero 6.
 5. Saw the new Berserk. Exposes you to violence and darkness while calling upon your inner goodness and bad-assery.
-6. Roadtrip with Seline. Killing.
+6. Roadtrip 
 7. Adam Ruins Everything.
 8. Re:Zero. This is one of the best anime of 2016. I loved it. It’s unpredictable and touches you on so many levels. 9/10.
 
@@ -150,10 +149,9 @@ I’m supposed to save some money by disconnecting my Spotify but Globe decided 
 ### Closing Thoughts.
 
 My December had been filled with three main activities.
-
-1. Bonding with Seline
-2. Freelance Work.
-3. CrossFit.
+ 
+1. Freelance Work.
+2. CrossFit.
 
 I did my best to say no to a lot of stuff. Despite that, I went to parties, watched YouTube a lot, became annoyingly active on Facebook and was able to gather and  put together the above lessons.
 

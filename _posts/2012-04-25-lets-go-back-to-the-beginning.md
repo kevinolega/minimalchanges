@@ -16,13 +16,13 @@ I started a telemarketing job for a local recruitment company where I was doing 
 
 In the past I only did the first part mostly. I was given a nice desk and lots of files. This was something I wasn't used to. Since it was a small company, they aren't giving me an assistant to do all these things.
 
-That week I was at Morong, Rizal with Ish, looking at a book called minimalist design as we were looking for ideas about our future home. I liked minimalist houses. They looked so clean. It's the exact opposite of my living setup and looking through pictures of minimalist houses had a relaxing effect on me.
+That week I was at Morong, Rizal , looking at a book called minimalist design as we were looking for ideas about our future home. I liked minimalist houses. They looked so clean. It's the exact opposite of my living setup and looking through pictures of minimalist houses had a relaxing effect on me.
 
 That same week I started accumulating lots of paper and files. My office started looking like my room where I live. I wanted a clean desk and I was googling two things. How to clean my desk and minimalist design. I ran in to <a href="http://www.43folders.com/">Merlin Mann's blog</a>. I ran in to <a href="http://lifehacker.com">LifeHacker</a>. I ran into Leo Babauta's blogs <a href="http://mnmlist.com">mnmlist.com</a> and <a href="http://zenhabits.net">Zen Habits</a>. I ran into some forums about a minimalist lifestyle.
 
 I found it disgusting. My mindset then firmly believed that minimalists are lazy. After all, why do less? Instead of less shouldn't you work hard for more? That's how we grow right? These bastards, like the Christians are lazy, only working for enough and missing out on life's pleasures because they are lazy.
 
-I was naive back then because I didn't understand. Leo's post on <a href="http://mnmlist.com/carry-less-or-pockets-like-air">pocket's like air hit home</a>.<strong> My pockets were always full. I went to work with two full bags</strong> when I felt lazy. Ish told me more than once I was like a cartoon character who had lot's of items in my pockets.
+I was naive back then because I didn't understand. Leo's post on <a href="http://mnmlist.com/carry-less-or-pockets-like-air">pocket's like air hit home</a>.<strong> My pockets were always full. I went to work with two full bags</strong> when I felt lazy.someone told me more than once I was like a cartoon character who had lot's of items in my pockets.
 
 <a href="http://minimalchanges.com/lets-go-back-to-the-beginning/mask-weapons-guns-swords-from-movies/" rel="attachment wp-att-1875"><img class="alignleft size-full wp-image-1875" title="Mask weapons guns swords from movies" src="http://minimalchanges.com/blog/wp-content/uploads/2012/04/Mask-weapons-guns-swords-from-movies.jpg" alt="" width="852" height="461" /></a>
 
@@ -34,7 +34,7 @@ This mindset had an impact on everything. The reality is that I was tired. Someh
 
 Leo's posts kept me reading.<strong> I hate minimalism but I felt that I could pick up useful things by reading about it.</strong>
 
-Ish seemed to enjoy reading my notes when I attended business trainings. I thought to myself, what if I write something original. All these guys were writing about clean up so I decided to write privately and showed them to Ish. She said she liked it and if I started she'll be my first reader. I started writing during the long commutes to Morong.
+It seems to enjoy reading my notes when I attended business trainings. I thought to myself, what if I write something original. All these guys were writing about clean up so I decided to write privately and showed them to. She said she liked it and if I started she'll be my first reader. I started writing during the long commutes to Morong.
 
 At night, I woke up and felt the urge to write. I wanted to put my thoughts to paper. I was thinking of names. Leo had the feel of a zen monk and he talked about habits. I guessed that's why he's Zen Habits guy. I was ambitious and aggressive. I was thinking if he's a monk then I'm a ninja.
 
@@ -46,7 +46,7 @@ Here are some topics and titles I thought of:
 
 <strong>Change Ninja</strong> - I'm going to make some changes. Hopefully I wanted to inspire some changes. Friends always asked me for advice. I figure, what if I put up the blog so I can ask them to just read what I wrote instead of explaining?
 
-I asked Ish which one. She said she'll support me no matter what I picked. I was broke those days. I only had budget for one site. I feel wanting to contribute all topics at once. <strong>I came up with Minimal Changes because somehow, every significant change in my life happens slowly and since I wanted to hold off from buying, I coined the term: Use what you have. Do what you can.</strong>
+I asked her which one. She said she'll support me no matter what I picked. I was broke those days. I only had budget for one site. I feel wanting to contribute all topics at once. <strong>I came up with Minimal Changes because somehow, every significant change in my life happens slowly and since I wanted to hold off from buying, I coined the term: Use what you have. Do what you can.</strong>
 
 I got the name registered and started the blog. I wrote long posts about things I wanted to change and things I'm considering. Feel free to go back in time to check it out.
 

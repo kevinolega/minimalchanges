@@ -20,7 +20,7 @@ This is what I set out to do when I started minimal changes.
 
 I'm really thankful for the results we've achieved together.
 God provided the ideas, experiences and resources.
-Ish for being the most supportive.
+
 <a href="http://bytephilippines.com"> Jean</a> for the kick ass theme an web design.
 Ralph for the other tips.
 And you for encouraging me by reading and giving feedback for my posts.
@@ -68,7 +68,7 @@ As I write I learned more things about how to live better without doing anything
 It doesn't cost that much to be happy.
 You just need to be creative if you want something fancy.
 
-I'm happy just hanging out(with Ish, Ralph and other friends), writing, reading, drawing, tinkering with my site, putting money in my savings account, cheap local travel and shopping every now and then.
+I'm happy just hanging out(with Ralph and other friends), writing, reading, drawing, tinkering with my site, putting money in my savings account, cheap local travel and shopping every now and then.
 
 I'm unhappy when:
 I compare, don't get enough sleep, don't read the bible, am not thankful with what I have or become too attached to past situations.

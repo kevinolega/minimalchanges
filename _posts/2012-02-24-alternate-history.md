@@ -20,11 +20,11 @@ I think about how I could have completed my college and didn't have to self stud
 
 I think about how I could have done differently at any point in my work and reach more success in employment.  
 
-I think about a hundred things to change with my previous relationship with Ish and that things may have turned differently. 
+I think about a hundred things to change with my previous relationship and that things may have turned differently. 
 
 I think about how I could be braver or smarter when I made my decisions in the past and perhaps enjoyed the results of my wise decisions earlier. 
 
-I would love to get Ish back, be more successful at my work, or projects or have avoided failure. 
+I would love to get back, be more successful at my work, or projects or have avoided failure. 
 
 I wish that was all true and things have turned out differently. 
 

@@ -30,22 +30,22 @@ Mall based sales job.
 Learn to sell so I can make money and meet girls.  
 Target income: Php 15,000 per month. 
 Actual income: Php 6,000 to Php 9,000 per month. 
-Result: met Ish. Learned to explain well. Learned to make friends from random encounters. 
+Result: Learned to explain well. Learned to make friends from random encounters. 
 
-Met Ish and Real Estate Sales Days. 
+Real Estate Sales Days. 
 Keep making six figures and save up enough to relax because working seven days a week is pretty stressful. 
 Target income: Php 200,000 per month. 
 Actual income: 60,000-120,000 per month. 
 Result: spent everything on road trips, dates, clothes and trinkets. 
 
 Financial Planning days. 
-Sell insurance to have enough savings so I can cover my and Ish' future needs. Family orientation seemed to start at this point. Interest in savings and investments started. 
+Sell insurance to have enough savings so I can cover my future needs. Family orientation seemed to start at this point. Interest in savings and investments started. 
 Target income: Php 60,000 per month. 
 Actual income: Php 20,000 total. 
 Result: couldn't sell insurance just had a couple of transactions. Learned to build a website and use SEO instead and got more commissions from my sales made by my boss through the website. 
 
 Call Center Training Days. 
-Help older brother. Enjoy helping others find work. Apply leanings from previous companies best practices. Learn to teach. Enjoy time with Ish. 
+Help older brother. Enjoy helping others find work. Apply leanings from previous companies best practices. Learn to teach.  
 Target income: Php 50,000 per month. 
 Actual income: Php 26,000 per month. 
 Result: learned that I enjoyed teaching people and helping people look for work. Didn't make a lot of money but was pretty comfortable. Learned to get results by not always following instructions and experimenting. 
@@ -69,7 +69,7 @@ Actual income: Php 40,000 per month
 Result: Earned really well. Unfortunately the company I was on board with closed down. Upped my savings a bit at this point. 
 
 Worked for dad days. 
-Help out dad and enjoy my remaining time with him. Lost Ish and the remainder of my huge goals at this point. 
+Help out dad and enjoy my remaining time with him and the remainder of my huge goals at this point. 
 Target income: variable
 Actual income: variable
 Result: my preparation wasn't enough to cover the requirements. Better start getting back to working on working on my own terms again. 

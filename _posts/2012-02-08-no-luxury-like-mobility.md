@@ -37,13 +37,12 @@ My next question was that how can I enjoy life now without having to wait for se
 I only enjoy a few things:
 Writing. 
 Good food. 
-Hugs from Ish. (currently not available)
 Good conversations.
 Learning.  
 
 All these things don't cost a lot of money. 
 
-What can I say? I'm a pretty lazy guy. That's what makes me happy. I realize that I don't need a lot of cash to enjoy those. I noticed a new luxury that attracted me more than the prospect of fame and fortune or even power. Mobility. It's the ability to be anywhere at any time. I want to be where my partner needs to be and to support her and my future family. In terms of travel? I don't think I need to see the world by sleeping in a first class suite. I just want to see the place, taste the food and hold Ish's hand. I heard I can do that a lot for a lot less if I ditch the first class lodging. 
+What can I say? I'm a pretty lazy guy. That's what makes me happy. I realize that I don't need a lot of cash to enjoy those. I noticed a new luxury that attracted me more than the prospect of fame and fortune or even power. Mobility. It's the ability to be anywhere at any time. I want to be where my partner needs to be and to support her and my future family. In terms of travel? I don't think I need to see the world by sleeping in a first class suite. I just want to see the place, taste the food. I heard I can do that a lot for a lot less if I ditch the first class lodging. 
 
 From several thousands of dollars to a thousand dollar goal maybe aiming too low for productivity junkies. The thing is, I believe that if you're pretty happy with what you do and you're doing great work, the money will follow. 
 

@@ -41,7 +41,7 @@ I procrastinate some more
 
 I look for what I have or what I can get for free as an alternative for what I want to buy
 
-I ask Ish -I won't get to do this as often now. 
+I ask someone-I won't get to do this as often now. 
 
 I ask other friends
 

@@ -10,7 +10,7 @@ Hi. I'm James. I worked in sales and I'm interested in business development. I j
 
 I read Rich Dad Poor Dad and Secrets of The Millionaire Mind and I want to be ultra successful.
 
-The idea is to build up large amounts of assets and passive income so I'm free to travel, marry Ish, slack off and help people become successful.
+The idea is to build up large amounts of assets and passive income so I'm free to travel, slack off and help people become successful.
 
 I believe that will power and never giving up is a key factor in success. That's why I'm willing to learn the skills to be financially successful. After all when I get all the money I need I'll be okay right?
 
@@ -22,7 +22,6 @@ Let’s discuss the goal. Be rich, make lots of money, buy lot’s of nice stuff
 
 I’ll be honest here. My issue is insecurity.
 <ul>
-	<li>I wanted Ish to be proud of me.</li>
 	<li>I wanted dad to be proud of me.</li>
 	<li>I wanted to help my mom. (Which of course, is because I wanted her to be proud of me.)</li>
 	<li>I wanted everyone to be proud of me.</li>

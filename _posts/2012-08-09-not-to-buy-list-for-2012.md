@@ -36,7 +36,7 @@ I'm a bag guy. Its the first thing I check out when I'm at the mall or at thrift
 
 <strong>5. No New Apps</strong>
 
-I was on app shopper everyday waiting for new apps that are now free. But it turns out the apps I use are the same apps I've used since I got the iPod touch from Ish. I use Nexus Money, iDoneThis, Simplenote, Dropbox, Kindle, Bible Reader, The built in apps and Social Media Apps. That's it. I avoid games because I get super addicted to them.
+I was on app shopper everyday waiting for new apps that are now free. But it turns out the apps I use are the same apps I've used since I got the iPod touch. I use Nexus Money, iDoneThis, Simplenote, Dropbox, Kindle, Bible Reader, The built in apps and Social Media Apps. That's it. I avoid games because I get super addicted to them.
 <strong></strong>
 
 <strong>6. No New Writing Software</strong>

@@ -16,7 +16,7 @@ I figure this could help you out if you're interested in learning about it.
 
 I have a best friend who drives me anywhere. His car is an AUV which is much like a slightly smaller SUV. What I'm trying to say is that it's a big car.  When he helped me move from my Grandmas house to a room I'll be Renting in the city, we were able to fill his car to the roof with him and myself holding on to a several items in our laps as he drove me to my new place.  
 
-When I found a better place to stay in  the city (a block away from the previous one) Ish agreed to help out. It was crazy. In the end Ish made me throw out at least ten (plastic and paper) bags of trash. I managed to move my stuff in twenty large bags. 
+When I found a better place to stay in  the city (a block away from the previous one). It was crazy. In the end, made me throw out at least ten (plastic and paper) bags of trash. I managed to move my stuff in twenty large bags. 
 
 This was my past. Embarrassing as it is to admit. I kept too many things that should have gone to the trash bin. In the Philippines if you're working people expect someone to establish something ( may naipundar in tagalog) which means that I should have been able to buy a house, a car, have sent my sibling to school etc. Being insecure that I am, I interpreted that as simply buying more stuff. Which was totally wrong. Every time I brought something nice or acquired something nice I kept everything.   I kept the box the receipts the wrapper, the paper bag, bus tickets,  instruction manuals, piles of paper, collectibles and lots and lots of clutter. I also kept clothes from school. Its so disgusting i want to Its so disgusting you'll never want to enter my room ever. I feel like I'm shrinking in shame as I type this. 
 
@@ -41,7 +41,7 @@ I'm a totally different person now and here are some tips to never have to clean
 
 <strong>How many do you really need?</strong> My answer is one for the most part and not a lot for others (like clothes, socks, underwear maybe 10 to two weeks worth)
 
-<strong>Proper place</strong>. Everything should be in a proper place. I assigned one for all my items. I'm not allowed to leave my computer inside my room. Phones are away from my bed unless I'm texting Ish. Or whatever. 
+<strong>Proper place</strong>. Everything should be in a proper place. I assigned one for all my items. I'm not allowed to leave my computer inside my room. Phones are away from my bed. Or whatever. 
 
 <strong>Less things equals less cleanup</strong>. The less things I have the less cleanup I need to do. . If I had an empty room with just my bed and my laptop and clothes and my laptop everything is pretty easy to clean. The fewer things I had the fewer things I need to pay attention to. And I won't loose things.  
 

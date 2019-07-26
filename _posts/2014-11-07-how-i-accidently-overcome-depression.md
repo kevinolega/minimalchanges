@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: How I Accidently Overcome Depression
@@ -12,7 +13,7 @@ To exit Izanami, accept reality and move forward without wanting to change the r
 
 I think of how almost everything is going my way these days except for this. I haven't had an argument with my mom for months. My brother had been cooperating with me. It's been peaceful at home. I've been a top performer at work for the month. Surpassing all my best performance consistently. I learned how to meditate. I got my self a little in debt for buying all the tech, I felt like buying, but I got over it. All my debts have been paid, I am also half way to restoring my savings. I've also made a bunch of new friends. Although, I don't have someone whom, I can tell everything about what happens to me openly everyday, I feel I have someone whom I potentially can. My blogs are now well received by their target audience. All is well.
 
-Then my mind reminds me of her. I tell an imaginary Ish, "You're the only one missing." At this point, I'm confused whether I should never give up or I should just allow people to be where they want to be. You can't force people to come back.
+Then my mind reminds me of her. I tell an imaginary, "You're the only one missing." At this point, I'm confused whether I should never give up or I should just allow people to be where they want to be. You can't force people to come back.
 
 Then I remember I need to go out to bike so I need to finish this. 
 

@@ -33,7 +33,7 @@ Since you began to write in 2009 and began to blog in 2010 you have began to mak
 15. You received a guitar as a gift.
 16. You received a grill and oven as a gift.
 17. You traveled countless times.
-18. You didn’t die when Ish left
+18. You didn’t die when she left
 19. God sent magical angels at the right time to ensure you lived.
 20. You got backstabbed enough times to learn that you can overcome many challenges.
 21. You lost a lot of people you cared about but moved forward.

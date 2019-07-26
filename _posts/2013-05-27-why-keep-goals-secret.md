@@ -49,7 +49,6 @@ I look for points of improvement
 I keep working
 
 I told myself I'll start saving.
-I told my ex I'll marry her for five years
 I told everyone I'll sell enough to get x amount of money.
 
 Come to think about it all the villains in all the TV shows and movies I liked kept their goals secret and accomplished them. The hero always has to talk about his/her goal it's as if it was a conspiracy to minimize competition.

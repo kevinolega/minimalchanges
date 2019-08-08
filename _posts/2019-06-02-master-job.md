@@ -14,4 +14,22 @@ This applies to mentors, guru, coaches and instructors.
 
 That's why they give outrageous advice and charge ridiculous prices.
 
-Because the goal is your independence, you have to learn that early.
+If the goal is independence, learn this early..
+
+Masters are simply tricksters. 
+
+Tap into your inner wisdom.
+
+The best person to make decisions for your life is you.
+
+Do your own research.
+
+Make your own decisions.
+
+Decide if the benefits are worth the costs to you.
+
+And own up to the consequence.
+
+You are 100% responsible for your life.
+
+Not somebody else.

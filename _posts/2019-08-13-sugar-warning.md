@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Response to Sugar and Carbs
+title: Response to Activities that Trigger Depression
 date: 2019-08-13 00:33
 Tags: [ uncategorized, blog ]
 permalink: /sugar/ 
@@ -22,12 +22,13 @@ A few months ago I discovered that I have really high neuroticism.
 
 Like top 97% high.
 
-That being said, I discovered that to avoid this issue, affecting my performance at work, my income and day to day functions, I'm avoiding all forms of...
+That being said, I discovered that to avoid this issue and prevent it from affecting my performance at work, my income and day to day functions, I'm avoiding all forms of...
 
 - Sugar and sweets
 - Carbohydrates (rice, bread, noodles)
 - Junk Food and chips.
 - Alcohol
+- Sleep depriviation
 
 And everytime I avoid this, I'm able to stay functional.
 

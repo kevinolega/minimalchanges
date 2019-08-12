@@ -16,9 +16,9 @@ I really am.
 
 It's just that I'm really struggling to communicate this, and I have failed to do so multiple times. 
 
-So I'm showing you this short post instead.
+So I'm showing you this short note instead.
 
-A few months ago I discovered that I have really high neuroticism.
+A few months ago, I discovered that I have really high neuroticism.
 
 Like top 97% high.
 
@@ -28,13 +28,13 @@ That being said, I discovered that to avoid this issue and prevent it from affec
 - Carbohydrates (rice, bread, noodles)
 - Junk Food and chips.
 - Alcohol
-- Sleep depriviation
+- Sleep deprivation
 
-And everytime I avoid this, I'm able to stay functional.
+And every time I avoid this, I'm able to stay functional.
 
 I am able to perform well and I am able to keep my life in order.
 
-But everytime I violate this, I just feel horrible.
+But every time I violate this, I just feel horrible.
 
 I'm unable to focus.
 

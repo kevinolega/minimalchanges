@@ -2,7 +2,7 @@
 layout: post
 title: Be An Expert Not A Purist
 date: 2011-04-04 01:14
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [ballance, being anal, belief, expert, philosophy, popular, purist, religion, skill, Well Roundedness and Balance]
 ---

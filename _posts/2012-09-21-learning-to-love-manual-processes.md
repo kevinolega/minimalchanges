@@ -2,7 +2,7 @@
 layout: post
 title: Learning to Love Manual Processes
 date: 2012-09-21 20:29
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

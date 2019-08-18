@@ -2,7 +2,7 @@
 layout: post
 title: Why I Chose to Live without Facebook
 date: 2011-01-26 15:24
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [enjoy life, popular, Uncategorized]
 ---
@@ -23,7 +23,7 @@ Don’t think for a moment that I don’t care about you. I left facebook so we 
 
 I know getting rid of people from grade school, high school and college and everyone else I met is a drag but consider the possibilities. You and I have really important relationships right now that we need to nourish. I have a my mom, my little brother, my girlfriend, and the people I meet on a regular basis to take care of and if that’s not enough I have a full time job, 2 blogs and projects I really wanted to get in to. I don’t want to spread myself too thin and in my case facebook is a big distraction so it has to go. I’m also looking at setting up another business in Manila and going back to school to complete my upgrades and to learning to play the guitar and spend time with family and finally you. Just like I said in the message. The good thing about getting rid of facebook is I have more time to hang out with people. So feel free to shoot me an invite.
 
-And for the record I don’t think its a waste the rest of the 700 are not here <strong>what’s important to me is that you’re here and that’s all that matters.</strong>
+And for the record I don’t think its a waste the rest of the 700 are not here **what’s important to me is that you’re here and that’s all that matters.**
 
 I’m on <a href="http://twitter.com/kevinolega">twitter</a> though which is low maintenance and equally addictive. And email may be old school for you but I’m using it because its distraction free and it gets the job done.
 

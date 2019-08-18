@@ -2,7 +2,7 @@
 layout: post
 title: Fear That Doesn't Cripple
 date: 2012-02-21 11:56
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

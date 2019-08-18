@@ -2,13 +2,13 @@
 layout: post
 title: Time To Move Forward and Face the Future
 date: 2014-05-09 17:03
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
 I decided to be honest to a point that it's a bit embarrassing. I want to write about something useful and post it in public to let go of my dependence on others for my self image. It's either I do this or I walk around the metro wearing a dress and a dildo strapped between my legs trying to pick up girls. You're reading this so you know I didn't pick the other one. I'm such an ungrateful bastard at the end of this post you'll come to a conclusion that I've been blessed more times than any fictional character and I still complain like a bitch because of the 2-3 things that don't go according to plan daily.
 
-<strong>Useful Advice</strong>
+**Useful Advice**
 1. Make a record of events in your life. Write down your goals and record the progress.
 2. Eventually you will reach where you want to go. You won’t notice it as you move forward. Only after the time has passed.
 3. Be prepared to let go of what you are afraid to lose.

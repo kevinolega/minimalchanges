@@ -2,7 +2,7 @@
 layout: post
 title: Song Like Experience
 date: 2011-09-19 04:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Minimal Changes That Grows Savings
 date: 2010-09-09 05:08
-author: minimalc
+author: Kevin Olega
 comments: true
 
 ---

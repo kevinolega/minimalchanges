@@ -2,7 +2,7 @@
 layout: post
 title: More Reliable Than Friends
 date: 2012-02-25 08:54
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

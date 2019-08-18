@@ -2,7 +2,7 @@
 layout: post
 title: Insignificant Responsibility
 date: 2012-02-01 20:35
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

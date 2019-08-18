@@ -2,7 +2,7 @@
 layout: post
 title: Real Friend With Benefits
 date: 2012-02-14 11:57
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

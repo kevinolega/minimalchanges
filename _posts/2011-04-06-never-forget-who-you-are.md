@@ -2,7 +2,7 @@
 layout: post
 title: Never Forget Who You Are
 date: 2011-04-06 04:26
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [bank account, business, cash, Confidence and Moving Forward, depressed, down, gig, rejected]
 ---
@@ -30,6 +30,6 @@ Let’s set the record straight:
 	<li>Yes the market pays you what      they think you're worth but they always aim to get it at the lowest      possible price and there are buggers who will use cheap shots to keep the      prices down.. There are too many people who will to waste your time on the      people who wont.</li>
 	<li>Gatekeepers are gatekeepers.      Deal with it. Call again or go around them. Do not waste any time with      them. Continue offering what you have and if they don't listen offer it to      somebody else. The market is big enough. There are people looking for your      product or service and will gladly pay for it. If you're being shot down      or rejected then you're just barking at the wrong tree. Thank the people      who rejected you because you just used them for practice. Move on to the      next company.</li>
 	<li>Some people do not see your      value because they are looking for something else. That’s a good thing. I      wouldn't want to imagine myself in a situation where I'll be working with      or for someone who doesn't respect me. Fire their asses. It’s a two way      relationship and should be mutually beneficial. Walk away from deals that      will make you miserable. Every moment you spend with the wrong one is time      wasted because you should spend it with the right people.</li>
-	<li>You are not your bank      account. If you’re not happy with the money you have betted do something      about it. There are a lot of places to get ideas from but you have a brain      and I’m sure you’ll be able to use it. <strong>Your ideas are better than someone else for your situation because nobody knows your situation like you do.</strong></li>
+	<li>You are not your bank      account. If you’re not happy with the money you have betted do something      about it. There are a lot of places to get ideas from but you have a brain      and I’m sure you’ll be able to use it. **Your ideas are better than someone else for your situation because nobody knows your situation like you do.**</li>
 </ul>
 The truth is that you're better than who you think you are. Just keep going.<a href="http://minimalchanges.com/how-to-be-a-talented-genius-in-whatever-you-want-to-learn/"> Things are a lot better once you hit your breakthrough so I'll wait for you on the other side.</a>

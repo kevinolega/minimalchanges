@@ -2,7 +2,7 @@
 layout: post
 title: Responsible Minimalism
 date: 2010-09-25 06:19
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [minimalism, popular, Well Roundedness and Balance]
 ---
@@ -25,7 +25,7 @@ Remember when you considered a minimalist lifestyle to get all the junk off your
 
 If minimalism is more important to you than anything else then you have missed the point. Think long and hard and write a long list. Then pick a short list and focus on that. How do you separate items on the long list from the short list? Consider this. If you knew that God was giving you a one way ride off the planet tomorrow, I doubt you would want to spend the time to empty your mind or do yoga or follow your pleasures. Only the important matters. When you opted for a minimalist lifestyle in favor of a consumerist one I can guess that it was a time when you realized that your priorities were screwed up because you realized that your focus and energy did not match what truly matters. <a href="http://minimalchanges.com/blog/minimal-changes-to-achieving-what-matters-most/">What truly matters</a>? Unfortunately I can’t tell you. We are all unique and we all have a different purpose. That you would have to find out on your own.
 
-I want to leave you with these short lessons to think about. Pick one that applies to your life and let me know what <strong>changes</strong> happened this week.
+I want to leave you with these short lessons to think about. Pick one that applies to your life and let me know what **changes** happened this week.
 <ul>
 	<li>Minimalism is a means to get less unimportant things done and accomplish more of <a href="http://minimalchanges.com/blog/minimal-changes-to-achieving-what-matters-most/">what matters</a></li>
 	<li>Extreme minimalism is just as bad as extreme consumerism</li>
@@ -35,4 +35,4 @@ I want to leave you with these short lessons to think about. Pick one that appli
 	<li>With great power comes great responsibility</li>
 	<li>Don’t be anal with your message. An ass in the face is repulsive no matter who it belongs to.</li>
 </ul>
-<strong>If you liked this post sign up <a href="http://feedburner.google.com/fb/a/mailverify?uri=Minimalchangescom">for free updates via email</a> or <a href="http://feeds.feedburner.com/minimalchangescom">RSS</a>.</strong>
+**If you liked this post sign up <a href="http://feedburner.google.com/fb/a/mailverify?uri=Minimalchangescom">for free updates via email</a> or <a href="http://feeds.feedburner.com/minimalchangescom">RSS</a>.**

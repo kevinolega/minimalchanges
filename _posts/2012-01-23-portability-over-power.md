@@ -2,11 +2,11 @@
 layout: post
 title: Portability Over Power
 date: 2012-01-23 15:50
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
-<br /><br /><a href="http://minimalchanges.com/blog/wp-content/uploads/2012/01/20120123-154728.jpg"><img src="http://minimalchanges.com/blog/wp-content/uploads/2012/01/20120123-154728.jpg" alt="20120123-154728.jpg" class="alignnone size-full" /></a>
+<a href="http://minimalchanges.com/blog/wp-content/uploads/2012/01/20120123-154728.jpg"><img src="http://minimalchanges.com/blog/wp-content/uploads/2012/01/20120123-154728.jpg" alt="20120123-154728.jpg" class="alignnone size-full" /></a>
 
 
 <blockquote>this will replace my laptop for a while</blockquote>

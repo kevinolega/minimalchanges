@@ -2,7 +2,7 @@
 layout: post
 title: Tyler Always Talks About Hitting Rock Bottom
 date: 2012-01-26 08:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Feeling Worthless?
 date: 2011-06-20 03:03
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

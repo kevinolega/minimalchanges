@@ -2,7 +2,7 @@
 layout: post
 title: Desire To Be God Powered
 date: 2012-01-31 22:14
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

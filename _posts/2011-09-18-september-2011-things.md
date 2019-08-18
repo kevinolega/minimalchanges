@@ -2,7 +2,7 @@
 layout: post
 title: September 2011 Things
 date: 2011-09-18 13:11
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -97,5 +97,5 @@ Logged in as kevin. Log out?
 
 Comment
 
-You may use these HTML tags and attributes: <a title=""> <abbr title=""> <acronym title=""> <strong>
-</strong></acronym></abbr></a>
+You may use these HTML tags and attributes: <a title=""> <abbr title=""> <acronym title=""> **
+**</acronym></abbr></a>

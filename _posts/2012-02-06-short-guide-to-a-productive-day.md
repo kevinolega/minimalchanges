@@ -2,7 +2,7 @@
 layout: post
 title: Short Guide To A Productive Day
 date: 2012-02-06 23:49
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

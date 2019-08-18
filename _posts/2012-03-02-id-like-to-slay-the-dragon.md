@@ -2,7 +2,7 @@
 layout: post
 title: I'd Like To Slay The Dragon
 date: 2012-03-02 23:52
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -22,4 +22,4 @@ I want to cry because I want my best friend back. Flashbacks of how I excited I 
 
 I hear more monsters approaching. My arms relax, anticipating the next encounter. I expect my legs to dash forward any second. I hear mighty wings flapping. This could be the end of this part of the story but the next part will go on. I'd like to slay the dragon.
 
-<strong>Post inspired by <a href="http://io9.com/5886791/10-science-fiction-and-fantasy-endings-wed-like-to-see-more-often">Not Fade Away (see ending number 6)</a></strong>
+**Post inspired by <a href="http://io9.com/5886791/10-science-fiction-and-fantasy-endings-wed-like-to-see-more-often">Not Fade Away (see ending number 6)</a>**

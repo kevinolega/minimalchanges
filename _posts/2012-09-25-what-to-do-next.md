@@ -2,7 +2,7 @@
 layout: post
 title: What To Do Next?
 date: 2012-09-25 16:50
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Christian teachings that I've been intentionally ignoring
 date: 2014-04-15 22:27
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

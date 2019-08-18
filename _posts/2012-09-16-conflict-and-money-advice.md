@@ -2,7 +2,7 @@
 layout: post
 title: Conflict and Money Advice
 date: 2012-09-16 10:08
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

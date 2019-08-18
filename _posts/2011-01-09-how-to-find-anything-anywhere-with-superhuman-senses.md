@@ -2,7 +2,7 @@
 layout: post
 title: How to Find Anything Anywhere with Superhuman Senses
 date: 2011-01-09 15:25
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, How To, superpowers]
 ---

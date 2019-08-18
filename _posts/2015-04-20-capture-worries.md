@@ -2,7 +2,7 @@
 layout: post
 title: Capture Worries
 date: 2015-04-20 08:17
-author: minimalc
+author: Kevin Olega
 comments: true
 ---
 Original title: My Experiment on Writing My Fears at the Start of the Day

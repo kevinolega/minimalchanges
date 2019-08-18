@@ -2,7 +2,7 @@
 layout: post
 title: How I Brand Myself for Employment
 date: 2011-11-21 11:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Blessings Are Location Independent
 date: 2012-02-17 10:20
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

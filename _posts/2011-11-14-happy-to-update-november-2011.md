@@ -2,7 +2,7 @@
 layout: post
 title: Happy to Update November 2011
 date: 2011-11-14 11:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

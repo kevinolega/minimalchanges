@@ -2,7 +2,7 @@
 layout: post
 title: How to Succeed Financially With an Average Income
 date: 2010-11-10 16:18
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast, How To]
 ---
@@ -10,13 +10,13 @@ categories: [Efficient Light and Fast, How To]
 
 <em>My major goal for 2009 just took me a bit of saving up.</em>
 
-<em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
+<em>**Post written by **<a href="http://minimalchanges.com/about">**Kevin Olega**</a>**. Follow me on **<a href="http://twitter.com/kevinolega">**twitter.**</a></em>
 
 My friend asked me recently about  the secret of career success so he can gain financial success. He makes a lot more than me but I think he’s asking me because I have a lot of experience working on projects for extra income and had worked as a financial planner.
 
 At first I felt that I didn’t have the answers so I scrapped the idea of writing a blogpost about it. One afternoon upon waking from a nap the answer came.
 
-Instead of working to increase your income work on yourself and teach yourself to <strong>spend less than you earn</strong>. Thats the answer.  Income is important but how you spend your income determines the end result.
+Instead of working to increase your income work on yourself and teach yourself to **spend less than you earn**. Thats the answer.  Income is important but how you spend your income determines the end result.
 
 I bet everyone knows this already. I bet you also heard that you should spend on savings (treat your savings as an expense by setting it aside before spending on your usual budget).
 

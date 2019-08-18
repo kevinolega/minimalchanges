@@ -2,7 +2,7 @@
 layout: post
 title: Consider Hassles of Ownership To Control Overspending
 date: 2012-03-08 10:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

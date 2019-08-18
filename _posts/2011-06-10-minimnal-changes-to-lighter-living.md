@@ -2,7 +2,7 @@
 layout: post
 title: Minimal Changes to Lighter Living
 date: 2011-06-10 04:12
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast]
 ---

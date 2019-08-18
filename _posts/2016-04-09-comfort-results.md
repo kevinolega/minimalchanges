@@ -2,7 +2,7 @@
 layout: post
 title: Do You Want Comfort or Results?
 date: 2016-04-09 13:20
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

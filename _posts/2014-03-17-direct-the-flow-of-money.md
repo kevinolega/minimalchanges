@@ -2,7 +2,7 @@
 layout: post
 title: Direct the Flow of Money
 date: 2014-03-17 19:14
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -16,7 +16,7 @@ I was thinking what would happen if that happened to a family member. I couldn't
 
 It took me a year and despite several financial setbacks, I made it. I got cheated into lending people money then they disappeared. After a couple of years tracking exactly where my money went, I found out that. 
 
-<blockquote><strong>My money always go somewhere, the question is where?</strong>
+<blockquote>**My money always go somewhere, the question is where?**
 
 </blockquote>
  
@@ -31,15 +31,15 @@ I've been broke because I threw my money away when I got depressed.
 
 Don't make my mistakes.&nbsp; Let your money flow to where it should. 
 
-<strong>God</strong>, is my partner. We are a two man team, He controls everything out of my control and gives me spider sense against trouble.&nbsp; Despite that He let's me use 90% of everything we make and I give Him his cut to honor our partnership. 
+**God**, is my partner. We are a two man team, He controls everything out of my control and gives me spider sense against trouble.&nbsp; Despite that He let's me use 90% of everything we make and I give Him his cut to honor our partnership. 
 
-<strong><strong>Emergency fund</strong>. There are unexpected events that hit us when we least expect. Having money ready helps us soften the blow. </strong>
+****Emergency fund**. There are unexpected events that hit us when we least expect. Having money ready helps us soften the blow. **
 
-<strong>Savings.&nbsp; </strong>Seriously do I need to convince you to have savings? 
+**Savings.&nbsp; **Seriously do I need to convince you to have savings? 
 
-<strong>Investments.&nbsp; </strong>We need to grow the money. I don't enjoy seeing opportunities pass me by because I don't have money. 
+**Investments.&nbsp; **We need to grow the money. I don't enjoy seeing opportunities pass me by because I don't have money. 
 
-<strong>Projects that make me happy</strong>. I work to love and not live to work and that entails having the money to do things I like. It could be a small business, a class, travel, money to get married, and so forth. 
+**Projects that make me happy**. I work to love and not live to work and that entails having the money to do things I like. It could be a small business, a class, travel, money to get married, and so forth. 
 
 I have a friend from high school who like me didn't grow up with a silver spoon in his mouth but seems to be well off, and having fun now. I learned one thing observing him. Whenever we invited him to a bar or to eat out his response was always just go to my house, I'll take care of the venue bring some drinks and I'll contribute.&nbsp; I had a three year head start and now he has more money than me. 
 

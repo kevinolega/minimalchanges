@@ -2,7 +2,7 @@
 layout: post
 title: 6 Tricks I Use To Gain Skills
 date: 2011-05-05 04:02
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Putting The More Important Things First
 date: 2012-02-25 09:46
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

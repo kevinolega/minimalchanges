@@ -2,7 +2,7 @@
 layout: post
 title: Start Using Your Elemental Powers
 date: 2010-12-23 07:44
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, How To, superpowers]
 ---

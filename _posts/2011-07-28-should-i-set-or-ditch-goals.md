@@ -2,7 +2,7 @@
 layout: post
 title: Should I Set or Ditch Goals?
 date: 2011-07-28 00:04
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

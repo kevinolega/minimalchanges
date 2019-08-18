@@ -2,7 +2,7 @@
 layout: post
 title: Life Lessons I've Picked Up From Colin Wright
 date: 2015-10-06 16:18
-author: minimalc
+author: Kevin Olega
 permalink: colin
 comments: true
 categories: [Uncategorized]

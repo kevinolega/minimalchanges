@@ -2,7 +2,7 @@
 layout: post
 title: Complaining is a Sin
 date: 2014-04-14 15:44
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

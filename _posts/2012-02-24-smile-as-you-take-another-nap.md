@@ -2,7 +2,7 @@
 layout: post
 title: Smile As You Take Another Nap
 date: 2012-02-24 08:45
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

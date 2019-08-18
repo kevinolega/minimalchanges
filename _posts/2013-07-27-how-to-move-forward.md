@@ -2,7 +2,7 @@
 layout: post
 title: How to Move Forward
 date: 2013-07-27 15:02
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

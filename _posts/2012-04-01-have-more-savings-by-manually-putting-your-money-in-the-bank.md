@@ -2,7 +2,7 @@
 layout: post
 title: Have More Savings By Manually Putting Your Money In The Bank 
 date: 2012-04-01 12:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -25,4 +25,4 @@ I have to walk back to the office.
 Guess what? After a few months I was able to maintain saving in the account I assigned for savings. I felt good putting money in my account and I’m sure you will too. I hope this trick was able to help.
 
 What moves have you taught yourself to save consistently?<strong id="internal-source-marker_0.1827563145197928">
-</strong>
+**

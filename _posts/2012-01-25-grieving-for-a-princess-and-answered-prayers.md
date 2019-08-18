@@ -2,7 +2,7 @@
 layout: post
 title: Grieving For Answered Prayers
 date: 2012-01-25 23:50
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

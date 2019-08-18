@@ -2,7 +2,7 @@
 layout: post
 title: Drop The Drama And Move Forward
 date: 2012-01-26 23:32
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

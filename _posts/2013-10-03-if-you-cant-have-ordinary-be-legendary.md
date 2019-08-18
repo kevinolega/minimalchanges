@@ -2,7 +2,7 @@
 layout: post
 title: If You Can't Have Ordinary Be Legendary
 date: 2013-10-03 09:35
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

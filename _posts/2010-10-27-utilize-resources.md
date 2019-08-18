@@ -2,14 +2,14 @@
 layout: post
 title: Use What You Have, Do What You Can To Progress
 date: 2010-10-27 07:26
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, The Self]
 ---
 <a title="mac desk by Kevin Olega, on Flickr" href="http://www.flickr.com/photos/kevinolega/5119314583/"><img src="http://farm5.static.flickr.com/4030/5119314583_dd55b193cf.jpg" alt="mac desk" width="493" height="375" /></a>
 <em>Do I really need this before I move forward?</em>
 
-<em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
+<em>**Post written by **<a href="http://minimalchanges.com/about">**Kevin Olega**</a>**. Follow me on **<a href="http://twitter.com/kevinolega">**twitter.**</a></em>
 
 <em>Fear not the weapon but the hand that wields it! – Ninja Assassin (2009)</em>
 
@@ -31,6 +31,6 @@ Here’s your chance. With your current goals and challenges or in an area that 
 	<li>What can I do to move forward and progress with what I am currently doing?</li>
 	<li>How do I keep moving forward despite my limitations without buying anything?</li>
 </ul>
-Now I know you come to this <strong>blog</strong> to look for hints to improve your situation. Stop reading for today and give it a shot.
+Now I know you come to this **blog** to look for hints to improve your situation. Stop reading for today and give it a shot.
 
-<strong>You can also sign up <a href="http://feedburner.google.com/fb/a/mailverify?uri=Minimalchangescom">for free updates via email</a>or <a href="http://feeds.feedburner.com/minimalchangescom">RSS</a>.</strong>
+**You can also sign up <a href="http://feedburner.google.com/fb/a/mailverify?uri=Minimalchangescom">for free updates via email</a>or <a href="http://feeds.feedburner.com/minimalchangescom">RSS</a>.**

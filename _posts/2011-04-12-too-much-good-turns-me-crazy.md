@@ -2,7 +2,7 @@
 layout: post
 title: Too Much Good Turns Me Crazy
 date: 2011-04-12 01:55
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Well Roundedness and Balance]
 ---

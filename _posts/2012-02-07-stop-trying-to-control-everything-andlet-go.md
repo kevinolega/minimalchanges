@@ -2,7 +2,7 @@
 layout: post
 title: Stop Trying To Control Everything andLet Go
 date: 2012-02-07 23:02
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

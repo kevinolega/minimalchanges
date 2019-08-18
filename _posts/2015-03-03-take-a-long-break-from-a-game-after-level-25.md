@@ -2,7 +2,7 @@
 layout: post
 title: Take a Long Break From a Game After Level 25
 date: 2015-03-03 11:04
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -17,7 +17,7 @@ I'm a gamer at a godlike level. I'm a high level starcraft and diablo 2 player. 
 <br>
 
 <blockquote>
-  <strong>"If I'm so good in games, why don't I just manage my character in real life as a game character?"</strong>
+  **"If I'm so good in games, why don't I just manage my character in real life as a game character?"**
 </blockquote>
 
 <br>
@@ -27,20 +27,20 @@ I was owning. Prior to playing online games I was..
 <br>
 
 <ul>
-<li><strong>Learning how to code in Python by reading the book "Learn Pythin the Hard Way"</strong>.&nbsp;</p></li>
-<li><p><strong>Quit smoking</strong>. It was on and off then I learned to actually control it.</p></li>
-<li><p><strong>Going to the gym regularly</strong>. I have a personal bench press record of 220lbs at 10 reps 3 sets.</p></li>
+<li>**Learning how to code in Python by reading the book "Learn Pythin the Hard Way"**.&nbsp;</p></li>
+<li><p>**Quit smoking**. It was on and off then I learned to actually control it.</p></li>
+<li><p>**Going to the gym regularly**. I have a personal bench press record of 220lbs at 10 reps 3 sets.</p></li>
 </ul>
 
-<p>-<strong>Doing a body weight experiment</strong> Last record I had was 4,000 of 10,000 push-ups.
+<p>-**Doing a body weight experiment** Last record I had was 4,000 of 10,000 push-ups.
 
 <ul>
-<li><strong>Able to achieve zero debt and growing my savings.</strong>&nbsp;</p></li>
-<li><p><strong>Awarded top sales at my job</strong></p></li>
-<li><p><strong>Able to achieve one armed push ups</strong></p></li>
-<li><p><strong>leveling up my cooking skills to perfectly imitate my cooking show influences like Jamie Oliver, Gordon Ramsey, Heston Blumenthal and Mads Mikkelsen.</strong>&nbsp;</p></li>
-<li><p><strong>Biking</strong> at least 30 km a week.&nbsp;</p></li>
-<li><p><strong>able to &nbsp;prepare and hike through two mountains</strong>.&nbsp;</p></li>
+<li>**Able to achieve zero debt and growing my savings.**&nbsp;</p></li>
+<li><p>**Awarded top sales at my job**</p></li>
+<li><p>**Able to achieve one armed push ups**</p></li>
+<li><p>**leveling up my cooking skills to perfectly imitate my cooking show influences like Jamie Oliver, Gordon Ramsey, Heston Blumenthal and Mads Mikkelsen.**&nbsp;</p></li>
+<li><p>**Biking** at least 30 km a week.&nbsp;</p></li>
+<li><p>**able to &nbsp;prepare and hike through two mountains**.&nbsp;</p></li>
 </ul>
 
 <p><br>
@@ -48,11 +48,11 @@ I was owning. Prior to playing online games I was..
 I eventually felt helpless. Out of energy. Out of willpower and out of resources. My attention and eventually my ability to get things done went to...
 
 <ul>
-<li><strong>Injustice: gods among us</strong>. I have about 95% of the characters at either elite 6 or 7.&nbsp;</p></li>
-<li><p><strong>Plants vs Zombies 2</strong> Defeated Zomboss across time on all versions.</p></li>
-<li><p><strong>Summoners war</strong> Level 27 and Two Awakend Five Star Monsters. Fire Inugami and Fire Samurai. Six awakened four strar monsters from all elements.</p></li>
-<li><p><strong>Deadpool the game</strong> I finished most of the game on hard mode despite the lag in my computer.&nbsp;</p></li>
-<li><p><strong>Tap Titans</strong> I've unlocked all but the last character.</p></li>
+<li>**Injustice: gods among us**. I have about 95% of the characters at either elite 6 or 7.&nbsp;</p></li>
+<li><p>**Plants vs Zombies 2** Defeated Zomboss across time on all versions.</p></li>
+<li><p>**Summoners war** Level 27 and Two Awakend Five Star Monsters. Fire Inugami and Fire Samurai. Six awakened four strar monsters from all elements.</p></li>
+<li><p>**Deadpool the game** I finished most of the game on hard mode despite the lag in my computer.&nbsp;</p></li>
+<li><p>**Tap Titans** I've unlocked all but the last character.</p></li>
 </ul>
 
 <p>The thing with games are achievements has limited benefits. You can use it to teach yourself some principles that can apply to real life or perhaps get you interested or excited about a topic that was previously totally boring for you but that's as far as it goes. In a software sense it's not as cross platform as I'd like. The bragging rights involved in games are limited to wannabe players, newbie players and lower level players of the specific game that you mastered.&nbsp;
@@ -72,12 +72,12 @@ Here's the short answer why you should quit that game now.&nbsp;
 You pay a tax when you play online games. Here are taxes I'm paying that I hadn't originally considered:
 
 <ul>
-<li><strong>attention</strong>&nbsp;</p></li>
-<li><p><strong>interest</strong></p></li>
-<li><p><strong>focus</strong></p></li>
-<li><p><strong>time</strong></p></li>
-<li><p><strong>willpower</strong></p></li>
-<li><p><strong>money</strong></p></li>
+<li>**attention**&nbsp;</p></li>
+<li><p>**interest**</p></li>
+<li><p>**focus**</p></li>
+<li><p>**time**</p></li>
+<li><p>**willpower**</p></li>
+<li><p>**money**</p></li>
 </ul>
 
 <p>I feel like I don't need to explain each item. Take this moment to look at your life and try to remember how you lost each item to games.
@@ -87,11 +87,11 @@ Games are not all that bad though. I don't recommend going cold turkey. I just r
 Here are concepts you should export from games into real life
 
 <ul>
-<li><strong>daily bonus</strong>. If you play on a regular basis you stand to benefit more. The longer your battles the shorter your career so try to take a short game on a daily basis instead.&nbsp;</p></li>
-<li><p><strong>gets better as your level increases</strong> If you ever feel disappointed at your results, consider improving your skill level. The higher your skill level is, the better your general experience.</p></li>
-<li><p><strong>learn from high level players</strong>. Look for people you admire and learn from them. Try to ger their advice and if you can't reach them just observe them and learn from what they do and what is written by/about them.</p></li>
-<li><p><strong>not complicated to learn as you think</strong>. In Tekken, winning a fight involves enough attacks to bring the other player's lifebar to zero. It's the right combination of attack combinations. There are generally four to six combos used and mixed up through the game. Combos are a combination of moves. To execute a move you follow steps. Just identify the steps and practice doing it on a regular basis until the combos are natural</p></li>
-<li><p><strong>strategies and principles can be used in other areas</strong>. If you play rock paper sissors, you can play Pokemon, Starcraft 2, Summoner's war and a bunch of games. If you played a fighting game or rpg game you can play other games. The same thing happens in real life. If you're good at something, you're likely to be able to be good at other areas as well.</p></li>
+<li>**daily bonus**. If you play on a regular basis you stand to benefit more. The longer your battles the shorter your career so try to take a short game on a daily basis instead.&nbsp;</p></li>
+<li><p>**gets better as your level increases** If you ever feel disappointed at your results, consider improving your skill level. The higher your skill level is, the better your general experience.</p></li>
+<li><p>**learn from high level players**. Look for people you admire and learn from them. Try to ger their advice and if you can't reach them just observe them and learn from what they do and what is written by/about them.</p></li>
+<li><p>**not complicated to learn as you think**. In Tekken, winning a fight involves enough attacks to bring the other player's lifebar to zero. It's the right combination of attack combinations. There are generally four to six combos used and mixed up through the game. Combos are a combination of moves. To execute a move you follow steps. Just identify the steps and practice doing it on a regular basis until the combos are natural</p></li>
+<li><p>**strategies and principles can be used in other areas**. If you play rock paper sissors, you can play Pokemon, Starcraft 2, Summoner's war and a bunch of games. If you played a fighting game or rpg game you can play other games. The same thing happens in real life. If you're good at something, you're likely to be able to be good at other areas as well.</p></li>
 </ul>
 
 <p>I'd like to end with this.

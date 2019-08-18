@@ -2,7 +2,7 @@
 layout: post
 title: Why I'm Calling Myself an Idiot
 date: 2014-01-07 12:32
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

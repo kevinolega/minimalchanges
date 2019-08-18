@@ -2,7 +2,7 @@
 layout: post
 title: Send A Video To Your Future Self For The Ultimate Reminder
 date: 2015-01-06 12:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -21,13 +21,13 @@ Be more meticulous about how you craft your reality.
 You need to create reminders for yourself and others. When you meet the next partner create a similar video only this time be part of the video and encourage her to never give up no matter what. Make lots of Naruto reference and get her to watch, Naruto, Fairy Tail and How I Met Your Mother to drive your point.
 
 <ul>
-<li><strong>7 Hours of Sleep</strong>. You achieve peak performance.</li>
-<li><strong>Meditate</strong>. Breathing and disassociation with your negative and harmful thoughts. It trains you to allow things you have no control of.</li>
-<li><strong>Exercise 2 to 3 times a week</strong>. This is the formula for great ideas, the energy to execute and the passion to go after your goals.</li>
-<li><strong>Write your own inspiration</strong>. Instead of reading other's blogs everyday, create you own blog in a way that you inspire yourself everyday such that you go back to it more than the daily and weekly blogs you visit.</li>
-<li><strong>Be the best at what you do</strong>. As you always did. You did it more than once, you now have the capability to do it every day.</li>
-<li><strong>Eat Clean Food</strong> Vegetables, Organic Meat, Good quality sausages, Slow carb compliant meals and go crazy on weekends.</li>
-<li><strong>Spend only 40% of your income and live in luxury</strong>. 40% is a lot and as you've learned back in 2012 if you're skilful, you can use little money for great effect.</li>
+<li>**7 Hours of Sleep**. You achieve peak performance.</li>
+<li>**Meditate**. Breathing and disassociation with your negative and harmful thoughts. It trains you to allow things you have no control of.</li>
+<li>**Exercise 2 to 3 times a week**. This is the formula for great ideas, the energy to execute and the passion to go after your goals.</li>
+<li>**Write your own inspiration**. Instead of reading other's blogs everyday, create you own blog in a way that you inspire yourself everyday such that you go back to it more than the daily and weekly blogs you visit.</li>
+<li>**Be the best at what you do**. As you always did. You did it more than once, you now have the capability to do it every day.</li>
+<li>**Eat Clean Food** Vegetables, Organic Meat, Good quality sausages, Slow carb compliant meals and go crazy on weekends.</li>
+<li>**Spend only 40% of your income and live in luxury**. 40% is a lot and as you've learned back in 2012 if you're skilful, you can use little money for great effect.</li>
 </ul>
 
 <h3>Quotes used in the video:</h3>
@@ -37,7 +37,7 @@ You need to create reminders for yourself and others. When you meet the next par
   I'm very particular about what I allow to enter my body, that's why I end up preparing most meals myself. - Hannibal Lecter
 </blockquote>
 
-One last thing <strong>Make more videos</strong>
+One last thing **Make more videos**
 
 http://lifehacker.com/find-a-hobby-by-rekindling-your-childhood-passions-1674771996
 

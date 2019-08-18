@@ -2,7 +2,7 @@
 layout: post
 title: 6 Life Lessons From My iPod Touch
 date: 2012-02-28 13:20
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

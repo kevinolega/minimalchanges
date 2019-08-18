@@ -2,7 +2,7 @@
 layout: post
 title: Things Don't Need to Go According to Plan for Life to be Awesome
 date: 2012-10-22 09:44
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

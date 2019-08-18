@@ -2,7 +2,7 @@
 layout: post
 title: What Is The Lasengero Effect?
 date: 2011-04-13 01:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, lasengero, lasengero effect]
 ---

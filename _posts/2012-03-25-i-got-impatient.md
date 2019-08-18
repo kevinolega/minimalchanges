@@ -2,7 +2,7 @@
 layout: post
 title: I Got Impatient
 date: 2012-03-25 17:27
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

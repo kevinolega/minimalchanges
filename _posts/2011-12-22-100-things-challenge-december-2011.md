@@ -2,7 +2,7 @@
 layout: post
 title: 100 Things Challenge December 2011
 date: 2011-12-22 00:52
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -47,7 +47,7 @@ Should you decide to give it a shot here are some tips I recommend:
 
 Do you have a similar experience? I'd love to hear from you. Hit my contact page to share a story or leave one in the comments below.
 
-<strong>You might also like:</strong>
+**You might also like:**
 <h3><a href="http://www.google.com.ph/url?sa=t&amp;rct=j&amp;q=colin%20wright%20things&amp;source=web&amp;cd=2&amp;ved=0CCQQFjAB&amp;url=http%3A%2F%2Fexilelifestyle.com%2F55%2F&amp;ei=hg_yTvG7OsXJmAXkrNW1Ag&amp;usg=AFQjCNEDD5W_MZ2Vxqmo4d_gcJwYYCEcHw&amp;sig2=x-ZTchW4boMI7-BOyEXTMw">All 55 <em>Things</em> I Own | Exile Lifestyle</a></h3>
 <h3><a href="http://guynameddave.com/100-thing-challenge/"><em>100 Thing Challenge</em> | A Guy Named <em>Dave</em></a></h3>
 <h3><a href="http://mnmlist.com/50-things/">50 <em>things</em> :mnmlist</a></h3>

@@ -2,7 +2,7 @@
 layout: post
 title: Please Read
 date: 2011-12-19 11:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

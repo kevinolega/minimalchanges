@@ -3,7 +3,7 @@
 layout: post
 title: How I Accidently Overcome Depression
 date: 2014-11-07 04:57
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

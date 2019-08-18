@@ -2,7 +2,7 @@
 layout: post
 title: Forgive Others
 date: 2015-10-19 09:50
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 If I had the same circumstance, education, background, environment, experience as the people I hate, resent and look down upon I am likely to do the exact same thing. 

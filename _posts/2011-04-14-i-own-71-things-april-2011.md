@@ -2,7 +2,7 @@
 layout: post
 title: I Own 71 Things April 2011
 date: 2011-04-14 01:06
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast]
 ---

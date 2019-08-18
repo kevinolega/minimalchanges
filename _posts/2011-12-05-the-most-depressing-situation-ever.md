@@ -2,7 +2,7 @@
 layout: post
 title: The Most Depressing Situation Ever
 date: 2011-12-05 11:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

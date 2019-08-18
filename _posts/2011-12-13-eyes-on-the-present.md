@@ -2,7 +2,7 @@
 layout: post
 title: Eyes on the Present
 date: 2011-12-13 11:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

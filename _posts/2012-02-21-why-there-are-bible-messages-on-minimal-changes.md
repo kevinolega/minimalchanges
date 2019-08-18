@@ -2,7 +2,7 @@
 layout: post
 title: Why There Are Bible Messages On Minimal Changes
 date: 2012-02-21 12:40
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

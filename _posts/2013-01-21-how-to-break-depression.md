@@ -2,11 +2,11 @@
 layout: post
 title: How to Break Depression
 date: 2013-01-21 12:55
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---
-<strong>Total read time: 7 minutes.</strong>
+**Total read time: 7 minutes.**
 
 I promised I wouldn't write plans on minimal changes. I would only share lessons from my personal breakthroughs.This is my first for 2013. Let me start with this..
 <blockquote>Willpower, positive thinking and the mind over matter stuff is overrated.</blockquote>
@@ -35,9 +35,9 @@ I got hooked on accelerated learning and since then I've been trying out the ski
 
 At the end of 2012, my dad took us to Eastwood to celebrate New Year's Eve. We stayed at an all you can eat buffet restaurant. I ate something like eight plates of oysters, shrimp, ox tongue, roast beef, ribs, deep fried pork and many more. I decided that it would be good motivation to restart my slow carb diet since I feel pretty suck after what I ate.
 
-As I was writing my shopping list, I revisited my copy of The Four Hour Body and reread some of the pointers of the slow carb diet. While browsing the book, <strong>I read a case study about Serotonin, a neurotransmitter, often referred to as the second brain, that is found in the gut and have studies about it related to depression, stress and anxiety.</strong> The study had a conclusion that probiotics especially lactobacillus shirota strain is particularly good at maintaining healthy serotonin levels. I thought to myself that if this helps my diet and my depression it would be awesome. I decided to start an experiment and bought Yakult, a local probiotic drink that advertised had Lactobacillus Shirota Strain. I took Yakult for a week and shifted toward a capsule form (Gastro Flora, which has Lactobacillus Cassei spores) since other people in the house were attacking my stash in the fridge. I asked my friends who worked in the medical industry and they confirmed that serotonin is related to the studies I mentioned. As I write this, it is the fourth week of my probiotic experiment and <strong>since the start of week two, no negative thought stayed in my head longer than three seconds.</strong> I still do get hit by negative thoughts but it doesn't flood my head with anger or negative thoughts nor renders me unable to move.
+As I was writing my shopping list, I revisited my copy of The Four Hour Body and reread some of the pointers of the slow carb diet. While browsing the book, **I read a case study about Serotonin, a neurotransmitter, often referred to as the second brain, that is found in the gut and have studies about it related to depression, stress and anxiety.** The study had a conclusion that probiotics especially lactobacillus shirota strain is particularly good at maintaining healthy serotonin levels. I thought to myself that if this helps my diet and my depression it would be awesome. I decided to start an experiment and bought Yakult, a local probiotic drink that advertised had Lactobacillus Shirota Strain. I took Yakult for a week and shifted toward a capsule form (Gastro Flora, which has Lactobacillus Cassei spores) since other people in the house were attacking my stash in the fridge. I asked my friends who worked in the medical industry and they confirmed that serotonin is related to the studies I mentioned. As I write this, it is the fourth week of my probiotic experiment and **since the start of week two, no negative thought stayed in my head longer than three seconds.** I still do get hit by negative thoughts but it doesn't flood my head with anger or negative thoughts nor renders me unable to move.
 
-I came to the conclusion that <strong>if you want to feel better take better care of body</strong>. I have been neglecting my body and as a result it had broken down.
+I came to the conclusion that **if you want to feel better take better care of body**. I have been neglecting my body and as a result it had broken down.
 
 Extended bouts of depression and lack of discipline or drive is a result of poor eating and sleeping habits.
 

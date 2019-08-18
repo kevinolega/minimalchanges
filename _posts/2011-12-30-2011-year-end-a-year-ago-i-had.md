@@ -2,7 +2,7 @@
 layout: post
 title: 2011 Year End - A Year Ago I had...
 date: 2011-12-30 11:48
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -55,5 +55,5 @@ None of the links of the accomplishments are intended to brag. I only want to sh
 If for any reason I was unable to explain properly how I did it. Hit me up on twitter or email me and I'll do my best to share how I did it.
 
 How was your year? And what are you hoping for for next year?
-<h4><strong>You Might Also like:</strong></h4>
+<h4>**You Might Also like:**</h4>
 <a href="http://minimalchanges.com/">The Archives.</a>

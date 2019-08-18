@@ -2,7 +2,7 @@
 layout: post
 title: Wealth and Ambition
 date: 2012-02-02 23:05
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

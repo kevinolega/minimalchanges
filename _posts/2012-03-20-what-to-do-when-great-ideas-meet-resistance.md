@@ -2,7 +2,7 @@
 layout: post
 title: What To Do When Great Ideas Meet Resistance
 date: 2012-03-20 22:51
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, Handling conflict, linchpin strategy, overcoming fight or flee response, the resistance]
 ---

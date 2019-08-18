@@ -2,7 +2,7 @@
 layout: post
 title: Share Your Art
 date: 2012-03-21 15:20
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: My Ultimate Backup
 date: 2012-01-29 11:14
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

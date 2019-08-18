@@ -2,7 +2,7 @@
 layout: post
 title: Taking My Minimal Changes in a Different Direction
 date: 2011-07-10 01:15
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

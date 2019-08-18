@@ -2,7 +2,7 @@
 layout: post
 title: Five Things That Make Me Happy
 date: 2014-05-27 20:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

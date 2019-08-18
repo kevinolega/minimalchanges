@@ -2,7 +2,7 @@
 layout: post
 title: Lifestyle Experiments
 date: 2015-05-25 08:15
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

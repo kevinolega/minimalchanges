@@ -2,7 +2,7 @@
 layout: post
 title: The Beauty of Limitations
 date: 2010-10-27 16:28
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, The Self]
 ---
@@ -12,7 +12,7 @@ categories: [Confidence and Moving Forward, The Self]
 
 <em>Bernard: You bet I will!</em>
 
-<em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
+<em>**Post written by **<a href="http://minimalchanges.com/about">**Kevin Olega**</a>**. Follow me on **<a href="http://twitter.com/kevinolega">**twitter.**</a></em>
 
 Muay Thai (Thai Kickboxing) is considered to be among the deadliest martial art simply because it is an art that had embraced its limitations. Here are things I observed:
 <ul>
@@ -45,4 +45,4 @@ Punch, kick, knee, then elbow. Ust the tools you have. Strike where you can land
 
 Try that with your problems. Let me know how your fight goes.
 
-<strong>You can also sign up <a href="http://feedburner.google.com/fb/a/mailverify?uri=Minimalchangescom">for free updates via email</a>or <a href="http://feeds.feedburner.com/minimalchangescom">RSS</a>.</strong>
+**You can also sign up <a href="http://feedburner.google.com/fb/a/mailverify?uri=Minimalchangescom">for free updates via email</a>or <a href="http://feeds.feedburner.com/minimalchangescom">RSS</a>.**

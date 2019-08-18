@@ -2,7 +2,7 @@
 layout: post
 title: How Major Technology Companies Use Minimal Changes to Make Tons of Cash (and How You Can Use It)
 date: 2010-11-17 15:55
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, How To]
 ---
@@ -10,7 +10,7 @@ categories: [Confidence and Moving Forward, How To]
 
 <em>The secret is full of crap but also includes nuggets of wisdom. My favorite. “Just get started! Better tools will come along the way.”</em>
 
-<strong>Post written by<a href="http://minimalchanges.com/about"> Kevin Olega</a>. Follow me on<a href="http://twitter.com/kevinolega"> twitter.</a></strong>
+**Post written by<a href="http://minimalchanges.com/about"> Kevin Olega</a>. Follow me on<a href="http://twitter.com/kevinolega"> twitter.</a>**
 
 I broke my <a href="http://minimalchanges.com/blog/never-complain-promise/">promise to never complain</a>. After seeing <a href="http://www.youtube.com/watch?v=sW_7i6T_H78&amp;feature=youtu.be&amp;a">“The Story of Stuff’s: The Story of Electronics”</a> and seeing how we’re trashing the planet, trashing each other and not having fun, I’ve been complaining about how major technology companies make products that are designed to be obsolete yearly.
 
@@ -18,7 +18,7 @@ What happens is that last years product is made obsolete to sell a new product e
 <ul>
 	<li>Taking their current products (last year’s version)</li>
 	<li>Doing an inventory of what works</li>
-	<li>Looking for an area to apply a <strong>minimal</strong> change/minor upgrade</li>
+	<li>Looking for an area to apply a **minimal** change/minor upgrade</li>
 	<li>Repackage by changing the case/skin/design/name/model number)</li>
 	<li>Voila! Introducing the (latest/most powerful/fastest/lightest/thinnest) gizmo in the world!</li>
 	<li>Sell it as a new product</li>
@@ -39,18 +39,18 @@ Pondering this many times I realized that the 2-10 year strategy is already what
 	<li>I’ll save up for a few years to have enough to start my own business.</li>
 	<li>I’ll do (an action that takes about 5-10 years) and will work on it so (I can have a result that’s actually just an excuse for me to procrastinate going for what I really want because I’m really scared)</li>
 </ul>
-My 2-10 year suggestion might work better if applied to Large Technology Manufacturers but you’re not a Major Tech Manufacturer. <strong>You’re a great person  who is more than capable of reaching your goals.</strong>
+My 2-10 year suggestion might work better if applied to Large Technology Manufacturers but you’re not a Major Tech Manufacturer. **You’re a great person  who is more than capable of reaching your goals.**
 
-Here’s my proposal. Use the <strong>minimal</strong> <strong>changes</strong> strategy to your advantage. <strong>The good news is that you don’t have to be a major technology company</strong>. You can apply this to yourself, your product, your service, your business, your life.
+Here’s my proposal. Use the **minimal** **changes** strategy to your advantage. **The good news is that you don’t have to be a major technology company**. You can apply this to yourself, your product, your service, your business, your life.
 <ol>
-	<li><strong>Use what you have</strong> – you already have something to offer. Use it!</li>
-	<li><strong>Do what you can</strong> – you’re not trapped by your circumstances. There is a way for you to get started.</li>
-	<li><strong>Take an inventory</strong> – make sure you’re working on your self and not just imitating others. <a href="http://minimalchanges.com/blog/how-to-be-awesomely-confident-for-shy-people-only/">(click here for suggestions)</a></li>
-	<li><strong>Pick a <strong>minimal</strong> change/minor upgrade</strong> – You don’t need to change a lot. You can just work one or two things at a time and it can make all the difference</li>
-	<li><strong>Apply the <strong>minimal</strong> change/minor upgrade </strong>- Just follow-through on the <strong>minimal</strong> change you plan to make.</li>
-	<li><strong>Make the current/previous obsolete</strong> – Past is past! Your old-self/mistakes/failures should be discarded like the last years model.</li>
-	<li><strong>Package it as new</strong> – You have a new product now. It may be your service or an actual product but whatever it is, if you repackage things you will always have something to offer.</li>
-	<li><strong>Use it/sell it/share it</strong> – Take action. Don’t keep your latest creation to yourself. Others need it too.</li>
+	<li>**Use what you have** – you already have something to offer. Use it!</li>
+	<li>**Do what you can** – you’re not trapped by your circumstances. There is a way for you to get started.</li>
+	<li>**Take an inventory** – make sure you’re working on your self and not just imitating others. <a href="http://minimalchanges.com/blog/how-to-be-awesomely-confident-for-shy-people-only/">(click here for suggestions)</a></li>
+	<li>**Pick a **minimal** change/minor upgrade** – You don’t need to change a lot. You can just work one or two things at a time and it can make all the difference</li>
+	<li>**Apply the **minimal** change/minor upgrade **- Just follow-through on the **minimal** change you plan to make.</li>
+	<li>**Make the current/previous obsolete** – Past is past! Your old-self/mistakes/failures should be discarded like the last years model.</li>
+	<li>**Package it as new** – You have a new product now. It may be your service or an actual product but whatever it is, if you repackage things you will always have something to offer.</li>
+	<li>**Use it/sell it/share it** – Take action. Don’t keep your latest creation to yourself. Others need it too.</li>
 </ol>
 Now that I have equipped you with the game plan of Major technology companies, how do you plan to use it? Share in the comments below.
 

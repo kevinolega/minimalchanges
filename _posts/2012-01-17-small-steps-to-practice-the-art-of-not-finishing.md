@@ -2,7 +2,7 @@
 layout: post
 title: Small Steps to Practice The Art of Not Finishing
 date: 2012-01-17 03:06
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

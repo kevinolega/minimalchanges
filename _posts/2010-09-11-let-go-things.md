@@ -2,7 +2,7 @@
 layout: post
 title: Why Its Easy To Let Go of Things
 date: 2010-09-11 06:35
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast, minimalism]
 ---

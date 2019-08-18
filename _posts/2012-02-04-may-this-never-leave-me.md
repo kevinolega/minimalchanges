@@ -2,7 +2,7 @@
 layout: post
 title: May This Never Leave Me
 date: 2012-02-04 21:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

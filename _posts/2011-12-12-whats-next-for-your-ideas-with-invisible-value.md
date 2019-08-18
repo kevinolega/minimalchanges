@@ -2,7 +2,7 @@
 layout: post
 title: What's Next for Your Ideas With Invisible Value
 date: 2011-12-12 11:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

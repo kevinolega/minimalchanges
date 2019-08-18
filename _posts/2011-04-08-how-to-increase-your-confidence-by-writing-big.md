@@ -2,7 +2,7 @@
 layout: post
 title: How To Increase Your Confidence By Writing Big
 date: 2011-04-08 08:13
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, increase confidence, write big to increase confidence, writing, writing big]
 ---
@@ -33,12 +33,12 @@ Here are a few theories though.
 </ul>
 Benefits of Writing Big include: Confidence, Clarity, Focus, Direction, Easier Note Snapping, Easier Evernote Recognition, and Fun While Writing.
 
-<strong>When you write big you go all out. Loser ideas don’t survive and your best is revealed.</strong>
+**When you write big you go all out. Loser ideas don’t survive and your best is revealed.**
 
 What now?
 <ul>
-	<li><strong>Try Writing Big </strong>- Minimum of two line spaces per line</li>
-	<li><strong>See What Happens</strong> and share your story below in the comments for changes you noticed.</li>
+	<li>**Try Writing Big **- Minimum of two line spaces per line</li>
+	<li>**See What Happens** and share your story below in the comments for changes you noticed.</li>
 </ul>
 <em>
 </em>

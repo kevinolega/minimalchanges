@@ -2,7 +2,7 @@
 layout: post
 title: Minimal Changes To Improve Your Focus
 date: 2011-09-22 14:23
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

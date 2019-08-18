@@ -2,7 +2,7 @@
 layout: post
 title: Why I Disconnected
 date: 2011-04-07 06:49
-author: minimalc
+author: Kevin Olega
 comments: true
 
 ---
@@ -22,8 +22,8 @@ Here's what I did:
 
 Here are a few guidelines I decided to use to guide me:
 <ul>
-	<li><strong>Go for virtual communication if: </strong>you can and you’re not willing to spend time and effort to meet these people. Well that might be a bit rude but these people wont mind. I try to do this whenever I can. I can meet them in person if I really want to. What’s cool about email is that people don’t expect me to reply the minute I get the email and I don’t get any notifications unless they try to reach me.</li>
-	<li><strong>Go for real physical connections if:</strong> These people are important to you. Your Husband, Wife, Your Family, Your boyfriend, your girlfriend, your closest friends, advisers and mentors</li>
+	<li>**Go for virtual communication if: **you can and you’re not willing to spend time and effort to meet these people. Well that might be a bit rude but these people wont mind. I try to do this whenever I can. I can meet them in person if I really want to. What’s cool about email is that people don’t expect me to reply the minute I get the email and I don’t get any notifications unless they try to reach me.</li>
+	<li>**Go for real physical connections if:** These people are important to you. Your Husband, Wife, Your Family, Your boyfriend, your girlfriend, your closest friends, advisers and mentors</li>
 </ul>
 Where I come from people would skype their family and spend more time with their boss and clients. I say when you’re location independent you can just skype your boss and clents and spend time with your family.
 
@@ -45,7 +45,7 @@ I kinda disagree with a lot of this things about the film but this quote is wort
 
 We might have the tendency to act like sharks but we don’t have to be. Living a minimalist lifestyle does free up your backpack however I’d like it to be lighter because I’d like to carry the people important to me from time to time.
 
-<strong>What’s in your Backpack?</strong>
+**What’s in your Backpack?**
 
 &nbsp;
 

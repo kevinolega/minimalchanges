@@ -2,7 +2,7 @@
 layout: post
 title: The Sweetness of Doing Nothing
 date: 2010-10-26 19:48
-author: minimalc
+author: Kevin Olega
 comments: true
 ---
 <img src="http://farm5.static.flickr.com/4092/5116360837_a7df508a92.jpg" alt="The Sweetness of Doing Nothing" />

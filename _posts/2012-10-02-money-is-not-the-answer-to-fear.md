@@ -2,7 +2,7 @@
 layout: post
 title: Money is Not The Answer to Fear
 date: 2012-10-02 11:39
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

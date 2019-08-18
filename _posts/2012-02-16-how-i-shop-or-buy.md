@@ -2,7 +2,7 @@
 layout: post
 title: How I Shop or Buy
 date: 2012-02-16 10:01
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast]
 ---

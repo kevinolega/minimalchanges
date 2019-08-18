@@ -2,7 +2,7 @@
 layout: post
 title: Do you want to get well?
 date: 2014-03-23 21:59
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

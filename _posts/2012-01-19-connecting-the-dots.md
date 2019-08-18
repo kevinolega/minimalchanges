@@ -2,7 +2,7 @@
 layout: post
 title: Connecting the Dots
 date: 2012-01-19 08:03
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Image]
 ---

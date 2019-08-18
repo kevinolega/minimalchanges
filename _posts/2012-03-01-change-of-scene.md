@@ -2,7 +2,7 @@
 layout: post
 title: Change of Scene
 date: 2012-03-01 13:54
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Clear Flat Surfaces
 date: 2016-05-19 21:28
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

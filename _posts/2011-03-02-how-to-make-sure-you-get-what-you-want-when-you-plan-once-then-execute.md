@@ -2,7 +2,7 @@
 layout: post
 title: How to Make Sure You Get What You Want When You Plan Once then Execute
 date: 2011-03-02 12:29
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

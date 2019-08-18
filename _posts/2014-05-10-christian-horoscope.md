@@ -2,7 +2,7 @@
 layout: post
 title: Should Christians Believe In The Horoscope?
 date: 2014-05-10 17:03
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

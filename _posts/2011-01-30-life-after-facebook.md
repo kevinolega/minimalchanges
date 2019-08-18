@@ -2,7 +2,7 @@
 layout: post
 title: Life After Facebook
 date: 2011-01-30 07:26
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast, enjoy life]
 ---
@@ -36,4 +36,4 @@ Heck, the people I care about have stayed in touch with me even before I had fac
 
 What's so great about life after facebook? Its simple really. I have one less thing to check and I have more time and attention to spend on people who are important.
 
-<strong>I'm writing this blog because I believe you are important.</strong> Now with everything said and done, let's move on with life as I prepare to write my next post. Hopefully something you could really learn from.
+**I'm writing this blog because I believe you are important.** Now with everything said and done, let's move on with life as I prepare to write my next post. Hopefully something you could really learn from.

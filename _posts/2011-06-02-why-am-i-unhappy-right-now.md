@@ -2,7 +2,7 @@
 layout: post
 title: Why Am I Unhappy Right Now?
 date: 2011-06-02 00:34
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Well Roundedness and Balance]
 ---
@@ -14,10 +14,10 @@ I have every reason to be happy and so do you. Sometimes... okay thats an exagge
 Here's something I wrote down a while back and I hope you can use it for your situation.
 
 Here it is:
-<h4 style="text-align: center;"><span style="color: #808080;"><strong>"Maybe the reason why you're unhappy</strong></span></h4>
-<h4 style="text-align: center;"><span style="color: #808080;"><strong> is that the size of your goal </strong></span></h4>
-<h4 style="text-align: center;"><span style="color: #808080;"><strong>is too big or your deadline is too short </strong></span></h4>
-<h4 style="text-align: center;"><span style="color: #808080;"><strong>or your goal is to please everybody."</strong></span></h4>
+<h4 style="text-align: center;"><span style="color: #808080;">**"Maybe the reason why you're unhappy**</span></h4>
+<h4 style="text-align: center;"><span style="color: #808080;">** is that the size of your goal **</span></h4>
+<h4 style="text-align: center;"><span style="color: #808080;">**is too big or your deadline is too short **</span></h4>
+<h4 style="text-align: center;"><span style="color: #808080;">**or your goal is to please everybody."**</span></h4>
 If that's the case better stop and re-evaluate your life. It's not worth it.
 
 Ask yourself questions like:

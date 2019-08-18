@@ -2,7 +2,7 @@
 layout: post
 title: How My Goals Changed in 7 Years
 date: 2012-02-15 09:34
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Well Roundedness and Balance]
 ---

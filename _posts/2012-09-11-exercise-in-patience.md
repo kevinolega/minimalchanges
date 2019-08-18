@@ -2,7 +2,7 @@
 layout: post
 title: Exercise in Patience
 date: 2012-09-11 15:57
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

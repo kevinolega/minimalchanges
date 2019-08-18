@@ -2,7 +2,7 @@
 layout: post
 title: My Bus Ride With Death
 date: 2011-05-02 04:40
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

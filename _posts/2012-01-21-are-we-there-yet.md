@@ -2,7 +2,7 @@
 layout: post
 title: Are We There Yet?
 date: 2012-01-21 08:02
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: You are Royalty..Act like it
 date: 2011-04-20 05:15
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, Efficient Light and Fast]
 ---

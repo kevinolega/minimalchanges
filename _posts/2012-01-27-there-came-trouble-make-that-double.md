@@ -2,7 +2,7 @@
 layout: post
 title: There Came Trouble Make That Double
 date: 2012-01-27 00:39
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

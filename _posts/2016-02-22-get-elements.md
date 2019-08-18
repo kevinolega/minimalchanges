@@ -3,7 +3,7 @@ layout: post
 title: Use Lessons You Already Collected
 date: 2016-02-22 15:10
 permalink: /timing/
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

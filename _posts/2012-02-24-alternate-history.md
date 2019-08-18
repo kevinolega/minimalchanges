@@ -2,7 +2,7 @@
 layout: post
 title: Alternate History
 date: 2012-02-24 19:22
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Learning to Love Things As They Are
 date: 2012-03-23 07:58
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

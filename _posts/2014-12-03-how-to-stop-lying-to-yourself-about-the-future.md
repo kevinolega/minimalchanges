@@ -2,7 +2,7 @@
 layout: post
 title: How To Stop Lying To Yourself About The Future
 date: 2014-12-03 12:50
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

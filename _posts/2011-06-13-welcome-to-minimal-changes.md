@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Minimal Changes
 date: 2011-06-13 02:46
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

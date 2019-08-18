@@ -2,7 +2,7 @@
 layout: post
 title: Read This The Next Time Bad Things Happen and You Can’t Take it Anymore
 date: 2014-05-20 22:21
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Main Character Refuses to Stay Down - Things Turn Up
 date: 2011-09-01 10:10
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

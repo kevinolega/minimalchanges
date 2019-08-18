@@ -2,7 +2,7 @@
 layout: post
 title: It's Not Just What You Know It's Also Who You Know
 date: 2012-01-20 22:45
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

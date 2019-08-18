@@ -2,7 +2,7 @@
 layout: post
 title: Equally Blessed
 date: 2012-02-24 08:25
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

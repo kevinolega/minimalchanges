@@ -2,7 +2,7 @@
 layout: post
 title: Let's Go Back To The Beginning
 date: 2012-04-25 21:29
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -22,7 +22,7 @@ That same week I started accumulating lots of paper and files. My office started
 
 I found it disgusting. My mindset then firmly believed that minimalists are lazy. After all, why do less? Instead of less shouldn't you work hard for more? That's how we grow right? These bastards, like the Christians are lazy, only working for enough and missing out on life's pleasures because they are lazy.
 
-I was naive back then because I didn't understand. Leo's post on <a href="http://mnmlist.com/carry-less-or-pockets-like-air">pocket's like air hit home</a>.<strong> My pockets were always full. I went to work with two full bags</strong> when I felt lazy.someone told me more than once I was like a cartoon character who had lot's of items in my pockets.
+I was naive back then because I didn't understand. Leo's post on <a href="http://mnmlist.com/carry-less-or-pockets-like-air">pocket's like air hit home</a>.** My pockets were always full. I went to work with two full bags** when I felt lazy.someone told me more than once I was like a cartoon character who had lot's of items in my pockets.
 
 <a href="http://minimalchanges.com/lets-go-back-to-the-beginning/mask-weapons-guns-swords-from-movies/" rel="attachment wp-att-1875"><img class="alignleft size-full wp-image-1875" title="Mask weapons guns swords from movies" src="http://minimalchanges.com/blog/wp-content/uploads/2012/04/Mask-weapons-guns-swords-from-movies.jpg" alt="" width="852" height="461" /></a>
 
@@ -32,7 +32,7 @@ I didn't see anything wrong with it then.  I was thinking "what if I needed som
 
 This mindset had an impact on everything. The reality is that I was tired. Somehow, effort and will power wasn't an issue then. I feel like I was too inefficient and disorganized and I'm looking for answers.
 
-Leo's posts kept me reading.<strong> I hate minimalism but I felt that I could pick up useful things by reading about it.</strong>
+Leo's posts kept me reading.** I hate minimalism but I felt that I could pick up useful things by reading about it.**
 
 It seems to enjoy reading my notes when I attended business trainings. I thought to myself, what if I write something original. All these guys were writing about clean up so I decided to write privately and showed them to. She said she liked it and if I started she'll be my first reader. I started writing during the long commutes to Morong.
 
@@ -40,13 +40,13 @@ At night, I woke up and felt the urge to write. I wanted to put my thoughts to p
 
 Here are some topics and titles I thought of:
 
-<strong>Habit Ninja</strong> - I wanted to form new habits and I want to do it really well. Like a ninja. Duh.
+**Habit Ninja** - I wanted to form new habits and I want to do it really well. Like a ninja. Duh.
 
-<strong>Minimal Manila</strong> - I want to write about how I'm exploring minimalism. I still hate it but what if you apply it in Manila? How would it be like? If Leo tried minimalism in Guam, what if I applied it where I am?
+**Minimal Manila** - I want to write about how I'm exploring minimalism. I still hate it but what if you apply it in Manila? How would it be like? If Leo tried minimalism in Guam, what if I applied it where I am?
 
-<strong>Change Ninja</strong> - I'm going to make some changes. Hopefully I wanted to inspire some changes. Friends always asked me for advice. I figure, what if I put up the blog so I can ask them to just read what I wrote instead of explaining?
+**Change Ninja** - I'm going to make some changes. Hopefully I wanted to inspire some changes. Friends always asked me for advice. I figure, what if I put up the blog so I can ask them to just read what I wrote instead of explaining?
 
-I asked her which one. She said she'll support me no matter what I picked. I was broke those days. I only had budget for one site. I feel wanting to contribute all topics at once. <strong>I came up with Minimal Changes because somehow, every significant change in my life happens slowly and since I wanted to hold off from buying, I coined the term: Use what you have. Do what you can.</strong>
+I asked her which one. She said she'll support me no matter what I picked. I was broke those days. I only had budget for one site. I feel wanting to contribute all topics at once. **I came up with Minimal Changes because somehow, every significant change in my life happens slowly and since I wanted to hold off from buying, I coined the term: Use what you have. Do what you can.**
 
 I got the name registered and started the blog. I wrote long posts about things I wanted to change and things I'm considering. Feel free to go back in time to check it out.
 

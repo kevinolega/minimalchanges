@@ -2,7 +2,7 @@
 layout: post
 title: Encouragement From Getting Beat Up
 date: 2012-02-14 13:21
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

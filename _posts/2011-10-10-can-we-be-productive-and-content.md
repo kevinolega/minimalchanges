@@ -2,7 +2,7 @@
 layout: post
 title: Can We Be Productive and Content?
 date: 2011-10-10 11:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

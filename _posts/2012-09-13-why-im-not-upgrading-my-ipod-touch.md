@@ -2,7 +2,7 @@
 layout: post
 title: Why I'm Not Upgrading My iPod Touch
 date: 2012-09-13 03:42
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

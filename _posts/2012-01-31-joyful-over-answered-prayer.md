@@ -2,7 +2,7 @@
 layout: post
 title: Joyful Over Answered Prayer
 date: 2012-01-31 22:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

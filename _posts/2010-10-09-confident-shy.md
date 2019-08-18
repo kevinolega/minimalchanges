@@ -2,12 +2,12 @@
 layout: post
 title: How To Be Awesomely Confident (For Shy People Only)
 date: 2010-10-09 15:55
-author: minimalc
+author: Kevin Olega
 comments: true
 
 ---
 <a title="47002_1407813392026_1133173325_30922027_4728446_n by Kevin Olega, on Flickr" href="http://www.flickr.com/photos/kevinolega/5064326862/"><img src="http://farm5.static.flickr.com/4092/5064326862_0568252e61.jpg" alt="47002_1407813392026_1133173325_30922027_4728446_n" width="187" height="500" /></a>
-<strong></strong>
+****
 
 > "And to think I used to be such a shy bastard."
 

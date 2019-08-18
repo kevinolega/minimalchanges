@@ -2,7 +2,7 @@
 layout: post
 title: Better Hands Than Mine
 date: 2012-02-20 08:17
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

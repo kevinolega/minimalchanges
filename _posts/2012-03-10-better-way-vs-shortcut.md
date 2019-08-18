@@ -2,7 +2,7 @@
 layout: post
 title: Better Way vs Shortcut 
 date: 2012-03-10 12:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

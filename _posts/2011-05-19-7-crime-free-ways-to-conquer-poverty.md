@@ -2,7 +2,7 @@
 layout: post
 title: 7 Crime Free Ways To Conquer Poverty
 date: 2011-05-19 00:24
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [conquer poverty, crime, Efficient Light and Fast, personal finance]
 ---
@@ -17,7 +17,7 @@ I noticed that super practical methods isn't something I'd like to pass on to my
 
 If the prices are high and you’re in poverty and you’re considering not doing the right thing then you’re trying to solve the wrong problems. I’m not suggesting don’t be affected by price increase like someone who doesn’t care if his or her family starves. If you have time to think of a crime then you have time to change your life.
 
-Ask yourself: <strong>What can I do despite the limits I have that can get these things out of the way?</strong>
+Ask yourself: **What can I do despite the limits I have that can get these things out of the way?**
 
 That solves most of it. Your situation maybe different so I’m leaving you with some tips and see what you can do with it.
 <div>1. Spend less than you earn.</div>

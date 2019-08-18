@@ -2,7 +2,7 @@
 layout: post
 title: Clean Slate
 date: 2011-06-16 03:01
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

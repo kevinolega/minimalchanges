@@ -2,7 +2,7 @@
 layout: post
 title: Alternatives to Buying
 date: 2012-03-09 10:09
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

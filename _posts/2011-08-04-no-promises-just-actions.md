@@ -2,7 +2,7 @@
 layout: post
 title: No Promises Just Actions
 date: 2011-08-04 00:58
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

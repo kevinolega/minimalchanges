@@ -2,7 +2,7 @@
 layout: post
 title: No Pictures For March 2012
 date: 2012-03-07 10:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

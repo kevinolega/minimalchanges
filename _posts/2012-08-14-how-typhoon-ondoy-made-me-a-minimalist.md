@@ -2,7 +2,7 @@
 layout: post
 title: How Typhoon Ondoy Made Me a Minimalist
 date: 2012-08-14 17:44
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

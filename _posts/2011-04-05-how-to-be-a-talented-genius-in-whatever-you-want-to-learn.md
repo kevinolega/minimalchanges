@@ -2,7 +2,7 @@
 layout: post
 title: How to Be A Talented Genius In Whatever You Want To Learn
 date: 2011-04-05 09:38
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [000 hours, 10, apple, batman, brice lee, bruce wayne, Confidence and Moving Forward, focus, genius, how to be a genius, how to be a talented genius, how to be talented, learn, learn to be a talented genius, malcom gladwell, michael, michael jordan, michael schumacher, ninjutsu, steve jobs, steve jobs apple computer, talent, talented, yaw yan, yawyan]
 ---

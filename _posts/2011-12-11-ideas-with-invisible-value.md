@@ -2,7 +2,7 @@
 layout: post
 title: Ideas With Invisible Value
 date: 2011-12-11 14:41
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

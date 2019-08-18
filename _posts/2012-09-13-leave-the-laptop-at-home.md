@@ -2,7 +2,7 @@
 layout: post
 title: Leave the Laptop at Home
 date: 2012-09-13 11:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -30,8 +30,8 @@ Return to writing for your blog and do most of your writing on your notebook (yo
 
 Bringing my laptop is heavy and stressful. I’ve left my laptop at home for a few weeks and I realized that doing so allows me to:
 
-<strong>Move freely </strong>- even an ultra portable laptop is heavy (3lbs) especially if you bring it around everyday and commute. 
-<strong>Work when I work</strong> - I have a day job and I blog. I can’t blog at work or focus on my blog between breaks or during some of my errands after work. I decided to just write on my laptop at home in the morning or before going to bed and just use a notebook for writing on the fly.
-<strong>Present Where I am</strong>- I only do one thing at a time and became really efficient at it. I removed personal files at work and just worked on what I was doing. My productivity soared through the roof.
+**Move freely **- even an ultra portable laptop is heavy (3lbs) especially if you bring it around everyday and commute. 
+**Work when I work** - I have a day job and I blog. I can’t blog at work or focus on my blog between breaks or during some of my errands after work. I decided to just write on my laptop at home in the morning or before going to bed and just use a notebook for writing on the fly.
+**Present Where I am**- I only do one thing at a time and became really efficient at it. I removed personal files at work and just worked on what I was doing. My productivity soared through the roof.
 
 Do you have other reasons to leave the laptop at home? Consider sharing in the comments below.

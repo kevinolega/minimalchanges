@@ -2,7 +2,7 @@
 layout: post
 title: My 2011 Written At The Start Of 2011
 date: 2011-01-05 09:37
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

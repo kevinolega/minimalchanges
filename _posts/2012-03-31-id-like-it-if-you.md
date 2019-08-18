@@ -2,7 +2,7 @@
 layout: post
 title: I'd Like It If You..
 date: 2012-03-31 11:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

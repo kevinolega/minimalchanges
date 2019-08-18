@@ -2,7 +2,7 @@
 layout: post
 title: After Reading My Favorite Bible Message
 date: 2012-01-28 09:02
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

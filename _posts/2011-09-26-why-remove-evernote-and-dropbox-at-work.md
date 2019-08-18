@@ -2,7 +2,7 @@
 layout: post
 title: Why Remove Evernote and Dropbox at Work
 date: 2011-09-26 05:07
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

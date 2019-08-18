@@ -2,7 +2,7 @@
 layout: post
 title: Pain Is Part Of Growth
 date: 2012-01-26 00:10
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

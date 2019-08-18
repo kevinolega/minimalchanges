@@ -2,7 +2,7 @@
 layout: post
 title: Take Breaks
 date: 2012-09-04 11:10
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -12,8 +12,8 @@ Sometimes we get stuck or stopped in our tracks. Many recommend that we push pas
 
 I realize I've been doing this a few days ago and I'm not really moving forward. All my ideas are now just one sentence quotes and my plans are just plans and I don't feel like taking action despite keeping things secret. 
 
-<strong>What now?
-</strong>
+**What now?
+**
 I'm going the other way and taking a break. 
 
 When I take a break I can come back stronger, faster, smarter, and have more endurance. 

@@ -2,7 +2,7 @@
 layout: post
 title: Just Do Half
 date: 2013-09-19 09:33
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

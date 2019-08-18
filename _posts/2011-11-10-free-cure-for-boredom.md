@@ -2,7 +2,7 @@
 layout: post
 title: Free Cure For Boredom
 date: 2011-11-10 11:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

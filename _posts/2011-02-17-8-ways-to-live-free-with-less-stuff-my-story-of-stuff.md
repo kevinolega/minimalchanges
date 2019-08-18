@@ -2,7 +2,7 @@
 layout: post
 title: 8 Ways to Live Free With Less Stuff - My Story of Stuff
 date: 2011-02-17 06:51
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast]
 ---
@@ -32,13 +32,13 @@ Having less stuff definately feels lighter and it's easier to organize. Plus I e
 
 Here are some tips on how to get rid of crap you call your stuff:
 <ol>
-	<li><strong>Try aiming for less than 100 things</strong> - If you can only keep 100 items from all your stuff what would they be? Try <a href="http://guynameddave.com/100-thing-challenge/">Dave Bruno's 100 thing challenge</a>.</li>
-	<li><strong>Start with what you fear losing </strong>- Things will be easier when you start with the hard part. This doesn't just work well with stuff but with time and attention as well. A few weeks ago <a href="http://minimalchanges.com/why-i-chose-to-live-without-facebook/">I deleted facebook</a> and last week I was able to teach myself how to focus and <a href="http://minimalchanges.com/how-to-do-a-weeks-worth-of-work-in-a-day-without-rushing/">get a week's worth of work in a day without rushing</a>.</li>
-	<li><strong>Start with what you can gat rid of</strong> - maybe you're not up to getting the hard part yet. Its okay. You learn at your own pace and not what other people dictate. Try removing some stuff that you're a little attached to. Then after you've realized that there's no consequence and actually a lot of benefits of going minimalist and ditching the stuff you actually take for granted most of the time then you can move on to the bigger things.</li>
-	<li><strong>Use a someday pile</strong> - Can't decide? Get a box keep the things you feel "you'll use someday" then leave it there for a month, six months, a year, a few years, whatever you're comfortable with. Then discard as soon as you realize that you don't need it.</li>
-	<li><strong>Just get rid of something regularly</strong> - We all have to start somewhere. Pick something pick anything you'd like to get rid of a day, everyday. Do it in batches, do it per piece. Doesn't matter because the small thing that you do everyday will amount to a lot and all the benefits of not having a lot of crap will spill over into other areas of your life and will add up everyday.</li>
-	<li><strong>Use an "I'll use until I'm tired of it pile"</strong> - There are some items that you know will have to go but you can't part with it. It's your item. Enjoy it. If you absolutely have to take a picture or use it until you're tired of it.</li>
-	<li><strong>Stop adding stuff</strong> - The most important part of this declutter is that your as your stuff's numbers are reduced they don't get a steady supply of reinforcements. Don't buy stuff you don't plan to keep for long. You can rent/borrow from someone else. Owning a lot of things is not sexy.</li>
-	<li><strong>Enjoy the white space</strong> - Finally the benefits of a clean area is second to none, especially if you're trying to get great things done.</li>
+	<li>**Try aiming for less than 100 things** - If you can only keep 100 items from all your stuff what would they be? Try <a href="http://guynameddave.com/100-thing-challenge/">Dave Bruno's 100 thing challenge</a>.</li>
+	<li>**Start with what you fear losing **- Things will be easier when you start with the hard part. This doesn't just work well with stuff but with time and attention as well. A few weeks ago <a href="http://minimalchanges.com/why-i-chose-to-live-without-facebook/">I deleted facebook</a> and last week I was able to teach myself how to focus and <a href="http://minimalchanges.com/how-to-do-a-weeks-worth-of-work-in-a-day-without-rushing/">get a week's worth of work in a day without rushing</a>.</li>
+	<li>**Start with what you can gat rid of** - maybe you're not up to getting the hard part yet. Its okay. You learn at your own pace and not what other people dictate. Try removing some stuff that you're a little attached to. Then after you've realized that there's no consequence and actually a lot of benefits of going minimalist and ditching the stuff you actually take for granted most of the time then you can move on to the bigger things.</li>
+	<li>**Use a someday pile** - Can't decide? Get a box keep the things you feel "you'll use someday" then leave it there for a month, six months, a year, a few years, whatever you're comfortable with. Then discard as soon as you realize that you don't need it.</li>
+	<li>**Just get rid of something regularly** - We all have to start somewhere. Pick something pick anything you'd like to get rid of a day, everyday. Do it in batches, do it per piece. Doesn't matter because the small thing that you do everyday will amount to a lot and all the benefits of not having a lot of crap will spill over into other areas of your life and will add up everyday.</li>
+	<li>**Use an "I'll use until I'm tired of it pile"** - There are some items that you know will have to go but you can't part with it. It's your item. Enjoy it. If you absolutely have to take a picture or use it until you're tired of it.</li>
+	<li>**Stop adding stuff** - The most important part of this declutter is that your as your stuff's numbers are reduced they don't get a steady supply of reinforcements. Don't buy stuff you don't plan to keep for long. You can rent/borrow from someone else. Owning a lot of things is not sexy.</li>
+	<li>**Enjoy the white space** - Finally the benefits of a clean area is second to none, especially if you're trying to get great things done.</li>
 </ol>
 Shoot me a message or contact me at <a href="http://twitter.com/kevinolega">twitter</a> and let me know how your declutter goes.

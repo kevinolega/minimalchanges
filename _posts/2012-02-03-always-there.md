@@ -2,7 +2,7 @@
 layout: post
 title: Always There
 date: 2012-02-03 22:37
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

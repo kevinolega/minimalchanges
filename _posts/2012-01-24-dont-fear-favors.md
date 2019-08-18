@@ -2,7 +2,7 @@
 layout: post
 title: Don't Fear Favors
 date: 2012-01-24 08:04
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

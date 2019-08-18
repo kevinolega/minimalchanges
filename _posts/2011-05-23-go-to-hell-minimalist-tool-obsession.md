@@ -2,7 +2,7 @@
 layout: post
 title: Go To Hell Minimalist Tool Obsession
 date: 2011-05-23 00:37
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast, tech, tools]
 ---

@@ -2,11 +2,11 @@
 layout: post
 title: 10 Things to Avoid, Stop and Limit to Get Free Time
 date: 2012-07-26 17:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
-<strong>Post written by <a href="http://kevinolega.com/">Kevin Olega</a> connect with him on <a href="http://twitter.com/kevinolega">twitter</a> | <a href="http://www.facebook.com/profile.php?id=100003220910840">facebook </a>| <a href="https://plus.google.com/107007774605671245935/posts">g+</a></strong>
+**Post written by <a href="http://kevinolega.com/">Kevin Olega</a> connect with him on <a href="http://twitter.com/kevinolega">twitter</a> | <a href="http://www.facebook.com/profile.php?id=100003220910840">facebook </a>| <a href="https://plus.google.com/107007774605671245935/posts">g+</a>**
 
 Ever since I started working my goals were simple. Get a job. Get my own place. Go out occasionally and enjoy life.
 

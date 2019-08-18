@@ -2,7 +2,7 @@
 layout: post
 title: Quiet Togetherness
 date: 2011-02-03 07:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [quiet, quiet togetherness, relationships, Relationships, togetherness]
 ---

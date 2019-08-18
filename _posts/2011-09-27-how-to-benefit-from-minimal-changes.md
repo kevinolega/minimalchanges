@@ -2,7 +2,7 @@
 layout: post
 title: How to Benefit from Minimal Changes
 date: 2011-09-27 12:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

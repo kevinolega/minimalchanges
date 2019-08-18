@@ -2,7 +2,7 @@
 layout: post
 title: The Price of Happiness is Honesty Not Money
 date: 2016-05-06 07:21
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

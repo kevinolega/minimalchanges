@@ -2,7 +2,7 @@
 layout: post
 title: What Are The Chances?
 date: 2012-02-10 06:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study, Uncategorized]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: How to Create a Hand Made Blog
 date: 2011-10-06 12:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -20,15 +20,15 @@ Leo wrote that his blog is worker owned, uncopywrited, add free, and hand made. 
 
 Here’s how to make a hand made blog:
 <ol>
-	<li><strong>Write your blog by hand then type it on your computer</strong>. - Instant portable write anywhere ability.</li>
-	<li><strong>Use Plain text</strong>. - Get to blog from literally any computer</li>
-	<li><strong>Write everyday</strong>. - lets you improve over time.</li>
-	<li><strong>Tweak your theme to your own liking</strong>. - like re-modelling your online home.</li>
-	<li><strong>Use your own domain vs tumbler</strong> - you'll have a nicer online home when you own the domain.</li>
-	<li><strong>Take your own pictures, use your drawings or go without them</strong> - not having a tool is not an excuse to get started. Someone told me to write my stuff in notepad and just email them to myself to save them online.</li>
-	<li><strong>Be yourself and just write</strong>. - after writing this way I felt more confident with being myself.</li>
-	<li><strong>Talk about yourself, your goals, dreams, learnings and plans</strong>. - people are naturally attracted to people who know where they are heading.</li>
-	<li><strong>Give your best to your audience for free</strong>. <a href="http://zenhabits.net">Leo</a> and <a href="http://evbogue.com">Ev</a> did this and now have an army of followers.</li>
-	<li><strong>Read blogs less often -</strong> Sometimes you have a really cool idea then you see a famous blogger write about them first. and you end up copying or worse, not writing your ideas at all.</li>
+	<li>**Write your blog by hand then type it on your computer**. - Instant portable write anywhere ability.</li>
+	<li>**Use Plain text**. - Get to blog from literally any computer</li>
+	<li>**Write everyday**. - lets you improve over time.</li>
+	<li>**Tweak your theme to your own liking**. - like re-modelling your online home.</li>
+	<li>**Use your own domain vs tumbler** - you'll have a nicer online home when you own the domain.</li>
+	<li>**Take your own pictures, use your drawings or go without them** - not having a tool is not an excuse to get started. Someone told me to write my stuff in notepad and just email them to myself to save them online.</li>
+	<li>**Be yourself and just write**. - after writing this way I felt more confident with being myself.</li>
+	<li>**Talk about yourself, your goals, dreams, learnings and plans**. - people are naturally attracted to people who know where they are heading.</li>
+	<li>**Give your best to your audience for free**. <a href="http://zenhabits.net">Leo</a> and <a href="http://evbogue.com">Ev</a> did this and now have an army of followers.</li>
+	<li>**Read blogs less often -** Sometimes you have a really cool idea then you see a famous blogger write about them first. and you end up copying or worse, not writing your ideas at all.</li>
 </ol>
 <span class="Apple-style-span" style="color: #444444; font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px;">You have something unique to say. I want to know what you’d like to say?</span>

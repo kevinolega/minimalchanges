@@ -2,7 +2,7 @@
 layout: post
 title: How to Make Resources Available For Your Goals
 date: 2011-04-16 04:54
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast, goal setting, goals, minimalism, paretho pronciple]
 ---

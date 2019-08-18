@@ -2,7 +2,7 @@
 layout: post
 title: Focus on Doing Today Well
 date: 2016-04-13 21:25
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -44,4 +44,4 @@ Do today well.
 
 I previously felt overwhelmed at building a bright future, thinking it required the faith to move mountains. I used to scoff at how impossible it is until I realised that faith is expressed by action and the mountain can be moved one pebble at a time. I am only frozen in my disbelief because I thought I need a bulldozer. I thought so because someone sold me an idea but that’s for another story.
 
-<strong>Post written by <a href="http://kevinolega.com/">Kevin Olega</a> connect on <a href="http://twitter.com/kevinolega">twitter</a> and <a href="http://www.facebook.com/kevinolega.blog">facebook</a><strong>
+**Post written by <a href="http://kevinolega.com/">Kevin Olega</a> connect on <a href="http://twitter.com/kevinolega">twitter</a> and <a href="http://www.facebook.com/kevinolega.blog">facebook</a>**

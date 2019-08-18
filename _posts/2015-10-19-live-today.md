@@ -2,7 +2,7 @@
 layout: post
 title: Live Today
 date: 2015-10-19 09:50
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

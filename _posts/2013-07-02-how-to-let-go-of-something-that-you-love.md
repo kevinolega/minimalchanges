@@ -2,7 +2,7 @@
 layout: post
 title: How to Let Go of Something That You Love
 date: 2013-07-02 05:25
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward]
 ---

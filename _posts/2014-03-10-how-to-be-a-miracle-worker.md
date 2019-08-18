@@ -2,12 +2,12 @@
 layout: post
 title: How To Be a Miracle Worker
 date: 2014-03-10 23:17
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
-<blockquote><strong>I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.&nbsp; </strong>
-<strong>-&nbsp; Jesus (John 16:33)</strong>
+<blockquote>**I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.&nbsp; **
+**-&nbsp; Jesus (John 16:33)**
 
 </blockquote>
 

@@ -2,11 +2,11 @@
 layout: post
 title: How to Increase Your Output Before an Upgrade
 date: 2014-12-16 11:29
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
-<strong>Post written by <a href="http://kevinolega.com/">Kevin Olega</a> connect with him on <a href="http://twitter.com/kevinolega">twitter</a> | <a href="http://www.facebook.com/profile.php?id=100003220910840">facebook </a>| <a href="https://plus.google.com/107007774605671245935/posts">g+</a></strong>
+**Post written by <a href="http://kevinolega.com/">Kevin Olega</a> connect with him on <a href="http://twitter.com/kevinolega">twitter</a> | <a href="http://www.facebook.com/profile.php?id=100003220910840">facebook </a>| <a href="https://plus.google.com/107007774605671245935/posts">g+</a>**
 
 If I'm not able to accomplish the basics religiously, I'm not entitled to an upgrade.
 
@@ -44,11 +44,11 @@ The main reason why I started my minimalist journey and the blog minimal changes
 <h3>Where has this worked and why are you so confident in my approach?</h3>
 
 <ul>
-<li><strong>It worked for me with learning how to cook.</strong> I started with one recipe. I purchased the best entry level tools that I could afford. As I learned to make a few meals with the tools I had well, I added additional tools to upgrade my kitchen. I now have a combination of the best entry and mid level tools for cooking. I forsee myself going to the higher level tools</li>
-<li><strong>It worked with me for biking.</strong> Biking is attractive for a lof of reasons. It's a means of of transportation and it gives us exercise. It enables us to bond with other bikers. At that point, I feel it's a bit to spend a good chunk of money to purchase my first bike so I started with the cheapest started bike. I'd love an upgrade soon but I don't mind what I'm riding. I feel that my cheaper bike, makes me stronger so that by the time I upgrade to a lighter and more efficient bike, the performance benefit would be greater.</li>
-<li><strong>It worked for me for strength training.</strong> I tried to go to the gym several times a week and failed. Then I opted to go once a week. Working on increasing the weight I'm lifting. My goal was to bench 200lbs. I started at 30lbs and added 5lbs to the weight every week. Some weeks it was boring. Some weeks I didn't seem to gain strength to add five lbs that it took me two weeks or so to add weight. Eventually there are weeks where I was increasing the weight by ten or twenty pounds. I eventually reached 220lbs then I stopped. I tried 240lbs and was struggling through it for the machine. Then I moved to body weight exercises as said above.</li>
-<li><strong>It worked for me with sales.</strong> I failed miserably at trying to generate sales. I had big hairy audacious goals and failed miserably. I looked like a liar and a loser to the person I valued the most to the point that I lost her. I don't feel regret about those events because it led me to this approach. I saw that if I break down the steps to identify the parts of the interactions and recognize which of my actions are working well and which actions need to be worked on.</li>
-<li><strong>It worked for me in martial arts.</strong> Objectives require the completion of tasks. Tasks require specific or a combination of skills. Skills are a set of techniques. Techniques are a collection of moves. Moves are a series of steps. Martial arts enable the weaker to overcome the stronger through the use of techniques. I simply imitated the steps and the moves of someone stronger and better than me.</li>
+<li>**It worked for me with learning how to cook.** I started with one recipe. I purchased the best entry level tools that I could afford. As I learned to make a few meals with the tools I had well, I added additional tools to upgrade my kitchen. I now have a combination of the best entry and mid level tools for cooking. I forsee myself going to the higher level tools</li>
+<li>**It worked with me for biking.** Biking is attractive for a lof of reasons. It's a means of of transportation and it gives us exercise. It enables us to bond with other bikers. At that point, I feel it's a bit to spend a good chunk of money to purchase my first bike so I started with the cheapest started bike. I'd love an upgrade soon but I don't mind what I'm riding. I feel that my cheaper bike, makes me stronger so that by the time I upgrade to a lighter and more efficient bike, the performance benefit would be greater.</li>
+<li>**It worked for me for strength training.** I tried to go to the gym several times a week and failed. Then I opted to go once a week. Working on increasing the weight I'm lifting. My goal was to bench 200lbs. I started at 30lbs and added 5lbs to the weight every week. Some weeks it was boring. Some weeks I didn't seem to gain strength to add five lbs that it took me two weeks or so to add weight. Eventually there are weeks where I was increasing the weight by ten or twenty pounds. I eventually reached 220lbs then I stopped. I tried 240lbs and was struggling through it for the machine. Then I moved to body weight exercises as said above.</li>
+<li>**It worked for me with sales.** I failed miserably at trying to generate sales. I had big hairy audacious goals and failed miserably. I looked like a liar and a loser to the person I valued the most to the point that I lost her. I don't feel regret about those events because it led me to this approach. I saw that if I break down the steps to identify the parts of the interactions and recognize which of my actions are working well and which actions need to be worked on.</li>
+<li>**It worked for me in martial arts.** Objectives require the completion of tasks. Tasks require specific or a combination of skills. Skills are a set of techniques. Techniques are a collection of moves. Moves are a series of steps. Martial arts enable the weaker to overcome the stronger through the use of techniques. I simply imitated the steps and the moves of someone stronger and better than me.</li>
 </ul>
 
 <h3>How do I apply this?</h3>

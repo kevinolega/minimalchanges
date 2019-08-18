@@ -2,7 +2,7 @@
 layout: post
 title: How to Fix "I Don't Feel Like Working"
 date: 2011-11-28 11:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

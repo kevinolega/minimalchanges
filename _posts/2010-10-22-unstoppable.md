@@ -2,7 +2,7 @@
 layout: post
 title: The Unstoppable Me (fear,weakness, difficult situations and what to do about it)
 date: 2010-10-22 16:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, The Self]
 ---
@@ -10,7 +10,7 @@ categories: [Confidence and Moving Forward, The Self]
 
 <em>Bring It</em>
 
-<em><strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a></em>
+<em>**Post written by **<a href="http://minimalchanges.com/about">**Kevin Olega**</a>**. Follow me on **<a href="http://twitter.com/kevinolega">**twitter.**</a></em>
 
 <em>You don’t really find someone get into a fatal accident doing crazy things. When you watch the news it’s usually some overcautious guy who ends up in situations like that.</em>
 
@@ -22,15 +22,15 @@ After six years of attempting to live an extraordinary life led to the discovery
 
 This principle I’ve realized works for me but can also work against me.
 
-<strong>Here’s how it works for me:</strong>
+**Here’s how it works for me:**
 
 If I step forward to confront a fear or a weakness or a difficult situation and take the full force of the adversity. The experience strengthens me or allows myself to adapt eventually or find a way to overcome the fear, weakness or difficult situation.
 
-<strong>Here’s how it works against me:</strong>
+**Here’s how it works against me:**
 
 If i step into it with my eyes closed or my back turned there’s a big probability that the exposure will lead me to believe that the fear, weakness, or difficult situation is permanent.That’s the bad news. Beliefs affect everything. Thoughts, words, actions, habits, character, and results are all affected. Your beliefs both right and wrong spill into every area of your life. This is the part that’s hard to fix and is almost impossible for a lot of people. You usually literally need God to fix this part for you. I know from experience what kind of damage wrong beliefs are capable of. Don’t even start collecting them.
 
-<strong>Here’s how to make it work:</strong>
+**Here’s how to make it work:**
 
 Stick to your values. What are the non negotiable’s for you. Make sure its non negotiable. Then move forward. when you’re in a cpnflict you do not need to kill or defeat your inner darkness. Befriend your fear, anger, weakness or difficult situation and it is an enemy no longer. (Doesnt mean that you follow what it tells you) When facing a fear, weakness, difficult situation run toward it instead of away from it. (Running away makes it haunt you until you confront it) Get close and embrace it then you’ll see that there is nothing really to fear, there is no weakness you can’t work with and no difficult situation that can hinder you. Seriously!
 
@@ -60,6 +60,6 @@ Time to take action. Look for an area in your life that you’ve been avoiding. 
 
 <em>Certainty of death, *small* chance of success… What are we waiting for? -Gimli</em>
 
-If you like this post leave a comment of what you’ll be facing. Or write a <strong>blog</strong> about it. Share your story in the comments below.
+If you like this post leave a comment of what you’ll be facing. Or write a **blog** about it. Share your story in the comments below.
 
-<strong>You can also sign up <a href="http://feedburner.google.com/fb/a/mailverify?uri=Minimalchangescom">for free updates via email</a>or <a href="http://feeds.feedburner.com/minimalchangescom">RSS</a>.</strong>
+**You can also sign up <a href="http://feedburner.google.com/fb/a/mailverify?uri=Minimalchangescom">for free updates via email</a>or <a href="http://feeds.feedburner.com/minimalchangescom">RSS</a>.**

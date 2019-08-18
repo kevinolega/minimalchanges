@@ -2,7 +2,7 @@
 layout: post
 title: Develop Super Powers to Gain Skills
 date: 2010-12-16 16:32
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, How To, superpowers]
 ---
@@ -10,10 +10,10 @@ categories: [Confidence and Moving Forward, How To, superpowers]
 
 <em>Superpowers are effective and there’s a good reason why I stopped using them while eating.</em>
 
-<strong>Post written by </strong><a href="http://minimalchanges.com/about"><strong>Kevin Olega</strong></a><strong>. Follow me on </strong><a href="http://twitter.com/kevinolega"><strong>twitter.</strong></a>
+**Post written by **<a href="http://minimalchanges.com/about">**Kevin Olega**</a>**. Follow me on **<a href="http://twitter.com/kevinolega">**twitter.**</a>
 
-<strong>A lot of times we hate doing something because we’re afraid we might suck at it. Too often the things we don’t like to do might be the only keeping us from getting where we want to go. In fact no matter how much we think we suck at it we can develop it. Maybe it’s selling, communicating better, organizing, prospecting you name it. Instead of thinking about it as something you’re not good at think of it as a super power.
-Here are fun similarities between you and people with superpowers.</strong>
+**A lot of times we hate doing something because we’re afraid we might suck at it. Too often the things we don’t like to do might be the only keeping us from getting where we want to go. In fact no matter how much we think we suck at it we can develop it. Maybe it’s selling, communicating better, organizing, prospecting you name it. Instead of thinking about it as something you’re not good at think of it as a super power.
+Here are fun similarities between you and people with superpowers.**
 <ol>
 	<li>Most super heroes are afraid of using their powers because they suck at using it at first.</li>
 	<li>Using their powers enough times help them develop control over their powers</li>
@@ -21,7 +21,7 @@ Here are fun similarities between you and people with superpowers.</strong>
 	<li>Super powers are not given to us for our own personal gain but to serve others</li>
 	<li>Using the superpowers for good will change you from a freak to a superhero</li>
 </ol>
-<strong>My first set of superpowers</strong>
+**My first set of superpowers**
 <ul>
 	<li>Vampiric eyes-everything happens in slow motion. Also allows me to see a lot of details</li>
 	<li>Predator vision-sees almost everything around me. Done by mostly looking down and looking around automatically</li>

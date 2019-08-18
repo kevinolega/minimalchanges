@@ -2,7 +2,7 @@
 layout: post
 title: Exactly one year or so later
 date: 2013-10-24 09:25
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: I'm Glad This is Forever
 date: 2012-02-27 09:29
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

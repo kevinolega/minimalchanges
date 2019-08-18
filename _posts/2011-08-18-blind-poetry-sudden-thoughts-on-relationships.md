@@ -2,7 +2,7 @@
 layout: post
 title: Blind Poetry Sudden Thoughts on Relationships
 date: 2011-08-18 00:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

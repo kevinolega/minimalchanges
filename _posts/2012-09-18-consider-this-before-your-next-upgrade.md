@@ -2,7 +2,7 @@
 layout: post
 title: Consider This Before Your Next Upgrade
 date: 2012-09-18 17:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

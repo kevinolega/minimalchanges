@@ -2,7 +2,7 @@
 layout: post
 title: New Questions New Result
 date: 2016-03-15 06:16
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -10,7 +10,7 @@ I noticed that some days I really enjoy my life and some days I really hate my l
 
 We all have this internal dialogue where we talk to ourselves where we analyze and judge our situation. Sometimes this inner voice is helpful. Sometimes it's not helpful. 
 
-I learned from Tony Robbins that "<strong>The quality of the results that you have in your life is influenced by the quality of questions that you ask yourself on a regular basis. </strong>"
+I learned from Tony Robbins that "**The quality of the results that you have in your life is influenced by the quality of questions that you ask yourself on a regular basis. **"
 
 That said, teaching that inner voice some questions can improve how you deal with a situation and possibly some results. 
 

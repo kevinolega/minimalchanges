@@ -2,7 +2,7 @@
 layout: post
 title: Minimal Changes for February 28, 2012
 date: 2012-02-28 10:29
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

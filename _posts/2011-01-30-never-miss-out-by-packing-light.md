@@ -2,13 +2,13 @@
 layout: post
 title: Never Miss Out By Packing Light
 date: 2011-01-30 07:34
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast, How To]
 ---
 When I was in gradeschool field trips were the worst parts of the year. The day before we'd buy all the food I wanted to bring. At night I'd pack all the toys and comic books and magazines that I wanted to bring. Come morning a great fight ensues at home. I wanted to fill my biggest backpack with all my stuff and my mom wanted to stop me. I couldn't recall properly but this happened from first to 6th grade. At that time my mom's advice didn't make sense to me.
 
-The advice was<strong> "You need to pack light, forget about your toys and stuff, you're out there to enjoy yourself where you're going and what you're going to bring with you will weigh you down and you'll miss out on where you are"</strong>
+The advice was** "You need to pack light, forget about your toys and stuff, you're out there to enjoy yourself where you're going and what you're going to bring with you will weigh you down and you'll miss out on where you are"**
 
 A grade school kid couldn't understand. At that time all i did was to bring my toys and compare with my classmates which brought a cooler collection. I didn't seem to outgrow my mindset until about a year ago.
 
@@ -22,10 +22,10 @@ Have you ever felt that you're missing out because you're stuff is distracting y
 
 Which would you rather have?
 
-<strong>Be known for having the most toys?</strong>
+**Be known for having the most toys?**
 
 or
 
-<strong>Know for yourself that you experienced your life fully because you were paying attention to life and not stuff?</strong>
+**Know for yourself that you experienced your life fully because you were paying attention to life and not stuff?**
 
 Just take your pick.

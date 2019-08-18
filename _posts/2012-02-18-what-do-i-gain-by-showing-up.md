@@ -2,7 +2,7 @@
 layout: post
 title: What Do I Gain By Showing Up
 date: 2012-02-18 21:27
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

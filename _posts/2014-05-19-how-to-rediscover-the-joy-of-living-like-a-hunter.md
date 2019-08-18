@@ -2,7 +2,7 @@
 layout: post
 title: How To Rediscover The Joy of Living Like a Hunter
 date: 2014-05-19 09:01
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

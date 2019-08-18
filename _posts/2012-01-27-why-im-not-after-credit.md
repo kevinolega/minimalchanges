@@ -2,7 +2,7 @@
 layout: post
 title: Why I'm Not After Credit
 date: 2012-01-27 08:46
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

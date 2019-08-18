@@ -2,7 +2,7 @@
 layout: post
 title: Why I'm Exploring Less Tools
 date: 2011-10-31 09:15
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

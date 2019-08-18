@@ -2,7 +2,7 @@
 layout: post
 title: Blogging Personal Thoughts and Learning Experiment
 date: 2013-06-25 13:08
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

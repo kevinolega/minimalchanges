@@ -2,7 +2,7 @@
 layout: post
 title: Have Some Balls To Use Your Brain and Do Great Work
 date: 2011-05-15 00:21
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [balls, brains, Confidence and Moving Forward, great work]
 ---

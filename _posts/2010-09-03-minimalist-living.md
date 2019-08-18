@@ -2,7 +2,7 @@
 layout: post
 title: Minimal Changes to a Minimalist Living
 date: 2010-09-03 16:05
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Efficient Light and Fast, minimalism]
 ---
@@ -29,16 +29,16 @@ Here are some key characteristics I noticed that they had:
 I don’t know about you but when I found that out it seems to be an excellent way to go for what’s important for me. I went for it eventually and had not looked back since.
 Here are lessons that you can apply if you’re considering a minimalist lifestyle:
 
-<strong>1. Apply <strong>minimal</strong> <strong>changes</strong></strong>-Don’t rush into changing your life in an instant. <strong>Changes</strong> requires that you form new habits and doing so takes time.
+**1. Apply **minimal** **changes****-Don’t rush into changing your life in an instant. **Changes** requires that you form new habits and doing so takes time.
 
-<strong>2. Stop adding unnecessary things</strong>- If you look everywhere you are always offered more. More stuff means more clutter to clean up. Extra rice makes you fat. Extra work might mean more pay but less time for what’s important. Weigh things first and always ask yourself several times if you need an extra thing before taking action.
+**2. Stop adding unnecessary things**- If you look everywhere you are always offered more. More stuff means more clutter to clean up. Extra rice makes you fat. Extra work might mean more pay but less time for what’s important. Weigh things first and always ask yourself several times if you need an extra thing before taking action.
 
-<strong>3. Try to make things as simple as possible</strong> – Bruce Lee is considered a master of Chinese martial arts not because he knew all forms but because he mastered a few moves effectively.
+**3. Try to make things as simple as possible** – Bruce Lee is considered a master of Chinese martial arts not because he knew all forms but because he mastered a few moves effectively.
 
-<strong>4. Eliminate the unnecessary</strong>. – Declutter your life. If you have anything (expenses, activities, stuff) that you don’t need or use or doesn’t help you get your most important goals, get rid of it or give it to something else.
+**4. Eliminate the unnecessary**. – Declutter your life. If you have anything (expenses, activities, stuff) that you don’t need or use or doesn’t help you get your most important goals, get rid of it or give it to something else.
 
-<strong>5. Try reducing your stuff to 100 things- </strong>This is one of my enjoyable parts. When you do so you realize that you don’t need a lot. Today I can actually move anywhere with one traveling bag, one backpack and a laptop bag. The upside is if i needed to move I can just put all my stuff in my bags and go.
+**5. Try reducing your stuff to 100 things- **This is one of my enjoyable parts. When you do so you realize that you don’t need a lot. Today I can actually move anywhere with one traveling bag, one backpack and a laptop bag. The upside is if i needed to move I can just put all my stuff in my bags and go.
 
-<strong>6. Love what you do </strong>- Effective is better than efficient most of the time and being effective requires mastery. Mastery takes time so no need to rush. This is the part where consistency is better than speed. Have fun and enjoy the journey.
+**6. Love what you do **- Effective is better than efficient most of the time and being effective requires mastery. Mastery takes time so no need to rush. This is the part where consistency is better than speed. Have fun and enjoy the journey.
 
 If you liked this post sign up <a href="http://feedburner.google.com/fb/a/mailverify?uri=Minimalchangescom">for free updates via email</a> or <a href="http://feeds.feedburner.com/minimalchangescom">RSS</a>.

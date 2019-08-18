@@ -2,7 +2,7 @@
 layout: post
 title: How to Effortlessly Succeed (for ordinary people)
 date: 2011-05-30 00:06
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [ergonomics, Well Roundedness and Balance]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Don't be cruel 
 date: 2012-03-26 12:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

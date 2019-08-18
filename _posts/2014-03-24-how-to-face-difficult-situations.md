@@ -2,7 +2,7 @@
 layout: post
 title: How to Face Difficult Situations
 date: 2014-03-24 19:19
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -24,26 +24,26 @@ Through the most part we encounter inspirational and motivational quotes to remi
 
 When you play a game, if your life bar goes down you're dead. Literally or you have to play again and start over.
 
-<strong>How does it (difficult situation) hurt your (lifebar, finances, productivity, etc)?</strong>
+**How does it (difficult situation) hurt your (lifebar, finances, productivity, etc)?**
 
 Once you identify what hurts then next question is.
 
-<strong>How do you make it not hurt you?</strong>
+**How do you make it not hurt you?**
 Do you dodge left? Parry low? Block or do a counter attack? It works in a game. It works in real life.
 
 I made a list of all the situations where I end up spending money. So what I did was I linked my finances to a game I played (Diablo 2, Warcraft 3). My money allows me to do things important. Misuse of my money will leave me unable to do things when I need it. My money is like a lifebar that I'm trying to fill. I do the same with other activities that I'm working on. I look at situations where I make the error in spending money and I do my best to remember not to spend it when unnecessary and to spend it when it is.
 
-<strong>You study it's attack pattern and act appropriately.</strong>
+**You study it's attack pattern and act appropriately.**
 
-<strong>What do I do? I'm stuck because, the boss is hard to kill.</strong>
+**What do I do? I'm stuck because, the boss is hard to kill.**
 In a game most bosses are hard to kill. In real life, breakthroughs are hard to achieve. In games, you either hit it harder or hit it more times. After taking enough hits the boss will die. In increased difficulty like nightmare, hell, legendary or extreme levels the same principle applies. You know what's interesting, so does in real life.
-<strong>What does the situation require of you?</strong> What attack causes the most damage to the boss? Fire, Lightning, Physical, Cold, Magic, whatever? Use that! Use more of that. Same thing in real life.
+**What does the situation require of you?** What attack causes the most damage to the boss? Fire, Lightning, Physical, Cold, Magic, whatever? Use that! Use more of that. Same thing in real life.
 
-<strong>This is boring, should I quit now?</strong>
+**This is boring, should I quit now?**
 
 There will be a grind.  Sometimes you're dodging Diablo's red lightning attack, sometimes you're looking for Khalim's bodyparts while chasing after, and getting stabbed by scalpels and blowdarts by the tiny flayer people in Act 3. Sometimes it's boring but it's fine. Every game has dull moments.
 
-<strong>How do high level players do it?</strong> Learn from them. There is no FAQ or walkthrough for real life. The Bible is the closest I found so far although I'm having trouble learning the sequence on how to read it like a gamer would. So far I see it as a move and combo list I'll eventually learn it. It's okay that you don't understand everything as a whole, learn what you need for your level. Once you overcome that difficult situation there's more to face later when you're done.
+**How do high level players do it?** Learn from them. There is no FAQ or walkthrough for real life. The Bible is the closest I found so far although I'm having trouble learning the sequence on how to read it like a gamer would. So far I see it as a move and combo list I'll eventually learn it. It's okay that you don't understand everything as a whole, learn what you need for your level. Once you overcome that difficult situation there's more to face later when you're done.
 
 Face your difficult situations. The only way to overcome a difficult game is to finish it.
 

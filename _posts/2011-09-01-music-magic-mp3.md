@@ -2,7 +2,7 @@
 layout: post
 title: A Day of Music, Magic and an MP3 Player
 date: 2011-09-01 13:59
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

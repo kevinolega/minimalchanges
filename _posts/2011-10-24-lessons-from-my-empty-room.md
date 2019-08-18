@@ -2,7 +2,7 @@
 layout: post
 title: Lessons From My Empty Room
 date: 2011-10-24 18:30
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

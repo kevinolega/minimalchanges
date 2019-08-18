@@ -2,7 +2,7 @@
 layout: post
 title: How God Treats Trash
 date: 2012-02-22 09:04
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Worth Trading Anything For
 date: 2012-02-15 09:21
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

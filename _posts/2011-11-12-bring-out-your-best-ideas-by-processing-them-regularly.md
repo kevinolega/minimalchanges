@@ -2,7 +2,7 @@
 layout: post
 title: Bring Out Your Best Ideas by Processing Them Regularly
 date: 2011-11-12 19:27
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

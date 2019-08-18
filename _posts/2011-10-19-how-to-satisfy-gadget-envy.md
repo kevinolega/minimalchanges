@@ -2,7 +2,7 @@
 layout: post
 title: How to Satisfy Gadget Envy
 date: 2011-10-19 12:24
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

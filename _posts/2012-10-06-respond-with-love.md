@@ -2,7 +2,7 @@
 layout: post
 title: Respond with Love
 date: 2012-10-06 18:43
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

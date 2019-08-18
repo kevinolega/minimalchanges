@@ -2,7 +2,7 @@
 layout: post
 title: No Luxury Like Mobility
 date: 2012-02-08 19:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

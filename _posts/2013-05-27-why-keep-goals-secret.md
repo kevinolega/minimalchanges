@@ -2,11 +2,11 @@
 layout: post
 title: Why Keep Goals Secret
 date: 2013-05-27 08:10
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
-<strong>Total read time: 10 minutes</strong>
+**Total read time: 10 minutes**
 
 Some people tell me that they hate surprises. When I lived like an open book, I found the opposite to be true. Many people don't enjoy hearing the truth. I made it a personal policy to tell it anyway. I'm learning to choose better words so I can walk them through something without stepping on their feet.
 
@@ -31,7 +31,7 @@ Me Boss I will do so and so.
 Boss: great.</blockquote>
 Reality: I get almost none of that done. If by any chance we work together and I promise you so and so number of sales. That's so not happening. Please call me on my bullshit. If I do happen to tell you the accounts I'm working on with next steps then that's me actually working.
 
-<strong>My more effective bosses taught me this strategy:</strong>
+**My more effective bosses taught me this strategy:**
 Ask yourself "why are you working?" you don't have to answer.
 What is the most important thing that needed to be done today?
 What is the next most important thing that needed to be done?
@@ -40,7 +40,7 @@ Get back to work.
 
 I think to a certain extent knowing and defining what you want gives you a direction and identifiers of where you want to go. Nothing more. Do it once and forget about it as you get back to work as situations change.
 
-<strong>Here's how I really accomplish things:</strong>
+**Here's how I really accomplish things:**
 I set a target and write it down if it's small I just set a reminder and get it done.
 If it is a big goal or one that requires multiple steps, I define the rules
 I forget the specifics of the target

@@ -2,7 +2,7 @@
 layout: post
 title: Facts about being awesome.
 date: 2013-11-23 19:12
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

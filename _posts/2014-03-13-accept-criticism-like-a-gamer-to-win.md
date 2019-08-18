@@ -2,7 +2,7 @@
 layout: post
 title: Accept Criticism Like a Gamer to Win In Real Situations
 date: 2014-03-13 17:58
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -22,8 +22,8 @@ Instead of arguing me I should ask more about what happened when they face the s
 
 When we play games like Diablo or Warcraft, whenever some tells me they failed to kill the boss, my next question is, what is your level, how is your character built, how much armor, magic damage resistance do you have,&nbsp; how much damage do you have, what is your attack speed? How much damage did you do and how much resources did you spend and did you succeed? 
 
-<blockquote><strong>With the right information, I can do just about anything. </strong>
-<strong>-Keima Katsuragi (A World God Only Knows). </strong>
+<blockquote>**With the right information, I can do just about anything. **
+**-Keima Katsuragi (A World God Only Knows). **
 
 
 </blockquote>
@@ -32,25 +32,25 @@ In the past few years I learned to approach life as a gamer would. Because over 
 
 The people we love wants us to succeed, they just aren't effective at expressing them.&nbsp; Another way of reading the situation is we are not good at reading what they are trying to say. 
 
-<blockquote><strong>I don't see any difference in games and real life. There's is an objective and a set of tasks we need to do to accomplish them. </strong>
-<strong>-L (Deathnote) </strong>
+<blockquote>**I don't see any difference in games and real life. There's is an objective and a set of tasks we need to do to accomplish them. **
+**-L (Deathnote) **
 
 
 </blockquote>
 
 
-<strong>What level are you when you fought the boss?</strong> 
+**What level are you when you fought the boss?** 
 How much experience do they have and how they approach the situation? 
-<strong>How was your character built? </strong>
+**How was your character built? **
 How did they approach the situation? There are a good number of ways to prepare for a task. Some are more effective than others. Are they equipped with the skills to handle the task. 
 
-<strong>What is your health when you attacked? </strong>
+**What is your health when you attacked? **
 Sometimes tasks require you to take some hits financially. If you run out of money or resources then you're dead. 
 
-<strong>What was your damage, attack speed and type of attack(ranged, melee, physical,magic, etc)? What was your armor class? Do you have damage resistance to physical, magic or elemental damage? </strong>
-<strong>In games you can't match the bosses hit points or damage. There are a lot of other conditions that contribute to winning or losing. Wearing armor decreases the damage inflicted to you by an attack, having a high attack speed enables you to hit first and hit more times than they do. In real life there are small conditions that can be adjusted in order to accomplish your task. I became more effective at talking to tech savvy people after I learned how they did their work. Getting experience about how to cook provided me with more topics to build rapport with my clients at work. Watching cooking shows allowed me to explain step by step instructions more clearly. So what I'm trying to say is that you need to consider the situation and eventually figure out what to adjust to make the condition more favorable for you. </strong>
+**What was your damage, attack speed and type of attack(ranged, melee, physical,magic, etc)? What was your armor class? Do you have damage resistance to physical, magic or elemental damage? **
+**In games you can't match the bosses hit points or damage. There are a lot of other conditions that contribute to winning or losing. Wearing armor decreases the damage inflicted to you by an attack, having a high attack speed enables you to hit first and hit more times than they do. In real life there are small conditions that can be adjusted in order to accomplish your task. I became more effective at talking to tech savvy people after I learned how they did their work. Getting experience about how to cook provided me with more topics to build rapport with my clients at work. Watching cooking shows allowed me to explain step by step instructions more clearly. So what I'm trying to say is that you need to consider the situation and eventually figure out what to adjust to make the condition more favorable for you. **
 
-<strong>How much damage did you inflict? </strong>
+**How much damage did you inflict? **
 Now that you know how much they prepared and how they approached the situation, how far did they go before they gave up? This tells you how much you need to prepare before you begin. 
 
 Most people are not professional players so they don't have detailed notes on how they play so it's up to you to determine the important information and to not take things personally. You don't get frustrated when you can't beat a game. You don't get mad at other players when they tell you that your play style sucks. You just adjust as you learn new techniques. Apply the same principles to real life. Chances are you're already good at a game, now it's time to apply it to real life.

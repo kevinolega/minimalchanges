@@ -2,7 +2,7 @@
 layout: post
 title: There is nothing wrong with you
 date: 2013-11-21 19:06
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

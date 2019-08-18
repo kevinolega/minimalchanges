@@ -2,7 +2,7 @@
 layout: post
 title: Why Does My Goals Turn Sour?
 date: 2011-07-22 00:01
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---
@@ -12,9 +12,9 @@ So what the heck is the problem? You, my friend, have acquired some pretty retar
 
 Let me explain.
 
-<strong>Having goals gives you direction. Action leads you to your goals. You need to enjoy the journey to appreciate the destination.</strong> You've heard this before but you don't understand it. Neither did I. I just recently understood the point.
+**Having goals gives you direction. Action leads you to your goals. You need to enjoy the journey to appreciate the destination.** You've heard this before but you don't understand it. Neither did I. I just recently understood the point.
 
-<strong>The goals are pretty important but we spend more time thinking about it than working on it.</strong> We only want one end result and achieving our goals, our way, is the only way. We forgot that there are a billion ways to skin a cat and <strong>there are a wholebunch of possibilities to go through it and still get your goal in the end and so much more.</strong>
+**The goals are pretty important but we spend more time thinking about it than working on it.** We only want one end result and achieving our goals, our way, is the only way. We forgot that there are a billion ways to skin a cat and **there are a wholebunch of possibilities to go through it and still get your goal in the end and so much more.**
 
 You might say this is too much a happy go lucky approach to doing things. I believe it sounds crazy and it might be slower or feels more uncertain but think about it. You're moving forward. You let go of the obsession of your goals and plans. You're still on track in the direction fo your goal. Faith or fear, it's your choice. Would you rather stick there waiting for the prefect plan and tracking your lack of progress? I'd rather just enjoy the journey and have no regrets.
 

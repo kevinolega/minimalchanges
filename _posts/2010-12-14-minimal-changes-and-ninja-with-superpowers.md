@@ -2,7 +2,7 @@
 layout: post
 title: Minimal Changes and Ninja’s with Superpowers
 date: 2010-12-14 01:03
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, How To, superpowers]
 ---
@@ -20,6 +20,6 @@ I’m starting off with a new series about superpowers. Here are things you prob
 	<li>I started calling my techniques Ninjutsu or Super Powers</li>
 	<li>I started lableing my weakness my weaknesses which I overcame with my Superpowers.</li>
 	<li>I started copying superpowers from everywhere and used them to murder a task, cripple my weakness, eliminate clutter, complete my missions.</li>
-	<li>I’m starting to write about it in this <strong>blog</strong>.</li>
+	<li>I’m starting to write about it in this **blog**.</li>
 	<li>I hope you’ll like it</li>
 </ul>

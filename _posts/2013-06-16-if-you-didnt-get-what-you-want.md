@@ -2,7 +2,7 @@
 layout: post
 title: If you didn't get what you want...
 date: 2013-06-16 17:48
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

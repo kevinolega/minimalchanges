@@ -2,7 +2,7 @@
 layout: post
 title: How To Be The Envy Of Everybody
 date: 2011-09-29 12:00
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

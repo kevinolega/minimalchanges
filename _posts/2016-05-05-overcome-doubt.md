@@ -2,7 +2,7 @@
 layout: post
 title: Overcome Doubt
 date: 2016-05-05 00:34
-author: minimalc
+author: Kevin Olega
 comments: true
 
 ---

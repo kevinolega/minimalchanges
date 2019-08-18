@@ -2,7 +2,7 @@
 layout: post
 title: Don't Be Afraid to Say No Because Less Is More
 date: 2015-04-07 19:58
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Uncategorized]
 ---

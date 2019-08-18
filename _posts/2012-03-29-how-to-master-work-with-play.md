@@ -2,7 +2,7 @@
 layout: post
 title: How To Master Work With Play
 date: 2012-03-29 18:17
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Confidence and Moving Forward, play, Work]
 ---

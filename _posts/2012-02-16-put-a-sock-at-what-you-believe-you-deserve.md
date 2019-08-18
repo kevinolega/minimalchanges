@@ -2,7 +2,7 @@
 layout: post
 title: Put a Sock at What You Believe You Deserve
 date: 2012-02-16 09:54
-author: minimalc
+author: Kevin Olega
 comments: true
 categories: [Message From Bible Study]
 ---

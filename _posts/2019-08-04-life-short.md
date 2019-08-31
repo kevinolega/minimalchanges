@@ -22,3 +22,20 @@ Consider the possibility of your death.
 And consider the possibility of a loved one's death.
 
 Think on this, then give thanks for your and loved one's life.
+
+Be more honest.
+
+Hug people a little tighter.
+
+Be a little more patient.
+
+Understand that none of this is permanent.
+
+Comparing life is not a journey or a battle isn't a very healthy analogy.
+
+Life is a lot more like a song.
+
+It has a track that has a beginning, middle and end.
+
+So everything will eventually end.
+

@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Life is short. 
 date: 2019-08-04 03:00
 description: Part 1 of 30

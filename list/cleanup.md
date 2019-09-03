@@ -1,5 +1,5 @@
 --- 
-layout: post 
+layout: page 
 title: Cleanup Checklist
 date: 2019-08-20 04:42
 Tags: [ uncategorized, blog ]

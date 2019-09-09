@@ -32,6 +32,8 @@ Best Selling Author Robert Kiyosaki is known for the statement, "Savers are lose
 
 To an extent, I agree with his expanded explanation that earning more money is the smarter thing to do compared to trying to save more money.
 
+That's because there's a limit to how much money you can save and there's no limit to how much more money that you can earn.
+
 But if you're in a position when you don't have the means to earn more money, then you can follow the path of saving money to give yourself some resources to pursue earning more money, should you wish to do so.
 
 Unfortunately for the masses like us, many of these financial guru's are marketers and part of their training is to communicate in a language that encourages people to spend money.

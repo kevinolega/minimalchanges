@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Compassion Fatigue
+title: Compassion Fatigue - a Closer Look
 date: 2019-10-15 00:39
 Tags: [ uncategorized, blog ]
 permalink: /cfat/ 

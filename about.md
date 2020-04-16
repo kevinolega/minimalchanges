@@ -7,6 +7,8 @@ published: true
 ---
 Last update: Wednesday, 20 March 2019 5:22 PM
 
+![IMAGE TEXT](https://kevinolega.com/images/Kevin.jpg).
+
 It is easy to lose perspective.
 
 Motivation is fleeting.

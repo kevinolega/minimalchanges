@@ -23,7 +23,7 @@ The big moves leave you open for counter attacks.
 
 Mastering the small straightforward moves are your best bet.
 
-## Home and Work Balance
+### Home and Work Balance
 
 Your home responsibilities are part of your work responsibilities until they aren't.
 

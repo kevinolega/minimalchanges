@@ -65,6 +65,58 @@ That's about 47 hours a week.
 
 That said, I'll need to spend 47 meaningful tasks weekly.
 
+### Happiness
+
+Deep happy and shallow happy.
+
+What will make you happy most?
+
+What will make you happy now?
+
+One is usually in the way of the other.
+
+One must be sacrificed to achieve the other.
+
+### Training
+
+Somewhere out there, your adversary is training.
+
+If you stop training, you will be overtaken.
+
+Again.
+
+### DB Snatch
+
+Dumbell Snatch are great workouts.
+
+20 Reps wakes you up.
+
+2020-12-16
+
+### Another Dream
+
+September 5, 2020
+
+Joe rogan. 
+
+Terminator car toy.
+
+Visit the cemetery 
+
+### Make Your Own Sausage
+
+Tried this.
+
+I broke both my stick blender and my traditional blender.
+
+I need to take both those to the service center.
+
+### Legacy
+
+Transfer your wisdom to your kids through your writing.
+
+They'll crave it when you're gone.
+
 ### New Format
 
 I can make posts like these to dump my notes for future use.

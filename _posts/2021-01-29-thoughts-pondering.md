@@ -56,3 +56,11 @@ One mistake is going to cost you a lot of money.
 I'm a moron.
 
 If you watch enough of my videos, you'll realize that I'm a moron.
+
+### 47 Hours
+
+If you work, 13% more hours, you earn 80% more money.
+
+That's about 47 hours a week.
+
+That said, I'll need to spend 47 meaningful tasks weekly.

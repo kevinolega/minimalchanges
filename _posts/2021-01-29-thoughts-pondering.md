@@ -64,3 +64,9 @@ If you work, 13% more hours, you earn 80% more money.
 That's about 47 hours a week.
 
 That said, I'll need to spend 47 meaningful tasks weekly.
+
+### New Format
+
+I can make posts like these to dump my notes for future use.
+
+This is a better use of my resources than Evernote Premium and my notes app filled with unused notes.

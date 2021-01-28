@@ -27,7 +27,7 @@ Mastering the small straightforward moves are your best bet.
 
 Your home responsibilities are part of your work responsibilities until they aren't.
 
-If you work from home and you sacrifice foodprep, tidying and exercising, cut down on workhours and get the maintenance tasks in order.
+If you work from home and you sacrifice food prep, tidying and exercising, cut down on workhours and get the maintenance tasks in order.
 
 
 ### Dream???

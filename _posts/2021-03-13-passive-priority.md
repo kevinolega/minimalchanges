@@ -197,3 +197,27 @@ Thank you for reading.
 I'll edit this post after giving this more thought.
 
 Peace!
+
+FEEDBACK:
+
+It might just be me, but i dont get the post. I thought its about how passive income is low priority, but you talk about businesses, skills, mlms and ufc fighters but why is passive income low priority? You never say in your post, and im curious to know because its my retirement strategy.
+
+I still dont get it. Are you saying that there's a missing link between income from salary to passive income or are talking about income from salary to a business. Because passive income is the opposite of a business where you have to actively try to grow a business.
+As for me. I have been trying to grow my passive income little by little and if you dont like reading like me, there are loads of youtube channels that teach you from the basics to really technical concepts and thats why I was drawn to reading posts like these in the first place.
+
+MY REPLY:
+
+yeah. Thanks for pointing that out. I'm considering how we are often encouraged to jump from a salary to passive income. However there's a missing step. Like if you're watching a cooking show. You're chopping garlic and onions and sauteing the ingredients. Then suddenly the scenes cuts to the fully cooked meal. You'll notice chopped vegetables that wasn't discussed in the early part of the show. You also see that a sauce has been drizzled over the meal and the chef says this show is sponsored by shopee. I'm not going to bother teaching you what's in the chopped vegetables and the sauce. You can just buy from our sponsors.
+That being said. Understanding how businesses works enables us to understand which investments are good and which investments are horrible for us.
+
+Passive income unfortunately is a low resolution word that can mean anything. I also pointed out in the post that by pursuing passive income we make ourselves vulnerable to people selling false goods under the guise of passive income. Passive income is not the opposite of business from my experience. Passive income from my study can be the result of a mastery in business.
+
+FEEDBACK 2:
+
+this is a great intro to a book!! What im interested in here and i think can be a different post is:
+The final option is to test what you know so far and build micro-businesses that run on minimum-viable products and services.
+based on what i know, i should run these tiny businesses then see what could be successful?
+But what is it that i know that can be my basis in building said micro businesses. how to pick those microbusinesses. Should i be great at each to pursue it? Should what i know be translated to anything of value to other people or at the very least whatever i love that i know, i pursue so I can see where my skills can be pushed further?
+Hahah Im not sure im making sense but yeah thats whats on my mind!
+I guess in future posts in your blog or here you can list or tell us some books that go past through the motivational stuff and really gave you more than just an insight but left you more questions that made you want to learn more.
+Thanks!

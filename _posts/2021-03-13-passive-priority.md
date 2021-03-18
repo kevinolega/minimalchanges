@@ -48,9 +48,9 @@ Financial books have indoctrinated us to want to go from earning a salary to ear
 
 Why is that?
 
-We are now conditoned to buy this investment.
+We are now conditoned to buy "this" investment.
 
-We are now conditioned to participate in this business or industry.
+We are now conditioned to participate in "this" business or industry.
 
 When you invest in stocks, you are essentially owning a share of a company.
 
@@ -62,47 +62,45 @@ In other words, "you are not thinking for yourself in this situation."
 
 Let's go back to the skill tree of business owners.
 
-You need to know how to sell.
+Business owners need to know how to sell.
 
-You need to know how to market.
+Business owners need to know how to market.
 
-You need to know how to negotiate.
+Business owners need to know how to negotiate.
 
-You need to know how to hire people.
+Business owners need to know how to hire people.
 
-You need to know how to retain good people.
+Business owners need to know how to retain good people.
 
-You need to know how to train people.
+Business owners need to know how to train people.
 
-You need to know how to fire bad people.
+Business owners need to know how to fire bad people.
 
-You need to know how to manage company resources.
+Business owners need to know how to manage company resources.
 
-You need to know how to manage people.
+Business owners need to know how to manage people.
 
-You need to know how to manage money.
+Business owners need to know how to manage money.
 
-You need to know how to manage projects.
+Business owners need to know how to manage projects.
 
-You need to understand accounting and finance.
-
-
+Business owners need to understand accounting and finance.
 
 Got it.
 
 There are more skills needed to run a successful business but let's stop here.
 
-How good are you at these skills?
+How good are you at these skills that I listed above?
 
-How many skills don't you have?
+How many skills do you lack?
 
-Each skill that you don't have experience in is a blindspot when you are evaluating investments.
+Each missing skill or inexperience in a skill is a blindspot when you are evaluating investments.
 
-You probably heard about investors who go with their gut.
+You probably heard about how some big shot investors go with their gut.
 
-What you're not aware of is that these investors aren't gambling.
+The critical detail that you're not aware of is that these bigshot investors aren't gambling.
 
-These investors know the fundamentals of business and investing by heart.
+These well-known investors know by heart the fundamentals of business and investing.
 
 Here's an alternate proposal.
 
@@ -120,13 +118,19 @@ Learn to outsource part of your work.
 
 Learn to eventually outsource most of your work.
 
-Instead of jumping from earned income to passive income, build a bridge that will allow you to cross over.
+Learn to build a bridge that allows you to cross from employee to employer first, instead of attempting to jump from earned income to passive income.
 
 I call this bridge management income.
 
 Why isn't this concept popular?
 
 Learning to build income from management of your own resources is difficult to monetize for third parties.
+
+MLM recruiters are trying to get you to put all your faith in their company.
+
+Financial advisors are trying to get you to put all your faith in their company.
+
+Scammers are trying to do the same thing.
 
 I've had this concept in my head for several years.
 

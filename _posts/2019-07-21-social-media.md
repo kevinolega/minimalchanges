@@ -98,7 +98,7 @@ So somehow that is something that we all consider to be an acceptable trade off.
 
 My thoughts and opinions go to my websites.
 
-[Announcements go to my homepage](https://kevinolega.com/now)
+[Announcements go to my homepage](https://olega.org/now)
 
 [Career notes and advice gets documented on my job hunting tips website](https://callcentertrainingtips.com).
 

@@ -87,4 +87,4 @@ With that, I'll end here and share more lessons on my next posts.
 
 I hope to see you soon.
 
-Thanks for reading and if you've read up to here I give you a virtual fist bump and if you enjoyed this post, I'd love to stay in touch. [Please click here to sign up on my contact list](http://eepurl.com/oCUar) and I will email you some lessons and things I would love to share. 
+Thanks for reading and if you've read up to here I give you a virtual fist bump and if you enjoyed this post, I'd love to stay in touch. [Please click here to sign up on my contact list](https://sendfox.com/kevinolega) and I will email you some lessons and things I would love to share. 

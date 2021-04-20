@@ -93,4 +93,4 @@ I'll see you on the other updates.
 <button name="button" onclick="http://www.google.com">Click me</button>
 
 
-[1]:	http://kevinolega.com/now
+[1]:	https://olega.org/now

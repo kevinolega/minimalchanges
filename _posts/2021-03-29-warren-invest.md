@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Warren Buffet's Core Advice on Investing
+title: Warren Buffett's Core Advice on Investing
 date: 2021-03-29 02:33
 Tags: [ uncategorized, blog ]
 permalink: /core-invest/ 

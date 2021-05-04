@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: All Posts
+title: Blog
 date: 2021-05-04 22:44
 permalink: blog
 author: Kevin Olega 

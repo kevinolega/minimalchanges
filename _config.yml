@@ -13,7 +13,7 @@ minima:
   date_format: "%b %-d, %Y"
 
 # Tracker
-analytics: UA-18631092-1
+analytics: 'UA-18631092-1'
 
 # Comments
 disqus-shortname: minimalchanges

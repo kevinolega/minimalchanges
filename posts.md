@@ -2,7 +2,7 @@
 layout: page
 title: All Posts
 date: 2021-05-04 22:44
-permalink: posts
+permalink: blog
 author: Kevin Olega 
 --- 
 

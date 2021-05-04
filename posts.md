@@ -6,6 +6,9 @@ permalink: blog
 author: Kevin Olega 
 --- 
 
+<p><iframe src="https://duckduckgo.com/search.html?site=minimalchanges.com&prefill=Search minimal changes" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe></p>
+  
+
 <h1 class="page-heading">ARTICLES</h1>
   
   {{ content }}

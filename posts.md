@@ -5,6 +5,8 @@ date: 2021-05-04 22:44
 permalink: blog
 author: Kevin Olega 
 --- 
+<p><a href="https://sendfox.com/kevinolega" class="button focus">STAY IN TOUCH TO GET UPDATES</a></p>
+
 
 <p><iframe src="https://duckduckgo.com/search.html?site=minimalchanges.com&prefill=Search minimal changes" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe></p>
   
@@ -25,3 +27,4 @@ author: Kevin Olega
       </li>
     {% endfor %}
   </ul>
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>

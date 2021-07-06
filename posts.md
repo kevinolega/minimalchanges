@@ -5,11 +5,12 @@ date: 2021-05-04 22:44
 permalink: blog
 author: Kevin Olega 
 --- 
-<p><a href="https://sendfox.com/kevinolega" class="button focus">STAY IN TOUCH TO GET UPDATES</a></p>
 
-
-<p><iframe src="https://duckduckgo.com/search.html?site=minimalchanges.com&prefill=Search minimal changes" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe></p>
-  
+{% include introduction.html %}
+{% include topics.html %}
+{% include favorite-lessons.html %}
+{% include email-list-cta-button.html %}
+{% include duckduckgo-search.html %}
 
 <h1 class="page-heading">ARTICLES</h1>
   

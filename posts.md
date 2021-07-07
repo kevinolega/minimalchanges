@@ -6,12 +6,6 @@ permalink: blog
 author: Kevin Olega 
 --- 
 
-{% include introduction.html %}
-{% include topics.html %}
-{% include favorite-lessons.html %}
-{% include email-list-cta-button.html %}
-{% include duckduckgo-search.html %}
-
 <h1 class="page-heading">ARTICLES</h1>
   
   {{ content }}

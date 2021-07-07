@@ -6,8 +6,3 @@
 #
 layout: home
 ---
-{% include introduction.html %}
-{% include topics.html %}
-{% include favorite-lessons.html %}
-{% include email-list-cta-button.html %}
-{% include duckduckgo-search.html %}

@@ -1,9 +1,9 @@
 --- 
 layout: post 
-title: Do Today Well
+title: Do Well Today
 date: 2021-07-08 09:48
 Tags: [ instructions, blog ]
-permalink: dtw
+permalink: dwt
 author: Kevin Olega 
 --- 
 You can't change the past.

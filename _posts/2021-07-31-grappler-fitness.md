@@ -12,6 +12,10 @@ I'm interested in grappling and Jiujitsu in the past year and I'd like to get ba
 
 I'd like to be fit enough to join the program.
 
+I also realize that this fitness level helps with day to day functional movement like carrying groceries and carrying people during emergencies.
+
+You'll benefit from this program even if you're not interested in grappling.
+
 I've been doing research and assembled an exercise program.
 
 I'll use this page to update the program and share my progress.
@@ -66,11 +70,11 @@ You'll complete the workout in ten minutes.
 
 This is my goal. 
 
-Here's my recommendatinon.
+Here's my recommendation.
 
 Invest five minutes a day.
 
-We'll update the program with more things to do once you get to this leve.
+We'll update the program with more things to do once you get to this level.
 
 You can also repeat the program and do twice the amount of work to maintain ten minutes.
 

@@ -70,6 +70,10 @@ Here's my recommendatinon.
 
 Invest five minutes a day.
 
+We'll update the program with more things to do once you get to this leve.
+
+You can also repeat the program and do twice the amount of work to maintain ten minutes.
+
 Aim to complete five burpees every thirty seconds.
 
 Imagine one burpee every five seconds.

@@ -6,8 +6,6 @@ Tags: [ saving, blog ]
 permalink: save-money 
 author: Kevin Olega 
 --- 
-
-
 Are you struggling with minimalism or frugality?
 
 Thoughts on minimalism.

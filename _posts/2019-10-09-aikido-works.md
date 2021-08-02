@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Aikido Works BUT Not In The Way You Expect It
+title: Aikido works BUT not the way you expect
 date: 2019-10-09 12:32
 permalink: /aikido-works/ 
 img: 

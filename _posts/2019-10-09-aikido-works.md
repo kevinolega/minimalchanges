@@ -8,7 +8,7 @@ author: Kevin Olega
 --- 
 Aikido was my primary martial art.
 
-I learned some striking, got older, and stopped. 
+I learned some striking, got older, and stopped practicing martial arts. 
 
 I got into fitness, weightlifting, and CrossFit.
 

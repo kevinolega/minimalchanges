@@ -40,7 +40,7 @@ Head over [to the entrance](http://minimalchanges.com) for my latest post.
 
 Me at the start of the blog.
 
-![Kevin Olega Face](https://kevinolega.com/img/Kevin Green Shirt Headshot.jpg).
+![Kevin Olega Face](https://olega.org/images/Kevin Green Shirt Headshot.jpg).
 
 
 Old me

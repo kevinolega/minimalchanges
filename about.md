@@ -49,7 +49,7 @@ Hoarder me
 
 [Check out my instagram account for my recent photos](https://www.instagram.com/kevinolega/)
 
-You may read about what I'm doing now on[olega.org/now](https://olega.org/now)
+You may read about what I'm doing now on [olega.org/now](https://olega.org/now)
 
 {% include introduction.html %}
 {% include topics.html %}

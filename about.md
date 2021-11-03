@@ -7,7 +7,7 @@ published: true
 ---
 Last update: Wednesday, 20 March 2019 5:22 PM
 
-![IMAGE TEXT](https://kevinolega.com/images/Kevin.jpg).
+![IMAGE TEXT](https://kevinolega.com/img/Kevin.jpg).
 
 It is easy to lose perspective.
 
@@ -15,7 +15,7 @@ Motivation is fleeting.
 
 Direction tends to go off track after a long enough time period.
 
-There are lucid moments though when we have access to wisdom.
+We do, however, experience lucid moments though when we seem to have access to wisdom.
 
 Minimal Changes is a collection of lessons and epiphanies that I have documented and implemented in my life and published on this site as a way to remind myself to keep my shit together in the face of difficult situations.
 
@@ -40,7 +40,8 @@ Head over [to the entrance](http://minimalchanges.com) for my latest post.
 
 Me at the start of the blog.
 
-![Kevin Olega Face](https://lh6.googleusercontent.com/-m-NzUDxVo2Q/TpKBQ25woKI/AAAAAAAAEC8/qdRoWIzIvWM/s288/c6b303940a264e91ab734e8d15217313_7.jpg width="288" height="288") 
+![Kevin Olega Face](https://kevinolega.com/img/Kevin Green Shirt Headshot.jpg).
+
 
 Old me
 

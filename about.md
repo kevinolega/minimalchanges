@@ -43,14 +43,13 @@ Me at the start of the blog.
 ![Kevin Olega Face](https://olega.org/images/Kevin Green Shirt Headshot.jpg).
 
 
-Old me
+Hoarder me
 
 ![Traveling Packrat](http://farm5.static.flickr.com/4125/5053684332_03598716ae.jpg) 
 
 [Check out my instagram account for my recent photos](https://www.instagram.com/kevinolega/)
 
-You can visit my home online at [kevinolega.com](http://kevinolega.com)
-<button name="button" onclick="http://www.google.com">Click me</button>
+You may read about what I'm doing now on[olega.org/now](https://olega.org/now)
 
 {% include introduction.html %}
 {% include topics.html %}

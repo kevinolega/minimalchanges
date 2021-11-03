@@ -50,3 +50,9 @@ Old me
 
 You can visit my home online at [kevinolega.com](http://kevinolega.com)
 <button name="button" onclick="http://www.google.com">Click me</button>
+
+{% include introduction.html %}
+{% include topics.html %}
+{% include favorite-lessons.html %}
+{% include email-list-cta-button.html %}
+{% include duckduckgo-search.html %}

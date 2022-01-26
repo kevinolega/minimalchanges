@@ -52,4 +52,4 @@ Healthy living.
 Because of my frequent use of the word “NO” I have better control of my direction and less to worry about and I have more time for God and myself.
 I get to really take pleasure in the small things.
 
-If you liked this post send me an email. You can reach me at minimal changes at gmail dot com.
+If you liked this post send me an email. You can reach me at kevin at olega dot org.

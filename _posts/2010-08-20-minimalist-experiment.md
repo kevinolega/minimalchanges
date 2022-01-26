@@ -176,7 +176,7 @@ As I explored what it meant, I tried applying minimalism to my life and bit by b
 
 Everything was the same, situations and all, but things on my end started getting lighter and soon after curiosity became an objective.
 
-If you liked this post, send me an email to let me know. You can reach me at minimal changes at gmail dot com.
+If you liked this post, send me an email to let me know. You can reach me at kevin at olega dot org.
 
 **Updated Monday, September 10, 2018 and note from Kevin of the present day:**
 

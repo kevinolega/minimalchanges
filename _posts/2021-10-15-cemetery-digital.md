@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Cemetery Database
+title: Digital Graveyard
 date: 2021-10-15 07:08
 Tags: [ tech, tools, stories, strategies, blog ]
 permalink: pocket-cemetery 
@@ -53,3 +53,5 @@ It seems death activated his AOE skill.
 I used to argue with people that they don't value time with loved ones because they haven't experienced death.
 
 I reflect that when you hit my age, death will happen all around you in increasing frequency.
+
+Previous Title: Cemetary Database

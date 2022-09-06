@@ -73,4 +73,3 @@ You'll save ₱120k rent a year because you don't own many items.
 You'll likely earn an extra ₱200k a year selling products or services. 
 
 You'll save 120k a year on gym memberships and martial arts classes. You also save money on health costs because you're under peer pressure from being around people who care for their health and fitness. You're less likely to become a victim or a target—also, confidence against bullying skyrockets. 
-

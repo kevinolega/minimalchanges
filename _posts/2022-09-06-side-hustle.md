@@ -44,7 +44,7 @@ Fitness and martial arts help protect your body and general well-being. People a
 
 Learn to cook. Sell food. Start with simple recipes that don't require expensive gear or ingredients. I sold boiled eggs and later grew my menu at work. I expanded to egg-mayo sandwiches and eventually pasta and salad. I never recommend opening a restaurant because of rent and other costs. Do not open a restaurant. Have the food delivered or picked up by the customers.
 
-I wrote more about 
+I wrote more details about how I [made money selling eggs at work](https://callcentertrainingtips.com/eggs).
 
 ## Medium-term side-hustle
 

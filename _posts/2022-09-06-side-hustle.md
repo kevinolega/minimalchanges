@@ -40,23 +40,23 @@ Fitness and martial arts help protect your body and general well-being. People a
 
 ## Side-hustle build-order progression
 
-## Short-term side-hustle:
+## Short-term side-hustle
 
 Learn to cook. Sell food. Start with simple recipes that don't require expensive gear or ingredients. I sold boiled eggs and later grew my menu at work. I expanded to egg-mayo sandwiches and eventually pasta and salad. I never recommend opening a restaurant because of rent and other costs. Do not open a restaurant. Have the food delivered or picked up by the customers.
 
 I wrote more about 
 
-## Medium-term side-hustle:
+## Medium-term side-hustle
 
 Make a list of all your belongings. Take photos in good lighting. Sell everything on FB marketplace and Carousell. Lower the price of items you don't use to convert clutter into money. Increase the price of items you don't feel like letting go of. Use this activity to practice sales and writing skills.
 
 I wrote more details about [how to make money selling items](https://minimalchanges.com/sell-items)
 
-## Medium to long-term side-hustle:
+## Medium to long-term side-hustle
 
 Buy a smartphone and computer if you don't have those already. Practice writing and recording videos. Focus on: 1. Writing detailed step-by-step instructions. 2. Sharing stories. You'll improve after investing a few hours a day over a ten-year period. Then you'll afford an iPhone and a MacBook pro. You'll also unlock mass marketing skills using technology and possibly build a decent amount of followers and fans. You'll also gain access to unlisted higher-paying jobs. 
 
-## Long-term side-hustle:
+## Long-term side-hustle
 
 Pay a gym instructor to teach you fitness for two years (or attend a CrossFit class if you're on a tight budget) and (only if you can afford it) study Jujitsu. You'll likely spend ₱1,000,000 over twenty years. However, you'll build confidence, you'll meet VIPs, it's not as boring as golf, you can teach Jujitsu when you're older, and you can earn anywhere from ₱1M to 2M per year doing private lessons and holding classes in your garage.
 

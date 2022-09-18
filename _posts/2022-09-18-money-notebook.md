@@ -2,7 +2,7 @@
 # The money notebook is a simple, easy to use budgeting system that will help you get your finances in order. It takes about 10 minutes each week and will make all the difference.
 layout: post 
 title: Why you need a money notebook
-date: 2022-09-18 22:35
+date: 2022-09-17 22:35
 Tags: [ tech, tools, skills, strategies, blog ]
 description: A money notebook is a small notebook that you keep with you at all times to help track your spending, income, and bills. It's a simple tool that can help you make better decisions about your finances.
 permalink: money-notebook  

@@ -33,7 +33,8 @@ I have implemented many strategies and tactics and built this site in order to c
 - I pray and trap my negative thoughts on paper by journaling.
 - I read the reminders that I have set for myself.
 - I work on my main objectives and end the day by listing the tasks that need to be carried out tomorrow.
-- I go to the gym and participate in a CrossFit class.
+- I used go to the gym and participate in a CrossFit class.
+- I practice Jiujitsu at [Leap](https://instagram.com/olegajitsu)
 - I bike home and try to sleep early.
 
 Head over [to the entrance](http://minimalchanges.com) for my latest post.

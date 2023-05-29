@@ -90,6 +90,7 @@ I'm regularly updating this list so please return to this page or [sign up to re
 - Essentialism: The Disciplined Pursuit of Less by Greg McKeown 
 - Maps of Meaning by Jordan Peterson
 - Considerations by Colin Wright
+- The Art of Thinking Clearly by Rolf Dobelli
 
 ### Stage eight - Investing in more books
 

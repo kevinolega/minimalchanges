@@ -59,7 +59,9 @@ I have implemented many strategies and tactics and built this site in order to c
 - [Work quietly - only announce when you're done](https://minimalchanges.com/work-quietly/)
 - [Problems mean tasks](https://minimalchanges.com/problem-tasks/)
 - [What to do when you're not cooperating](https://minimalchanges.com/resistance/)
-
+- [Lessons I learned as a Christian](https://minimalchanges.com/christian)
+- [Awesome Guidelines](https://minimalchanges.com/awesome-guide/)
+- [Even God has haters](https://minimalchanges.com/godhater/)
 
 Head over [to the entrance](http://minimalchanges.com) for my latest post.
 

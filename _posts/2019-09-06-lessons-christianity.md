@@ -26,7 +26,9 @@ And make your life better.
 
 There are wealthy Christians and poor Christians. 
 
-I observed wealthy Christians and many of them do their best to apply what they learned and never stop studying.
+I observed many wealthy Christians and many of them do their best to apply what they learned and never stop studying.
+
+I've also observed wealthy people claiming to be Christians but never following the advice.
 
 **4. Jesus said, pick up your cross and follow me**. 
 
@@ -65,3 +67,22 @@ I went to weekly Bible study because it's good to discuss with people.
 Journalling, focusing on good advice, applying good advice to daily life, taking responsibility, asking questions so I understand, continuous learning and improvement and asking others has helped me pick up the skills that I needed to build the life that I want. 
 
 I'm sure there's more wisdom but I'll stop here for now.
+
+
+UPDATE 2023:
+
+God is the representation of the highest standard of the highest good. 
+
+Jesus of the personification of the perfect man, the spirit of self-sacrifice for the benefit of others and a bright future, forgiveness, victory, and the traits embodied in his stories.
+
+The devil is the spirit that tricks desparate mortals into sacrificing the opportunity to play "all future games" in exchange for an easy and probably shallow immediate win.
+
+Christians probably shouldn't separate God and the Devil.
+
+Despite the "Devil's" monstrous depiction, the image of the devil isn't something you should fear becoming. It's the form you should transform into when the situation calls for it.
+
+There's a popular Christian image of the lion and the lamb. I misunderstood Christianity as just being the lamb.
+
+A Christian is someone who possess both the brutality of the lion and the gentleness of the lamb.
+
+Eastern philosophy mentions "demon hand with Buddha heart" which translates as a skilled warrior's hand and a saint's heart.

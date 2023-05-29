@@ -5,7 +5,7 @@ permalink: /about/
 author: Kevin Olega
 published: true
 ---
-Last update: Wednesday, 20 March 2019 5:22 PM
+Last update: Tuesday, May 30, 2023
 
 ![IMAGE TEXT](https://kevinolega.com/img/Kevin.jpg).
 
@@ -38,7 +38,7 @@ I have implemented many strategies and tactics and built this site in order to c
 - I bike home and try to sleep early.
 
 
-### Here are my favorite writing
+### Here are my favorite lessons
 
 + [Books that shaped my life](https://minimalchanges.com/foundation-books)
 + [Frequently Asked Questions](https://minimalchanges.com/faq)
@@ -50,6 +50,15 @@ I have implemented many strategies and tactics and built this site in order to c
 + [Problem Solving on Paper](https://minimalchanges.com/psp/)
 + [Time Management Truths](https://minimalchanges.com/tmt/)
 + [Equally Valuable Sacrifice](https://minimalchanges.com/equal-sacrifice/)
++ [Perfectionism Means Never Starting](https://minimalchanges.com/imperfectly-initiated/)
++ [How Goblin Slayer reminded me of what's important](https://minimalchanges.com/goblin-slayer/)
++ [Advance Problems Solving Techniques](https://minimalchanges.com/aps/)
+- [Implement buy-in activities](https://minimalchanges.com/buy-in/)
+- [The true job of a master](https://minimalchanges.com/master-job/)
+- [Impossible means several easy tasks.](https://minimalchanges.com/impossible-easy/)
+- [Work quietly - only announce when you're done](https://minimalchanges.com/work-quietly/)
+- [Problems mean tasks](https://minimalchanges.com/problem-tasks/)
+- [What to do when you're not cooperating](https://minimalchanges.com/resistance/)
 
 
 Head over [to the entrance](http://minimalchanges.com) for my latest post.
@@ -61,14 +70,29 @@ Me at the start of the blog.
 
 Hoarder me
 
-![Traveling Packrat](http://farm5.static.flickr.com/4125/5053684332_03598716ae.jpg) 
+![Traveling packrat](http://farm5.static.flickr.com/4125/5053684332_03598716ae.jpg) 
 
-[Check out my instagram account for my recent photos](https://www.instagram.com/kevinolega/)
+[Check out my Instagram account for my recent photos](https://www.instagram.com/kevinolega/)
 
 You may read about what I'm doing now on [olega.org/now](https://olega.org/now)
 
-{% include introduction.html %}
-{% include topics.html %}
-{% include favorite-lessons.html %}
-{% include email-list-cta-button.html %}
+**INSTRUCTIONS**
+
+- Focus on [doing well today](https://minimalchanges.com/dwt).
+- Keep your area clean.
+- Keep your mind sharp through your body.
+- Dismantle problems on paper.
+
+**TOPICS**
+
+- Minimalist Lifestyle
+- Lifestyle Experiments
+- Tools and Tactics
+
+<!-- notes -->
+
+[What I'm doing now](https://olega.org/now)
+[Stay in touch](https://sendfox.com/kevinolega)
+
+
 {% include duckduckgo-search.html %}

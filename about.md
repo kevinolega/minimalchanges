@@ -37,6 +37,21 @@ I have implemented many strategies and tactics and built this site in order to c
 - I practice Jiujitsu at [Leap](https://instagram.com/olegajitsu)
 - I bike home and try to sleep early.
 
+
+### Here are my favorite writing
+
++ [Books that shaped my life](https://minimalchanges.com/foundation-books)
++ [Frequently Asked Questions](https://minimalchanges.com/faq)
++ [Why I de-prioritized passive income](https://minimalchanges.com/passive-income-priority/)
++ [Why you should create a 'no' page](https://minimalchanges.com/no/)
++ [Why my business card doesn't have a title](https://minimalchanges.com/labels/)
++ [Why I now avoid advance techniques](https://minimalchanges.com/basics-work/)
++ [Doing one thing to maintain momentum](https://minimalchanges.com/nozero/)
++ [Problem Solving on Paper](https://minimalchanges.com/psp/)
++ [Time Management Truths](https://minimalchanges.com/tmt/)
++ [Equally Valuable Sacrifice](https://minimalchanges.com/equal-sacrifice/)
+
+
 Head over [to the entrance](http://minimalchanges.com) for my latest post.
 
 Me at the start of the blog.

@@ -75,21 +75,27 @@ Once you hit your income target, it's essential to reflect before diving into th
 
 **4. Sleep Deprivation is a Goddamn Time Bomb**. 
 I genuinely wish I was exaggerating, but I'm not. I hate using adjectives and adverbs, but here's the naked truth: 99.9999% of those colossal mess-ups, those decisions that fucked me in the ass, and those moments when I felt the world crashing around me, occurred on days I was robbed of proper sleep. It's a formula for catastrophic disaster. Conversely, when I'm well-rested, everything seems to align just right. While preparing for a Jiujitsu competition, I walked into the gym with incomplete sleep, sparred with one of the guys who's my same level, and lost a match. I came to the gym the following week completely rested and clocked in 11 hours the night before, I went through him like a hot knife through butter. I was fucking unstoppable. And going through my journal entries, the benefits of being well rested apply to both physical and mental challenges.
+
 **5. Skipping Strength Training Dulls Your Edge**.
 
 You might think it's just about muscles and physical stamina, but hell no. Every time I've passed on a workout, it's like my brain took a hit too. The sharpness, the creativity, the onslaught of good ideas – all that diminishes when I neglect my body.
+
 **6. A Cocktail of High-Carb, High-Sugar Meals, No Training, and Zero Sleep?** 
 
 It's the express lane to self-sabotage. When you fill your diet with high-carb, high-sugar extenders and low-protein, low-quality meat products, pair it with a sedentary lifestyle, and deprive yourself of sleep, you're not just courting disaster — you're straight-up inviting it into your home, asking it to put its dirty shoes up on your coffee table. It's the ultimate "screw you" to your well-being. Don't play with this trifecta of doom.
+
 **7. Spending too much time with toxic family and friends is a giant obstacle to getting things done**. 
 
 I understand that cutting people off completely may not be an option for you or your situation. However, limiting meetups to 1, 2, or three hours and then leaving, citing some other commitment, has worked wonders. If you could afford to get your own place, do it sooner.
+
 **8. Trying to save money by making poor-quality tools work is an effective way to waste my life.** 
 
 As shared in a past post, I stayed at ₱10-15k jobs for over a decade, so I often settled for the cheapest tools like Android phones or second-hand gadgets. The downside is many of these devices broke down at the worst possible moment. I've lost jobs over my laptop getting a virus or having hardware issues. I've also bought more phones and spent time at repair shops when I used Android phones or Windows computers.
+
 **9. New tools and shiny software are attractive, but simpler is always better**. 
 
 Tools like Notion and other fancy to-do lists, though free, hurt your productivity more than using simple stuff like plain text editors. Learn to master simple tools like plain text editors, calendar apps, and Google Docs. A lot of these tools are old but still relevant. Think about it: older tools are still around because they work well. I noticed that the older a tool is, the more I could expect it to be useful longer. Another thing about new and trendy tools is that they're trends. If you put all your data in a free web service, you don't own the data. I was previously using an old diary/notes/calendar app from 2011 till 2016. I got busy and was unable to log in for a few months. When I logged in, the company was acquired by another. They changed business models, and all the data was deleted. All my notes and journal entries for five years disappeared. Since then, I have preferred keeping notes, photos, and important data on my hardware and server. I only use "trendy tools" if it's for client work, and I consider the information disposable. If I use trendy tools, I keep screenshots as proof of work that I could later add to my portfolio or for future client discussions. Otherwise, I keep using simple tools.
+
 **10. Using the gaps in my schedule exclusively for survival and profit**. 
 
 Over time, I realize that doing fun things like Jiujitsu, cycling, cooking, writing for fun, playing with my dogs, and leisure activities enable me to stay consistently productive. A full schedule of serious work and profit-generating activities is a sure way to burnout, depression, and eventually self-destructive thoughts. So, to maintain balance, I protect my training schedule with the same level of discipline I'd protect a client meeting.

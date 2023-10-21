@@ -47,6 +47,7 @@ For positive activities, the most common recurring items in my diary are:
 For negative activities, the most common are:
 
 **1. Games, social media, YouTube, and Netflix during work hours.**
+
 **2. Level 3 or 4 participation or commitment to casual activities I do for fun.** 
 
 Let me explain. Activities have different levels of participation. For example:

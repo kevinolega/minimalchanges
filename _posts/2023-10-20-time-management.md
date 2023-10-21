@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: My advice on time management
-date: 2023-10-21 09:07
+date: 2023-10-20 09:07
 Tags: strategies, blog
 permalink: time-management 
 author: Kevin Olega 

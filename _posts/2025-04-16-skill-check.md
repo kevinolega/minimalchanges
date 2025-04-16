@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Skill Check: Identify Your Strengths and Unfinished Skills
+title: Skill Check Identify Your Strengths and Unfinished Skills
 date: 2025-04-16 00:47
 description: A quick self-assessment to help you list the skills you've mastered and the ones you started but never finished. Useful for journaling, goal setting, or career planning. Revisit every 3 months.
 Tags: [ skills, blog ]

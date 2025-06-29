@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: "Before You Buy Another Online Course, Do This First"
+title: Do This Before You Buy Another Online Course
 date: 2025-06-30 04:34
 description: Before buying another online course, read this. How Self-Authoring helped me get unstuck, gain clarity, and raise my freelance income.
 tags: [self-authoring, online course, freelancer advice, career planning, personal growth, productivity, motivation, freelance mindset, life direction, goal setting, burnout recovery, blog
